@@ -235,6 +235,68 @@ p, li { max-width: var(--measure); }
 
 .event strong { display: block; margin-bottom: 4px; }
 
+.evidence-accordion {
+  display: grid;
+  gap: 12px;
+  margin-top: 22px;
+}
+
+.evidence-item {
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: #fbfbf9;
+  overflow: hidden;
+}
+
+.evidence-item summary {
+  cursor: pointer;
+  list-style: none;
+  padding: clamp(16px, 2.4vw, 22px) clamp(44px, 6vw, 58px) clamp(16px, 2.4vw, 22px) clamp(16px, 2.4vw, 22px);
+  position: relative;
+  font-weight: 760;
+  line-height: 1.28;
+}
+
+.evidence-item summary::-webkit-details-marker { display: none; }
+
+.evidence-item summary::after {
+  content: "+";
+  position: absolute;
+  right: clamp(16px, 2.4vw, 22px);
+  top: 50%;
+  transform: translateY(-50%);
+  width: 28px;
+  height: 28px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  color: var(--accent);
+  background: var(--paper);
+  font-weight: 700;
+}
+
+.evidence-item[open] summary::after { content: "−"; }
+
+.evidence-item[open] summary {
+  border-bottom: 1px solid var(--line);
+  background: var(--soft);
+}
+
+.evidence-body {
+  padding: clamp(18px, 2.8vw, 26px);
+}
+
+.evidence-body p:last-child { margin-bottom: 0; }
+
+.evidence-clean {
+  margin-top: 18px;
+  padding-top: 16px;
+  border-top: 1px solid var(--line);
+  font-weight: 650;
+  color: #273238;
+}
+
 .footer {
   max-width: var(--max);
   margin: 0 auto;
@@ -361,6 +423,7 @@ p, li { max-width: var(--measure); }
   .panel { padding: 18px; border-radius: 12px; }
   .callout { border-left-width: 3px; }
   .quote { border-left-width: 3px; }
+  .evidence-item summary { padding-right: 48px; }
   .source-text, .clinical { font-size: .76rem; }
 }
 
@@ -373,6 +436,8 @@ p, li { max-width: var(--measure); }
   body { background: #fff; font-size: 12pt; }
   .site-header, .footer { display: none; }
   main, .hero, .document-page { max-width: none; padding: 20px; }
-  .panel, .card { box-shadow: none; break-inside: avoid; }
+  .panel, .card, .evidence-item { box-shadow: none; break-inside: avoid; }
+  .evidence-item { display: block; }
+  .evidence-body { display: block; }
   a { color: #000; text-decoration: none; }
 }
