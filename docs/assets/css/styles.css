@@ -32,11 +32,8 @@ body {
 
 a { color: var(--link); text-decoration-thickness: 1px; text-underline-offset: 3px; }
 a:hover { color: #0f2f45; }
-
 a, button { touch-action: manipulation; }
-
 img, svg, video { max-width: 100%; height: auto; }
-
 table { width: 100%; }
 
 .site-header {
@@ -51,10 +48,10 @@ table { width: 100%; }
 .nav {
   max-width: var(--max);
   margin: 0 auto;
-  padding: 16px clamp(16px, 3vw, 32px);
+  padding: 14px clamp(16px, 3vw, 32px);
   display: flex;
   justify-content: space-between;
-  gap: 24px;
+  gap: 20px;
   align-items: center;
 }
 
@@ -115,9 +112,9 @@ h1 {
 
 .subtitle {
   max-width: 830px;
-  margin: clamp(20px, 3vw, 28px) 0 0;
+  margin: clamp(18px, 3vw, 28px) 0 0;
   color: #34383d;
-  font-size: clamp(1.06rem, 1.5vw, 1.35rem);
+  font-size: clamp(1.04rem, 1.5vw, 1.35rem);
 }
 
 main {
@@ -391,24 +388,141 @@ p, li { max-width: var(--measure); }
 
 @media (max-width: 980px) {
   .grid-three { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .nav { align-items: flex-start; flex-direction: column; gap: 12px; }
-  .nav-links { justify-content: flex-start; }
+  .nav { align-items: flex-start; flex-direction: column; gap: 10px; }
+  .nav-links { justify-content: flex-start; width: 100%; }
 }
 
 @media (max-width: 760px) {
-  body { line-height: 1.58; }
-  .site-header { position: static; }
-  .hero { padding-top: 34px; }
-  h1 { font-size: clamp(2rem, 10vw, 3.1rem); }
-  .subtitle { font-size: 1.04rem; }
+  body {
+    font-size: 15.75px;
+    line-height: 1.54;
+  }
+
+  .site-header {
+    position: static;
+    backdrop-filter: none;
+  }
+
+  .nav {
+    padding: 10px 12px 8px;
+    gap: 8px;
+  }
+
+  .brand {
+    font-size: .98rem;
+  }
+
+  .nav-links {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 6px;
+    font-size: .84rem;
+  }
+
+  .nav-links a {
+    background: #f1f0ec;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 9px 10px;
+    text-align: center;
+    color: #30363d;
+  }
+
+  .hero {
+    padding: 28px 14px 18px;
+  }
+
+  h1 {
+    font-size: clamp(1.9rem, 10vw, 2.8rem);
+    line-height: 1.05;
+  }
+
+  .subtitle {
+    font-size: .99rem;
+    line-height: 1.48;
+    margin-top: 16px;
+  }
+
+  main {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 48px;
+  }
+
   .grid-two, .grid-three { grid-template-columns: 1fr; }
-  .panel { box-shadow: none; }
+
+  .panel {
+    box-shadow: none;
+    padding: 16px;
+    border-radius: 12px;
+    margin: 12px 0;
+  }
+
+  .panel h2 {
+    font-size: 1.42rem;
+    line-height: 1.12;
+  }
+
+  .callout {
+    padding: 14px;
+    margin: 16px 0;
+    border-left-width: 3px;
+    border-radius: 0 10px 10px 0;
+  }
+
+  .quote {
+    padding-left: 14px;
+    border-left-width: 3px;
+    font-size: 1rem;
+  }
+
+  .evidence-accordion {
+    gap: 8px;
+    margin-top: 14px;
+  }
+
+  .evidence-item {
+    border-radius: 12px;
+  }
+
+  .evidence-item summary {
+    padding: 13px 46px 13px 14px;
+    font-size: .96rem;
+    line-height: 1.25;
+    min-height: 48px;
+    display: flex;
+    align-items: center;
+  }
+
+  .evidence-item summary::after {
+    right: 12px;
+    width: 26px;
+    height: 26px;
+  }
+
+  .evidence-body {
+    padding: 14px;
+  }
+
+  .evidence-body p,
+  .evidence-body li,
+  .panel p,
+  .panel li {
+    max-width: none;
+  }
+
+  .evidence-clean {
+    margin-top: 14px;
+    padding-top: 12px;
+  }
+
   .document-list li { display: block; }
   .document-list span { display: block; margin-top: 3px; text-align: left; }
   .source-meta { display: block; }
   .source-meta span { display: block; margin-bottom: 4px; }
   .document-meta { grid-template-columns: 1fr; gap: 2px; }
   .document-meta dd { margin: 0 0 8px; }
+
   .matrix {
     display: block;
     overflow-x: auto;
@@ -417,14 +531,18 @@ p, li { max-width: var(--measure); }
 }
 
 @media (max-width: 430px) {
-  .nav, .hero, main, .footer { padding-left: 14px; padding-right: 14px; }
-  .nav-links { gap: 4px; font-size: .9rem; }
-  .nav-links a { padding: 7px 8px; }
-  .panel { padding: 18px; border-radius: 12px; }
-  .callout { border-left-width: 3px; }
-  .quote { border-left-width: 3px; }
-  .evidence-item summary { padding-right: 48px; }
-  .source-text, .clinical { font-size: .76rem; }
+  .nav, .hero, main, .footer { padding-left: 10px; padding-right: 10px; }
+  .nav-links { font-size: .8rem; gap: 5px; }
+  .nav-links a { padding: 8px 7px; }
+  .panel { padding: 14px; }
+  .card { padding: 14px; border-radius: 12px; }
+  .source-text, .clinical { font-size: .74rem; }
+}
+
+@media (max-width: 360px) {
+  .nav-links { grid-template-columns: 1fr; }
+  h1 { font-size: 1.84rem; }
+  .subtitle { font-size: .95rem; }
 }
 
 @media (min-width: 1280px) {
