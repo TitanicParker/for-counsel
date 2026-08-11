@@ -33,8 +33,13 @@ These files are evidential materials. They are not argument pages, submissions, 
 
 - `gmail-2017-10-24-medical-assessment.md` — contemporaneous patient email recording medication withdrawal/reintroduction, incomplete symptom control at the lower dose, podiatry appointment and major physical improvement.
 - `complaint-2025-03-19.md` — redacted transcript of the attached formal complaint submitted on 19 March 2025.
+- `qps-letter-2025-04-15.md` — QPS complaint-routing letter recording that Sinemet CR had been an effective analgesic for foot pain and that the complaint was routed as clinical judgment.
+- `counihan-response-2025-05-07.md` — signed clinician response stating “As I have not been involved in your care” and forwarding the concerns to Dr Monaghan.
 - `gdpr-article16-2025-06-12.md` — redacted transcript of the Article 16 rectification/annotation request.
+- `medical-council-monaghan-response-2025-07-29.md` — Dr Monaghan's later regulatory submission, including his account of Prof Counihan's 2017 advice at a Neurology Weekly Complex Case meeting.
+- `medical-council-counihan-decision-2025-07-29.md` — Medical Council CEO decision using the narrower wording that Dr Counihan was “not directly involved in your care.”
 - `gdpr-article18-2025-08-04.md` — transcript of the Article 18 restriction notice sent to GUH/HSE DPO and QPS.
+- `par-status-2025-08-06-via-patient-advocacy.md` — Patient Advocacy Service email reproducing the hospital's 6 August statement that the PAR was being prepared for August SIMT discussion; derivative route to the hospital communication.
 - `simt-outcome-2025-09-03.md` — redacted transcript of the two-page SIMT outcome PDF.
 - `qps-response-2026-01-26.md` — transcript of the January 2026 QPS governance response.
 - `genetics-prkn-2026-02-04.md` — redacted transcript of the St Vincent's specialist genetic letter stating that Parkinsonism and dystonia are due to compound heterozygous Parkin mutations.
@@ -42,6 +47,8 @@ These files are evidential materials. They are not argument pages, submissions, 
 ## Source-status caution
 
 Some entries above are faithful redacted transcriptions made from original Gmail messages, attachments, PDFs or photographed letters directly inspected in the project. The original message, attachment, PDF or image remains the controlling source. Where practical, a properly redacted native copy should also be preserved in the permanent library.
+
+A later source may be primary evidence of what was said or decided at that later date while remaining derivative as proof of an earlier historical clinical event. In particular, the 2025 Counihan, Monaghan and Medical Council documents must be kept distinct from any native 2017 Complex Case Meeting or clinician-to-clinician correspondence that may later be obtained.
 
 ## Publication status
 
