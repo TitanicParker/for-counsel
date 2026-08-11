@@ -7,6 +7,7 @@ This directory records the evidential substrate identified in the existing `for-
 ## Files
 
 - [`source-inventory.md`](source-inventory.md) — repository-wide and archive source inventory, with source classification and proposition-level limits.
+- [`source-inventory-continuity-supplement.md`](source-inventory-continuity-supplement.md) — additional 2019/2020/2022 longitudinal records relevant to continuity but unnecessary for the minimum pack.
 - [`source-genealogy.md`](source-genealogy.md) — source-dependency chains and independent evidential-origin counts for the twelve controlling propositions.
 - [`source-packs-and-chains.md`](source-packs-and-chains.md) — minimum hinge, continuity, provenance, governance and GDPR source packs/chains.
 - [`knowledge-and-gaps.md`](knowledge-and-gaps.md) — contemporaneous knowledge/notice chronology and controlling disclosure gaps.
