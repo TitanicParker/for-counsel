@@ -1,0 +1,1463 @@
+CLEAN CASE — FULL KNOWLEDGE / PROVENANCE CAPTURE
+Prepared: 11 August 2026
+Purpose: Conversation-continuity and consolidation source file.
+Status: WORKING PROVENANCE DOCUMENT — not a pleading, not an expert report, not a final legal theory.
+
+======================================================================
+1. PURPOSE OF THIS FILE
+======================================================================
+
+This file captures, in one place, the substantive knowledge, evidential method, source architecture, working hypotheses, forensic findings, unresolved questions, and intended next steps developed across the current project conversation.
+
+The purpose is continuity and provenance.
+
+It is intended to:
+- preserve the reasoning developed before consolidation;
+- prevent loss of source distinctions and chronology;
+- allow the next conversation or working session to resume without reconstructing the project from fragments;
+- serve as the bridge from the existing evidential fact register into a consolidated working evidence-and-proposition document;
+- preserve the exact distinction between documentary facts, forensic findings, hypotheses, propositions, expert questions and unresolved source requirements.
+
+This file is not intended to:
+- convert allegations into facts;
+- treat repeated statements as independent corroboration;
+- turn later genetic confirmation into proof of what clinicians knew in 2017;
+- decide negligence, breach, causation or dishonesty;
+- replace native sources.
+
+The intended destination after the present investigative cycle:
+A CONSOLIDATED WORKING EVIDENCE AND PROPOSITION DOCUMENT
+with the architecture:
+
+DOCUMENTARY ATOMS
+→ CHRONOLOGICAL / DECISION-STATE RECONSTRUCTION
+→ SOURCE GENEALOGY
+→ FORENSIC FINDINGS
+→ TESTED PROPOSITIONS
+→ MISSING-SOURCE QUESTIONS
+→ EXPERT QUESTIONS
+→ COUNSEL-FACING CASE ARCHITECTURE
+
+The present file should be preserved as project provenance even after consolidation.
+
+======================================================================
+2. CORE EVIDENTIAL METHOD
+======================================================================
+
+Project method:
+
+FIND SOURCE
+→ PRESERVE SOURCE
+→ CLASSIFY SOURCE
+→ TRACE GENEALOGY
+→ TEST PROPOSITION
+→ REFINE ARGUMENT
+→ MAKE IT EASIER TO SEE
+→ IDENTIFY NEXT SOURCE
+→ REPEAT
+
+Strict principles:
+
+1. Repetition by later actors is not independent corroboration.
+2. A clinician note proves the clinician recorded/said/observed something; it does not automatically prove the underlying proposition.
+3. A patient history inside a clinician note proves that the note records the patient saying it.
+4. Institutional decisions prove that an institution made or recorded a decision; they do not automatically prove the historical premises underlying it.
+5. “Independent source origin” is about genealogy, not substantive truth.
+6. Medical significance, standard of care, breach and causation remain expert-dependent.
+7. Documentary content must be described with cautious verbs: records, states, supports, is consistent with.
+8. Do not call all entries “facts” as if homogeneous historical truths. Prefer documentary entries/propositions/events.
+9. The project is building an evidential fact register and tested proposition architecture, not a pleading.
+10. Later information must not be silently back-projected into earlier decision-states.
+
+Existing evidence labels include:
+PRIMARY FACT
+PATIENT ACCOUNT
+CLINICAL OPINION
+INFERENCE
+ADVERSE-QUALIFYING
+EXPERT QUESTION
+UNKNOWN-SOURCE REQUIRED
+DERIVATIVE-INSTITUTIONAL
+
+Domains:
+CLINICAL_EVIDENCE
+PROCEDURAL_RIGHTS_EVENT
+GOVERNANCE_PROCESS_EVENT
+REGULATORY_PROCESS_EVENT
+SOURCE_PROVENANCE_EVENT
+
+======================================================================
+3. REGISTER / WORKING-DOCUMENT STATE
+======================================================================
+
+The evidential register previously reached approximately 283 documentary entries/events.
+
+Important:
+The count is not itself a measure of evidential strength.
+The entries are not 283 independent truths.
+Many share source ancestry.
+Some are procedural or governance events.
+Some are derivative.
+Some are source-provenance events.
+Some are clinical facts only in the sense that a record says something.
+
+Current direction:
+Do not increase the count merely because forensic analysis reveals new significance.
+Instead:
+- revise temporal status;
+- revise genealogy;
+- revise qualification;
+- move structural/forensic conclusions to the forensic layer;
+- build propositions above the atom layer.
+
+The existing register should remain the foundation of the consolidated working document.
+
+Expected post-consolidation architecture:
+Layer 1 — Documentary atoms
+Layer 2 — Source genealogy
+Layer 3 — Forensic findings
+Layer 4 — Tested propositions
+Layer 5 — Counsel-facing case architecture
+
+Outstanding quantitative exercise:
+For all register entries, classify:
+A. literally/directly present in the discharge document;
+B. elsewhere but ultimate evidential ancestry originates in the discharge document;
+C. genuinely independent of the discharge document.
+
+Embedded independent reports such as the DaTSCAN radiology report must remain separate source roots even if physically embedded in the discharge PDF.
+
+======================================================================
+4. JULY 2017 DISCHARGE DOCUMENT — WHAT IT IS
+======================================================================
+
+The July 2017 discharge/neurology document is now understood as a cumulative administrative-clinical artefact rather than a single contemporaneous snapshot.
+
+Important chronology:
+- Admission: Monday 3 July 2017.
+- Physical discharge: 11 July 2017.
+- Explicit results/transcription marker: 9 July 2017 at 16:12.
+- MRI brain/cervical spine and abdominal ultrasound: 10 July.
+- DaTSCAN: 13 July.
+- DaTSCAN addendum: 13 July at 21:41.
+- Final visible signature state: 17 July at 19:30:34.
+
+The completed document therefore contains information that did not exist at physical discharge and certainly did not exist at the beginning of the admission.
+
+“Administrative collage” is the chosen descriptive term:
+A completed clinical/administrative artefact assembled across dates, functions, authorship layers and source roots, whose final presentation is more unitary than the underlying chronology.
+
+This does NOT imply:
+- fabrication;
+- dishonest alteration;
+- impropriety;
+- bad faith.
+
+It DOES imply:
+- the final artefact cannot safely be treated as the exact 11 July decision-state;
+- later evidence can appear beside earlier decisions and create retrospective coherence;
+- authorship and timing of some load-bearing fields remain uncertain;
+- source genealogy must be reconstructed before using the document as proof of collective decision-making.
+
+The document has been assessed as very strongly / very highly displaying cumulative-layering characteristics.
+
+Central structural finding:
+THE FINAL DOCUMENT’S COHERENCE EXCEEDS WHAT CAN PRESENTLY BE SHOWN TO HAVE BEEN CONTEMPORANEOUSLY AVAILABLE AT EARLIER DECISION POINTS.
+
+======================================================================
+5. WHAT THE DISCHARGE DOCUMENT STRONGLY RECORDS
+======================================================================
+
+Core clinical record:
+- severe young-onset parkinsonian syndrome;
+- markedly increased tone;
+- lead-pipe rigidity;
+- gross bradykinesia;
+- strikingly abnormal gait;
+- minimal tremor;
+- bilateral/symmetrical disease;
+- absent/reduced arm swing;
+- axial rigidity;
+- possible symptom onset many years earlier;
+- unusual age of onset;
+- atypical features.
+
+Lower-limb / gait:
+- “footdrop appearance somewhat suggestive of a dystonic posture – NOT FOOT DROP”;
+- left lower limb kicks out like foot drop;
+- gait described later in DaTSCAN indication as almost dystonically unusual.
+
+Foot history / findings:
+- corns;
+- calluses;
+- fallen arches;
+- burning;
+- foot pain;
+- longstanding foot treatment;
+- pes planus;
+- hammertoes;
+- patient distinguished foot pain from leg tension;
+- possible separate / peripheral explanation considered;
+- possible alcohol-related peripheral neuropathy considered;
+- relationship stated to be “Not clear.”
+
+Podiatry:
+- GP asked to refer to podiatry/chiropody;
+- SHO had tried to arrange it in hospital;
+- later short section says podiatry referral “has been sent.”
+Exact completion/actor/date remain uncertain.
+
+Genetics:
+The document specifically raises recessive young-onset genetic causes and expressly identifies:
+- PRKN/PARK2;
+- PARK6/PINK1;
+- PARK7;
+- PARK9.
+
+Reasons used in PRKN reasoning include:
+- very young onset;
+- marked symmetry;
+- akinetic-rigid presentation;
+- lack of dominant family history;
+- preserved/excellent cognition.
+
+The author expressly says:
+“I am not a movement disorders neurologist.”
+
+Treatment:
+- dopamine agonists / levodopa are deliberately deferred;
+- rationale focuses on young age, dyskinesia, impulse-control and long-term treatment concerns;
+- clonazepam / rasagiline / procyclidine staged;
+- possible substantial levodopa benefit expressly acknowledged;
+- text says it is possible Liam may do very well with levodopa;
+- text says: “Indeed in time to come - we may regret that we did not start this earlier.”
+- text records “good understanding” of why levodopa/agonists were being delayed.
+
+Important scope point:
+“Good understanding” is narrow.
+It does not establish:
+- agreement with diagnosis;
+- agreement that feet were separate;
+- agreement with podiatry;
+- agreement with duration of treatment deferral;
+- global consent.
+
+“No disadvantage” wording is also narrow:
+It is scoped to neuropathology/progression risk, not current symptoms, pain, function, work, falls or quality of life.
+
+======================================================================
+6. PRKN / PARK2 — WHY IT HAS BECOME CENTRAL
+======================================================================
+
+The emerging case is NOT:
+“They completely missed PRKN.”
+
+That is contradicted by the record.
+
+The record expressly considers PRKN/PARK2 in 2017.
+
+Later material records a more developed attribution:
+PARK2/PRKN is represented as what “we/Prof Healy suspect is the cause.”
+
+The later 2026 specialist result records:
+Parkinsonism and dystonia due to compound heterozygous Parkin mutations.
+
+Safe retrospective use:
+- confirms eventual PRKN/Parkin cause;
+- gives coherence to earlier PRKN suspicion;
+- confirms later specialist attribution of both Parkinsonism and dystonia to Parkin mutations;
+- does not prove Monaghan knew the genetic result in 2017;
+- does not prove all historical foot pain was dystonia;
+- does not prove negligence or dishonesty.
+
+External real-world context researched:
+Daniel Healy and Timothy Counihan were co-authors on a 2013 JAMA Neurology paper concerning parkin/PARK2 disease.
+Healy had movement-disorder / neurogenetic interests.
+Counihan had substantial Parkinson’s / movement-disorder work.
+This external context matters because the clinicians named around Liam’s case were not generic neurologists unrelated to parkin disease.
+
+The documentary significance:
+- Monaghan raises PRKN himself;
+- Monaghan says he is not a movement-disorders neurologist;
+- Counihan/neurology colleagues are invoked in the treatment decision architecture;
+- Healy is consulted for genetics / second opinion;
+- later record attributes PRKN causal suspicion to “we/Prof Healy.”
+
+Emerging expert question:
+When a treating neurologist had already identified PRKN as plausible, recorded dystonic-looking lower-limb phenomena, acknowledged his own movement-disorder subspecialty limitation, and had access to clinicians with directly relevant PRKN/movement-disorder expertise, what assessment, referral, trial or specialist integration should reasonably have occurred?
+
+This is an expert question, not a concluded breach proposition.
+
+======================================================================
+7. THE 3/4 JULY BOTTLENECK
+======================================================================
+
+This has become one of the principal organizing features of the case.
+
+Reconstruction supplied in conversation:
+- Monday 3 July, approximately 15:30: Monaghan first sees Liam.
+- By about 17:30–18:00: major physical neurological examination substantially complete; Parkinsonism recognized.
+- Overnight: little time for major new information.
+- Tuesday 4 July, early morning: Complex Case Meeting.
+- By approximately 10:00: Liam says he was told that levodopa would not be given, with Professor Counihan’s advice invoked.
+
+Important evidential development:
+The final discharge summary itself records a Neurology Complex Case Meeting but does not date it.
+A later 2025 Monaghan statement says the relevant Complex Case Meeting “would have been on a Tuesday morning, likely during Mr Moloney’s first admission in 2017.”
+Because the first admission began Monday 3 July, Tuesday 4 July becomes the likely meeting date.
+
+The recent forensic report assessed:
+- Tuesday 4 July as likely;
+- early departmental no-levodopa commitment as moderately supported;
+- exact clock times and detailed meeting content remain unproved;
+- no major new information is visible entering the record overnight.
+
+This creates the temporal asymmetry:
+
+SHORT PRE-DECISION WINDOW:
+roughly one afternoon/evening plus overnight
+
+versus
+
+LONGER POST-DECISION PERIOD:
+most of the rest of the admission, during which investigations, genetic reasoning, foot reasoning and document elaboration accumulated.
+
+Central question:
+WHAT DID THE DEPARTMENT KNOW WHEN IT MADE THE EARLY TREATMENT DECISION, AND WHAT BECAME KNOWN OR MORE FULLY ARTICULATED AFTERWARD?
+
+This must replace any flattening description of the episode as simply “an eight-day assessment.”
+
+======================================================================
+8. EARLY MANAGEMENT / LATER DIAGNOSTIC ELABORATION
+======================================================================
+
+Emerging source-architecture hypothesis:
+
+Severe parkinsonism was recognized immediately.
+A departmentally framed no-levodopa strategy was likely fixed very early, around the Tuesday-morning Complex Case Meeting.
+The full PRKN/dystonia/painful-foot formulation visible in the final document cannot presently be shown to have existed at that moment.
+The rest of the admission then accumulated:
+- broader investigation;
+- mature genetic discussion;
+- PRKN/PARK2 specificity;
+- dystonic-looking lower-limb findings;
+- foot structural findings;
+- unresolved peripheral/alcohol possibilities;
+- podiatry disposition;
+- later MRI/US;
+- later post-discharge DaTSCAN.
+
+The accessible record does not visibly show a later formal reopening of the early treatment/foot frame as these later features became more salient.
+
+Recent forensic rating:
+MODERATELY SUPPORTED AS A SOURCE-ARCHITECTURE HYPOTHESIS.
+Not established as a complete historical sequence.
+
+Important refinement:
+The strongest benign reconstruction and the early-frame reconstruction are not mutually exclusive.
+
+A decision can begin as:
+reasonable,
+provisional,
+ordinary,
+departmentally cautious,
+
+and later become problematic only if later evidence does not trigger adequate reconsideration.
+
+Therefore the key question is increasingly:
+NOT “Was the Tuesday decision necessarily wrong?”
+BUT:
+“WHAT HAPPENED WHEN LATER INFORMATION ARRIVED?”
+
+======================================================================
+9. THERAPEUTIC LEVODOPA VS DIAGNOSTIC LEVODOPA
+======================================================================
+
+This distinction is now mandatory.
+
+Therapeutic question:
+Should a very young patient be placed on ongoing levodopa/dopamine agonist therapy?
+
+The document clearly addresses this:
+- long-term dyskinesia concern;
+- impulse-control / behavioural concern;
+- young age;
+- desire to delay exposure;
+- staged alternative therapy;
+- possible future benefit acknowledged.
+
+Diagnostic question:
+Could a short, observed dopaminergic trial have provided information about whether disputed symptoms, including lower-limb/foot phenomena, were dopaminergically responsive?
+
+The document does NOT separately address this.
+It does not record:
+- a short diagnostic challenge;
+- a decision rejecting a diagnostic challenge;
+- symptom-specific baseline;
+- pre/post assessment;
+- foot-response testing;
+- objective response measures.
+
+Safe proposition:
+THE RECORD CLEARLY DOCUMENTS THERAPEUTIC DEFERRAL; IT DOES NOT DEMONSTRATE SEPARATE CONSIDERATION OF DIAGNOSTIC LEVODOPA USE.
+
+Practical consequence:
+No inpatient levodopa-response information was generated.
+
+Clinical significance:
+EXPERT DEPENDENT.
+
+Do not state:
+“They consciously withheld a diagnostic levodopa challenge”
+unless a source proves that.
+
+Do ask:
+If levodopa was removed from immediate management very early, did that also remove a potentially informative diagnostic variable without the record recognising that consequence?
+
+======================================================================
+10. THE FOOT-INTEGRATION GAP
+======================================================================
+
+This has become one of the central tested propositions.
+
+The final document contains, in the same episode:
+- painful feet;
+- corns;
+- calluses;
+- burning;
+- fallen arches;
+- pes planus;
+- hammertoes;
+- longstanding leg tension/posturing;
+- dystonic-looking gait;
+- “NOT FOOT DROP”;
+- possible peripheral explanation;
+- possible alcohol explanation;
+- PRKN/PARK2;
+- marked symmetry;
+- very young onset;
+- preserved cognition;
+- “Not clear.”
+
+Yet there is no explicit documented bridge:
+
+PRKN/PARK2
++
+LOWER-LIMB DYSTONIA
++
+PAINFUL FOOT PHENOTYPE
+→ INTEGRATED NEUROLOGICAL ASSESSMENT / TEST / PLAN
+
+The phrase developed in the forensic reports:
+“PROXIMITY WITHOUT DOCUMENTED SYNTHESIS.”
+
+This is stronger and safer than saying the feet were obviously PRKN dystonia in 2017.
+
+The record does not demonstrate:
+- targeted painful-dystonia assessment;
+- movement-disorders foot review;
+- explicit PRKN-foot linkage;
+- short diagnostic levodopa trial;
+- clear neurological follow-up plan to resolve foot causation;
+- explicit statement that podiatry was adjunctive only.
+
+Important:
+Structural foot pathology is real and compatible with mixed pathology.
+The proposition is NOT that podiatry was inherently inappropriate.
+The proposition is that the neurological relationship remained unresolved.
+
+======================================================================
+11. PODIATRY WITHOUT DOCUMENTED NEUROLOGICAL RESOLUTION
+======================================================================
+
+Safe current proposition:
+
+Podiatry became the practical foot pathway while the relationship of the feet to the neurological syndrome remained expressly “Not clear.”
+
+The record does not show whether podiatry was:
+- adjunctive;
+- provisional;
+- symptomatic only;
+- or effectively dispositive.
+
+The missing reasoning bridge:
+Why was podiatry sufficient as the practical pathway despite:
+- dystonic-looking gait;
+- unresolved causation;
+- young-onset parkinsonism;
+- PRKN consideration?
+
+This is not yet a standard-of-care conclusion.
+It is a documentary/process question.
+
+Important counterfactual:
+If the working question was:
+“How do we treat corns, calluses, pes planus and foot pain?”
+then podiatry is coherent.
+
+If the working question was:
+“Could these painful feet be part of the dystonic young-onset parkinsonian syndrome we think may be PRKN?”
+then podiatry alone cannot answer that neurological question.
+
+The classification of the problem determined the next question asked.
+
+======================================================================
+12. COMPLEX CASE MEETING — WHY IT IS NOW A HINGE
+======================================================================
+
+The final discharge document records:
+“Seen at the Neurology Complex case meeting with my colleagues — likely an IPD albeit with atypical features.”
+
+Later Monaghan reconstruction:
+The meeting would have been Tuesday morning during the first 2017 admission.
+
+This makes Tuesday 4 July likely.
+
+Missing:
+- native agenda;
+- minutes;
+- attendance list;
+- case presentation;
+- exact conclusions;
+- whether feet were discussed;
+- whether dystonia was discussed;
+- whether PRKN was discussed;
+- whether Counihan attended;
+- what Counihan advised;
+- whether levodopa was discussed as therapeutic, diagnostic or both.
+
+Critical bifurcation:
+
+IF THE FEET WERE CONSIDERED:
+Where is the reasoning explaining why their neurological relationship remained unresolved while podiatry became the practical pathway?
+
+IF THE FEET WERE NOT CONSIDERED:
+Why was a central painful bilateral-foot component omitted from the complex neurological review of a patient with dystonic-looking gait?
+
+This bifurcation is analytically important even though it does not itself prove breach.
+
+The meeting record has moved from “useful missing source” to potentially decisive source.
+
+======================================================================
+13. COUNIHAN / COLLECTIVE AUTHORITY
+======================================================================
+
+The document uses:
+- “we”;
+- “our team”;
+- “my colleagues”;
+- “Neurology Complex Case Meeting”;
+- Professor Counihan;
+- neurology colleagues.
+
+Treatment wording:
+“The greatest of care has been advised with Prof Counihan and Neurology Colleagues…”
+
+The document therefore presents levodopa deferral as carrying departmental/consultative authority, not merely Monaghan’s private preference.
+
+But the accessible source does NOT independently establish:
+- Counihan personally saw Liam;
+- Counihan examined the feet;
+- Counihan attended the meeting;
+- Counihan ordered levodopa withheld;
+- exact words or scope of Counihan’s advice;
+- whether advice related to chronic therapy only or also diagnostic use.
+
+Safe proposition:
+APPARENT COLLECTIVE AUTHORITY EXCEEDS ACCESSIBLE SOURCE ROOTS.
+
+Important asymmetry:
+Collective authority is invoked strongly for the treatment strategy.
+Equivalent collective consideration of the painful-foot phenotype is not demonstrated.
+
+======================================================================
+14. “REGRET” — CURRENT SIGNIFICANCE
+======================================================================
+
+The sentence:
+“It is possible that he will do very well with levodopa…”
+and
+“Indeed in time to come - we may regret that we did not start this earlier.”
+
+This is NOT an admission of negligence or error.
+
+It does demonstrate:
+- awareness of possible substantial benefit;
+- awareness of an opportunity cost to delay;
+- recognition that the decision involved a trade-off.
+
+Unknown:
+- when the sentence was drafted;
+- whether the same thought was present Tuesday morning;
+- what symptoms were expected to improve;
+- whether foot pain was contemplated;
+- what review trigger was set;
+- whether diagnostic information was considered.
+
+The record does not document:
+- symptom-specific baseline;
+- objective review threshold;
+- a defined trigger for starting levodopa;
+- a short-interval reassessment aimed at the foot question.
+
+This matters to completeness of decision reasoning.
+
+======================================================================
+15. ADMINISTRATIVE CLOSURE BEFORE CLINICAL RESOLUTION
+======================================================================
+
+This is now one of the strongest organizing hypotheses.
+
+Working formulation:
+
+Severe parkinsonism was recognized almost immediately.
+An operative Parkinson’s-disease framework appears to have crystallized very early.
+That framework governed:
+- treatment strategy;
+- discharge planning;
+- work advice;
+- LTI activity;
+- referrals;
+- follow-up;
+while substantial uncertainty remained about:
+- subtype;
+- aetiology;
+- PRKN;
+- lower-limb dystonia;
+- the painful-foot phenotype;
+- peripheral/structural contribution.
+
+The narrative retained uncertainty.
+The administrative outcome nevertheless became settled enough to act upon.
+
+Phrase:
+UNCERTAINTY REMAINED CLINICALLY WHILE CERTAINTY GOVERNED ADMINISTRATIVELY.
+
+This is “premature administrative crystallization.”
+
+Safe refined proposition:
+
+PREMATURE ADMINISTRATIVE CRYSTALLIZATION:
+Severe parkinsonism was recognized immediately and an operative Parkinson’s-disease framework appears to have crystallized very early in the admission, likely around the Tuesday-morning departmental review. That framework governed treatment strategy, discharge planning and associated administrative actions while important clinical questions—including aetiology, PRKN/PARK2, the meaning of dystonic-looking lower-limb findings, and the relationship of the painful feet to the neurological syndrome—remained unresolved. The final discharge document then incorporated later-developed diagnostic material and post-discharge testing around that pre-existing framework, producing greater apparent coherence, authority and finality than the underlying contemporaneous decision sequence can presently be shown to have possessed.
+
+This remains a hypothesis to be tested against native contemporaneous records.
+
+======================================================================
+16. IDIOPATHIC PARKINSON’S DISEASE — WHY THE WORD MATTERS
+======================================================================
+
+The phrase “likely an IPD albeit with atypical features” is attributed to the Complex Case Meeting.
+
+Later 2025 complaint response says:
+“it is our belief and understanding that Liam has idiopathic Parkinson’s disease.”
+
+Later wording also says in substance:
+“we have known” Liam has Parkinson’s and would be dopamine responsive.
+
+But earlier material contains:
+- PRKN/PARK2 as a live causal hypothesis;
+- autosomal recessive disease;
+- atypical features;
+- later attribution that PARK2/PRKN is what “we/Prof Healy suspect is the cause.”
+
+Therefore:
+“Idiopathic” should not automatically be treated as a settled aetiological conclusion in 2017.
+
+Possible explanations:
+- loose clinical terminology;
+- syndrome-level shorthand;
+- administrative category;
+- working diagnosis while genetic confirmation unavailable;
+- later diagnostic simplification.
+
+Important proposition:
+
+IDIOPATHIC LABEL / AETIOLOGICAL UNCERTAINTY:
+The completed record uses or attributes an idiopathic-Parkinson’s formulation while simultaneously preserving a specific PRKN/PARK2 causal hypothesis. The available document therefore does not support treating “idiopathic” as a fully resolved aetiological conclusion during the admission.
+
+Potential downstream risk:
+Once “idiopathic Parkinson’s disease” becomes the operative category in the governing document, later institutional records may inherit it as settled truth even if its original source was provisional or administratively functional.
+
+======================================================================
+17. 2025 COMPLAINT RESPONSE — RETROSPECTIVE DIAGNOSTIC COMPRESSION
+======================================================================
+
+Monaghan’s 25 March 2025 complaint response is highly material because it is a retrospective defence of the historical pathway.
+
+It states in categorical terms:
+“it is our belief and understanding that Liam has idiopathic Parkinson’s disease.”
+
+It also uses language in substance:
+“we have known” Liam has Parkinson’s;
+“we have known” it would be Sinemet/dopamine responsive.
+
+This sits against:
+2017:
+- PRKN/PARK2 live;
+- atypical;
+- recessive;
+- unclear feet;
+- levodopa deferred.
+
+2018:
+- PRKN/PARK2 represented as what “we/Prof Healy suspect is the cause.”
+
+2021:
+- later Monaghan representation that iPD was supported by Healy second opinion and DaTSCAN.
+
+2026:
+- specialist genetic confirmation of Parkin mutations causing Parkinsonism and dystonia.
+
+Working forensic proposition:
+
+RETROSPECTIVE DIAGNOSTIC COMPRESSION:
+In responding to the 2025 anchoring complaint, Monaghan characterised the historical position in settled idiopathic-Parkinson’s terms notwithstanding that the accessible earlier record preserved a specific PRKN/PARK2 causal hypothesis and later attributed that hypothesis partly to Healy.
+
+This does not itself establish dishonesty.
+Potential explanations include:
+- terminology;
+- genuine later diagnostic view;
+- simplification;
+- memory error;
+- defensive reconstruction;
+- failure to check;
+- conscious minimisation.
+
+State-of-mind analysis remains separate.
+
+======================================================================
+18. DOCUMENTARY ACCOUNTABILITY CLAIM
+======================================================================
+
+In the 2025 complaint response, Monaghan represents his long letters as providing clear documentation of how decisions were made, when, and by whom.
+
+This statement is important because the 2017 discharge-document analysis now identifies:
+- uncertain timing of major passages;
+- uncertain authorship of some fields;
+- missing native Counihan source;
+- missing Complex Case Meeting source;
+- uncertain LTI particulars;
+- post-discharge DaTSCAN embedded in the completed document;
+- “we” language that cannot be decomposed;
+- retrospective document assembly.
+
+Working proposition:
+
+SELF-DESCRIBED DOCUMENTARY ACCOUNTABILITY:
+Monaghan’s 2025 response presents the longitudinal letters as records capable of establishing how, when and by whom decisions were made. That representation makes chronology, authorship, source genealogy and missing underlying specialist records directly material to evaluating the defence itself.
+
+======================================================================
+19. DISHONESTY / INTEGRITY — CURRENT POSITION
+======================================================================
+
+Dishonesty has been put in issue for testing, but no finding has been made.
+
+Correct spectrum:
+- ordinary clinical evolution;
+- terminology imprecision;
+- memory failure;
+- retrospective simplification;
+- defensive but honest reconstruction;
+- negligent inaccuracy;
+- recklessness as to accuracy;
+- knowing misrepresentation.
+
+Important:
+Wrong ≠ dishonest.
+Inconsistent ≠ dishonest.
+Later simplification ≠ dishonest.
+
+Dishonesty requires evidence about state of mind.
+
+Evidence potentially supporting candour:
+- Monaghan recorded uncertainty;
+- expressly admitted he was not a movement-disorders neurologist;
+- expressly considered PRKN;
+- acknowledged levodopa could work very well;
+- acknowledged possible future regret;
+- explicitly labelled the DaTSCAN addendum;
+- in 2025 says he may be wrong;
+- accepted independent review/disclosure;
+- acknowledged misunderstanding of provenance of a later Sinemet CR trial;
+- disclosed that bold/underlining added in 2025 was retrospective emphasis.
+
+Evidence potentially raising integrity questions:
+- categorical 2025 idiopathic-PD formulation;
+- earlier PRKN causal hypothesis;
+- 2018 “we/Prof Healy suspect” PRKN;
+- later representation of Healy as supporting iPD;
+- “we have known” language;
+- retrospective transformation of expected responsiveness into “knowledge”;
+- use of cumulative discharge artefact as historical proof;
+- claim that letters clearly identify how/when/by whom decisions were made despite missing native roots;
+- collective authority without accessible underlying records;
+- selective retrospective emphasis.
+
+No accusation should be made unless:
+- exact representation identified;
+- inaccuracy or misleading quality established;
+- materiality established;
+- author knowledge established;
+- benign explanations tested and insufficient.
+
+======================================================================
+20. HEALY — CURRENT SOURCE MODEL
+======================================================================
+
+Daniel Healy is important because:
+- Monaghan sought genetic / second-opinion input;
+- later record attributes PRKN/PARK2 causal suspicion to “we/Prof Healy”;
+- later Monaghan material represents Healy as supporting iPD/DaTSCAN position.
+
+Need to distinguish:
+1. information SENT TO Healy;
+2. findings MADE BY Healy;
+3. later statements ABOUT Healy.
+
+Native Healy correspondence/reply is high priority.
+
+Important external context:
+Healy had directly relevant movement-disorder / genetic-neurology expertise and co-authored parkin/PARK2 work with Counihan before 2017.
+
+Potential discrepancy to test:
+Can “Healy thought Parkinson’s disease” and “Healy suspected PRKN” both be true?
+Yes, potentially.
+PRKN causes Parkinsonism/Parkinson’s phenotype.
+Therefore do not falsely force contradiction.
+The precise issue is the use of “idiopathic” and whether later summaries compress the causal distinction.
+
+======================================================================
+21. LTI
+======================================================================
+
+The discharge document records:
+“Liam has signed forms for the long term illness scheme LTI and we have posted these for him.”
+
+The final document does not give:
+- exact date;
+- submitted diagnosis;
+- certifier;
+- posting actor;
+- receipt;
+- acceptance/outcome.
+
+Project discussion previously contained an assertion that LTI occurred before discharge.
+Some later source material may indicate a specific LTI certification date; this must be verified against the native source before being promoted.
+
+Safe current principle:
+LTI is an administrative crystallization event.
+Its exact diagnostic basis and timing matter because it may demonstrate that Parkinson’s disease acquired operative administrative status before the post-discharge DaTSCAN.
+
+Native LTI file remains a high-value source.
+
+======================================================================
+22. DATSCAN
+======================================================================
+
+DaTSCAN is a critical temporal divider.
+
+Pre-scan:
+- clinical intention existed;
+- Parkinsonian syndrome recognized;
+- treatment strategy already operative by discharge.
+
+13 July:
+- formal order/requisition;
+- performance;
+- report;
+- marked bilateral truncation;
+- radiology wording compatible with idiopathic PD or LBD;
+- Monaghan later says “obviously not LBD.”
+
+Important source-genealogy point:
+DaTSCAN radiologist is an independent source root for imaging findings.
+DaTSCAN requisition is NOT an independent source root for repeated history/exam propositions because it appears to reuse the admission narrative.
+
+Near-identical transmitted concepts include:
+- symptoms up to 13 years;
+- very young man;
+- bilateral parkinsonism;
+- atypical;
+- autosomal recessive “idiopathic” Parkinson’s;
+- dystonic walk;
+- minimal tremor.
+
+Therefore:
+The requisition should not be counted as independent corroboration of those propositions.
+
+Post-discharge DaTSCAN must not be back-projected into:
+- Tuesday decision;
+- LTI;
+- podiatry;
+- levodopa deferral;
+- earlier diagnosis.
+
+======================================================================
+23. SOURCE GENEALOGY / FALSE CORROBORATION
+======================================================================
+
+Central principle:
+COUNT ROOTS, NOT REPETITIONS.
+
+Known genealogy pattern:
+
+PATIENT ACCOUNT
+→ MONAGHAN ADMISSION/DISCHARGE NARRATIVE
+→ DATSCAN REQUISITION HISTORY
+
+MONAGHAN EXAMINATION / OPINION
+→ DISCHARGE DOCUMENT
+→ LATER MONAGHAN INTERPRETATION
+
+INDEPENDENT RADIOLOGY REPORT
+→ EMBEDDED IN DISCHARGE DOCUMENT
+→ MONAGHAN ADDENDUM
+
+Unproven downstream branches:
+DISCHARGE DOCUMENT
+→? HEALY REFERRAL / REPLY
+→? LATER CLINIC LETTERS
+→? 2025 COMPLAINT RESPONSE
+→? PAR
+→? SIMT
+→? REGULATORY MATERIAL
+
+Future consolidation must classify later propositions as:
+IDENTICAL TEXT
+NEAR-IDENTICAL
+SHARED CONCEPT
+POSSIBLE DERIVATION
+INDEPENDENTLY SUPPORTED
+UNKNOWN
+
+Repeated institutional language must not become pseudo-corroboration.
+
+======================================================================
+24. 2017-ERA PRKN / DYSTONIA LITERATURE CONTEXT
+======================================================================
+
+Prior forensic review identified 2017-available literature relevant to PRKN/parkin:
+- early/focal dystonia;
+- lower-limb dystonia;
+- foot-drop dystonia;
+- symmetry;
+- young onset;
+- preserved cognition;
+- slow progression;
+- strong levodopa responsiveness / sensitivity.
+
+Important:
+This literature supports the proposition that by 2017 lower-limb dystonia could be recognized as part of parkin-associated disease.
+It does NOT prove:
+- Liam’s corns/calluses/pes planus/hammertoes were caused by PRKN;
+- all foot pain was dystonia;
+- the 2017 team necessarily should have diagnosed PRKN;
+- breach.
+
+It sharpens the expert question:
+Given the phenotype and live PRKN hypothesis, what neurological assessment or specialist integration was reasonable in 2017?
+
+======================================================================
+25. LATER FOOT / DOPAMINE RESPONSE EVIDENCE
+======================================================================
+
+Later sources show:
+- continuing/recurrent foot problems;
+- toe curling/dystonia/OFF phenomena;
+- later “misalignment” language;
+- severe morning foot pain improving after Parkinson’s medication;
+- Sinemet CR introduced for morning feet;
+- later patient report of profound relief;
+- procyclidine response earlier in the history;
+- 2026 specialist attribution of Parkinsonism and dystonia to Parkin mutations.
+
+Safe inference:
+At least part of the historical lower-limb/foot syndrome was neurologically and pharmacologically modifiable.
+
+Do NOT claim:
+- every historic foot symptom was dystonia;
+- every corn/callus was caused by dystonia;
+- podiatry had no legitimate role;
+- later response automatically proves 2017 breach.
+
+The value is longitudinal coherence and materiality.
+
+======================================================================
+26. ACCEPTANCE / PROTEST
+======================================================================
+
+No secure basis exists to say Liam accepted:
+- that the feet were separate;
+- podiatry as neurological resolution;
+- the diagnosis as globally settled;
+- the duration of levodopa deferral.
+
+“Good understanding” is narrow and should remain narrow.
+
+No protest recorded ≠ no protest occurred.
+
+Later correspondence contains Liam’s account of bedside interactions, but those assertions require their own evidential classification.
+
+======================================================================
+27. GOVERNANCE / PAR / SIMT
+======================================================================
+
+Governance chronology:
+- complaint in 2025;
+- QPS / Incident Management Framework;
+- Preliminary Assessment Report (PAR);
+- SIMT review;
+- formal “no deficit in care” outcome.
+
+Important:
+Institutional process decisions do not establish the truth of the historical clinical premises.
+
+Key missing governance sources:
+- full PAR;
+- source schedule/evidence matrix;
+- PAR author;
+- independent clinical report if any;
+- SIMT agenda;
+- SIMT minutes;
+- attendance;
+- circulation;
+- evidence actually reviewed.
+
+Safe current proposition:
+INDEPENDENT REVALIDATION OF THE FOOT/PODIATRY HINGE HAS NOT YET BEEN DEMONSTRATED.
+
+30 May 2025 QPS letter records:
+- complaint was moved into Incident Management Framework;
+- PAR being completed;
+- PAR to be reviewed at IHA West/North West SIMT;
+- findings to be communicated afterward.
+
+This establishes process representation, not independent clinical revalidation.
+
+======================================================================
+28. GDPR / DATA-RIGHTS DIMENSION
+======================================================================
+
+Strongest framing:
+completion,
+qualification,
+verification,
+accountability,
+not simply “rewrite the diagnosis.”
+
+Questions:
+After the disputed clinical hinge was challenged:
+- did the controller verify;
+- qualify;
+- restrict;
+- annotate;
+- distinguish contested history;
+before further institutional use?
+
+Article 18 notice alone does not establish infringement.
+
+Current high-value audit question:
+What happened operationally between data-rights challenge and later SIMT/institutional reliance?
+
+This is a separate procedural-rights layer and should not be conflated with the clinical merits.
+
+======================================================================
+29. PODIATRY SAR
+======================================================================
+
+A broad Article 15 SAR was made in July 2026 for podiatry/chiropody/associated services.
+
+Key anticipated disclosure models:
+A. neurological bridge found;
+B. podiatry clearly adjunctive;
+C. podiatry inherited a classification from neurology;
+D. disposition occurred without neurological resolution;
+E. podiatry record reopens neurological question;
+F. insufficient/no records.
+
+Frozen protocol:
+PRESERVE EXACT DISCLOSURE
+→ INVENTORY
+→ NEUTRAL CHRONOLOGY
+→ HINGE IMPACT
+→ ONLY THEN REVISE THEORY
+
+Do not prejudge before disclosure.
+
+======================================================================
+30. HIGH-VALUE MISSING SOURCES
+======================================================================
+
+Current priority list:
+
+1. 3 July inpatient notes with timestamps.
+2. 4 July inpatient notes.
+3. Neurology Complex Case Meeting record.
+4. Professor Timothy Counihan contemporaneous advice/communication.
+5. Medication chart.
+6. Examination video and metadata.
+7. Native EHR/discharge-summary drafts/version history.
+8. Podiatry referral / triage / assessment / outcome records.
+9. Native Healy referral, attachments, examination and reply.
+10. Native LTI form / diagnosis / certification / transmission / outcome.
+11. Genetics / movement-disorders records.
+12. Full PAR / source schedule / evidence matrix.
+13. SIMT agenda / minutes / attendance / source bundle.
+14. Internal 2025 complaint-response drafts / metadata if relevant to integrity analysis.
+15. Early nursing / physiotherapy / occupational-therapy notes.
+
+These sources have different roles:
+- some resolve chronology;
+- some resolve attribution;
+- some resolve clinical integration;
+- some resolve source genealogy;
+- some test later institutional reliance.
+
+======================================================================
+31. CURRENT LOAD-BEARING PROPOSITIONS FOR CONSOLIDATION
+======================================================================
+
+These are not all finally graded yet. They are the current candidate proposition set.
+
+P1 — EARLY SYNDROME RECOGNITION
+Severe parkinsonism was recognized immediately on 3 July.
+
+P2 — 3/4 JULY DECISION BOTTLENECK
+The likely Tuesday-morning Complex Case Meeting occurred after only a short interval from the first substantive neurological assessment, with little documented overnight evidential change.
+
+P3 — EARLY MANAGEMENT / LATER ELABORATION
+The source architecture moderately supports a very early departmentally framed no-levodopa strategy, likely around Tuesday 4 July, before the complete PRKN/dystonia/painful-foot formulation visible in the final document can be shown to have matured.
+
+P4 — THERAPEUTIC / DIAGNOSTIC LEVODOPA DISTINCTION
+Therapeutic deferral is clearly documented. Separate diagnostic use of levodopa is not demonstrated.
+
+P5 — PRKN WAS NOT MISSED
+PRKN/PARK2 was expressly a live 2017 hypothesis and later attributed to “we/Prof Healy” as suspected cause.
+
+P6 — PRKN/DYSTONIA/FOOT PROXIMITY WITHOUT DOCUMENTED SYNTHESIS
+The record contains the ingredients of an integrated movement-disorder foot question but does not show the integration step.
+
+P7 — FOOT DISPOSITION BEFORE NEUROLOGICAL RESOLUTION
+Podiatry became the practical foot pathway while the neurological relationship remained “Not clear.”
+
+P8 — NO DOCUMENTED REOPENING
+The accessible record does not demonstrate formal reopening of the foot question or early treatment frame as PRKN/dystonic information accumulated.
+
+P9 — APPARENT COLLECTIVE AUTHORITY EXCEEDS SOURCE ROOTS
+The final document invokes “we,” Counihan, colleagues and the Complex Case Meeting, but underlying native sources are absent.
+
+P10 — NARROW UNDERSTANDING, NOT GLOBAL ACCEPTANCE
+“Good understanding” is narrow and should not be used as proof of global agreement.
+
+P11 — RETROSPECTIVE COHERENCE / ADMINISTRATIVE COLLAGE
+The final document incorporates later information around earlier decisions and therefore can make the admission look more contemporaneously integrated than can presently be shown.
+
+P12 — PREMATURE ADMINISTRATIVE CRYSTALLIZATION
+An operative Parkinson’s-disease framework governed administrative and management outcomes while important clinical questions remained unresolved.
+
+P13 — IDIOPATHIC LABEL / AETIOLOGICAL UNCERTAINTY
+The “idiopathic” label coexisted with a specific live PRKN causal hypothesis and therefore cannot safely be assumed to reflect settled aetiology.
+
+P14 — RETROSPECTIVE DIAGNOSTIC COMPRESSION IN 2025
+The 2025 complaint response presents a more settled idiopathic-Parkinson’s narrative than the earlier record itself safely bears.
+
+P15 — DOCUMENTARY ACCOUNTABILITY CLAIM IS TESTABLE
+Monaghan’s 2025 claim that his letters clearly document how/when/by whom decisions were made can be tested against missing chronology and source roots.
+
+P16 — LATER GENETIC / DOPAMINE EVIDENCE GIVES COHERENCE, NOT AUTOMATIC BACK-PROJECTION
+Later PRKN confirmation and dopaminergic foot response materially strengthen the significance of the earlier unresolved phenotype but do not by themselves prove 2017 negligence.
+
+P17 — DOWNSTREAM REPETITION MAY BE DERIVATIVE
+Later institutional statements may descend from the discharge artefact rather than constitute independent revalidation.
+
+======================================================================
+32. STRONGEST BENIGN RECONSTRUCTION
+======================================================================
+
+A fair consolidated document must preserve this.
+
+Possible benign account:
+- severe parkinsonism was obvious;
+- early departmental review was appropriate;
+- extreme youth made chronic levodopa caution reasonable;
+- structural foot abnormalities were real;
+- podiatry was reasonable as adjunctive care;
+- PRKN was still unconfirmed;
+- mixed neurological/mechanical foot pathology was plausible;
+- broad inpatient work-up was undertaken;
+- follow-up was intended;
+- discharge documentation normally accumulates pending results;
+- the final summary legitimately gave the GP/patient a complete record.
+
+This explains much of the affirmative conduct.
+
+What it does not presently explain from accessible sources:
+- what the meeting actually considered;
+- what Counihan actually advised;
+- whether feet received equivalent departmental neurological consideration;
+- why there is no visible PRKN/dystonia/pain synthesis;
+- why no diagnostic levodopa question appears;
+- whether podiatry was explicitly adjunctive;
+- what mechanism existed for timely reopening of the early frame;
+- why later institutional accounts became more categorically idiopathic.
+
+The consolidated document must compare competing reconstructions rather than suppress the benign one.
+
+======================================================================
+33. CURRENT BEST OVERALL CASE PERCEPTION
+======================================================================
+
+The case should no longer be perceived as:
+“A rare genetic Parkinson’s diagnosis was simply missed.”
+
+The more coherent current perception is:
+
+1. Severe Parkinsonism was recognized immediately.
+2. An operative Parkinson’s-disease frame appears to have crystallized quickly.
+3. A no-levodopa strategy was likely fixed very early under a departmentally framed rationale.
+4. The diagnostic picture continued to evolve after that early decision.
+5. PRKN/PARK2 became a specific and serious hypothesis.
+6. Dystonic-looking lower-limb findings were recognized.
+7. Painful/structural foot symptoms remained unresolved as to neurological relationship.
+8. The record does not show a completed synthesis of PRKN + dystonia + painful feet.
+9. Podiatry became the practical foot route.
+10. The early treatment/foot frame is not visibly reopened in the discharge artefact.
+11. The final discharge document later accumulated post-decision and post-discharge material around the early framework.
+12. That final artefact can therefore appear more settled, collective and coherent than the underlying contemporaneous decision sequence can presently be shown to have been.
+13. Later records may have inherited that completed administrative narrative.
+14. The 2025 complaint response may represent a retrospective compression of the earlier uncertainty into a settled idiopathic-Parkinson’s story.
+15. The 2026 PRKN result does not create the earlier hypothesis; it confirms that the earlier hypothesis was etiologically important.
+
+Central organizing phrase:
+ADMINISTRATIVE CLOSURE BEFORE CLINICAL RESOLUTION.
+
+Central documentary asymmetry:
+UNCERTAINTY REMAINED INSIDE THE NARRATIVE, WHILE CERTAINTY GOVERNED THE ADMINISTRATIVE OUTCOME.
+
+Central chronology:
+MONDAY 3 JULY — severe Parkinsonism recognized
+→ TUESDAY 4 JULY — likely Complex Case Meeting / early management hinge
+→ REST OF ADMISSION — diagnostic elaboration
+→ DISCHARGE — no levodopa, podiatry, unresolved feet
+→ 13 JULY — DaTSCAN
+→ 13–17 JULY — post-discharge interpretation/final assembly
+→ LATER YEARS — inherited clinical/institutional narrative
+→ 2025 — retrospective complaint defence
+→ 2026 — PRKN confirmation.
+
+======================================================================
+34. WHAT CONSOLIDATION MUST NOW DO
+======================================================================
+
+After the current investigative cycle, the next task is consolidation.
+
+The consolidation should NOT be another uncontrolled accumulation exercise.
+
+It should:
+
+A. Preserve the existing atom register.
+B. Update temporal status of July 2017 entries:
+   - Monday known;
+   - Tuesday likely known;
+   - later admission;
+   - post-discharge;
+   - final-state only;
+   - date uncertain.
+C. Update source genealogy:
+   - Monaghan root;
+   - patient-account root;
+   - independent radiology root;
+   - Counihan attribution;
+   - Complex Case Meeting attribution;
+   - Healy attribution;
+   - later institutional derivative.
+D. Add a separate forensic-finding register.
+E. Build a proposition register.
+F. Grade each proposition:
+   ESTABLISHED_AS_DOCUMENTARY_EVENT
+   MULTI-ROOT_SUPPORTED
+   PARTIALLY_SUPPORTED
+   DERIVATIVE_ONLY
+   DISPUTED_OR_IMPEACHED
+   UNKNOWN_SOURCE_REQUIRED
+   EXPERT_DEPENDENT
+G. Include strongest benign explanation for every adverse proposition.
+H. Identify decisive missing source for each proposition.
+I. Separate clinical questions from governance, GDPR and regulatory process questions.
+J. Make source ancestry visible so repetition cannot masquerade as corroboration.
+K. Reduce the case to a smaller number of load-bearing propositions.
+L. Preserve this provenance file separately so the reasoning path is not lost.
+
+Expected working-document fields:
+
+For documentary atoms:
+F-ID
+Date
+Domain
+Source
+Exact proposition
+Evidence type
+Source root
+Temporal status
+Qualification
+Downstream derivatives
+Missing controlling source
+Notes
+
+For forensic findings:
+I-ID
+Finding
+Source wording
+Impeachment / structural category
+Supporting source
+Impairment
+Strongest benign explanation
+Current status
+Missing source
+Safe formulation
+Impermissible formulation
+
+For propositions:
+P-ID
+Proposition
+Domain
+Supporting F-IDs
+Adverse/qualifying F-IDs
+Independent source roots
+Derivative sources
+Current evidential status
+Forensic issues
+Expert dependency
+Missing source
+Podiatry sensitivity
+Safe formulation
+Competing explanation
+
+======================================================================
+35. CONSOLIDATION DISCIPLINE
+======================================================================
+
+Do not let propositions outrun facts.
+
+Documentary fact remains documentary fact.
+Chronology inference remains forensic reconstruction.
+Causal/process relationship belongs in proposition layer.
+Standard of care remains expert-dependent.
+Dishonesty remains a separate state-of-mind assessment.
+
+Do not convert:
+“no reopening is visible”
+into:
+“no reopening occurred”
+without source support.
+
+Do not convert:
+“Counihan is invoked”
+into:
+“Counihan personally made the decision”
+without native evidence.
+
+Do not convert:
+“PRKN was live”
+into:
+“PRKN was known”
+before genetic confirmation.
+
+Do not convert:
+“later foot pain responded to dopamine”
+into:
+“all 2017 foot pain was dystonia.”
+
+Do not convert:
+“idiopathic” appears
+into:
+“aetiology was settled.”
+
+Do not convert:
+administrative closure
+into:
+proof of negligence.
+
+======================================================================
+36. THE NEXT DECISIVE QUESTIONS
+======================================================================
+
+Clinical / chronology:
+- What exactly happened on Monday 3 July?
+- What was known by Tuesday morning?
+- What was presented at the Complex Case Meeting?
+- What did Counihan advise?
+- When did PRKN become specific?
+- When were the feet examined?
+- Was painful dystonia considered?
+- Was diagnostic levodopa separately considered?
+- Was the early plan revisited?
+- Was podiatry adjunctive or closure?
+
+Document genealogy:
+- What version existed Tuesday?
+- What version existed at physical discharge?
+- When were PRKN, “regret,” foot uncertainty and treatment rationale drafted?
+- What changed after the DaTSCAN?
+- Who authored the primary diagnosis field?
+
+Downstream:
+- Which later documents inherited the 2017 language?
+- Which contain genuinely new assessment?
+- Did 2025 governance rely on derivative material?
+- Was the foot/podiatry hinge independently revalidated?
+
+Integrity:
+- What records did Monaghan review when preparing the 2025 response?
+- How did he reconcile earlier PRKN suspicion with categorical iPD language?
+- What did “we have known” mean?
+- Did “known” mean syndrome, aetiology, responsiveness generally, or foot-pain responsiveness specifically?
+
+======================================================================
+37. INTENDED END STATE
+======================================================================
+
+The eventual counsel-facing architecture should be much smaller than the raw register.
+
+Likely final form:
+approximately a dozen or slightly more load-bearing propositions,
+each visibly linked to:
+- documentary atoms;
+- independent source roots;
+- forensic findings;
+- contrary evidence;
+- benign explanation;
+- missing source;
+- expert dependency.
+
+The case should become understandable from the source architecture itself.
+
+The target is not:
+“write a persuasive story.”
+
+The target is:
+MAKE THE STRONGEST RECONSTRUCTION AND ITS LIMITS SO VISIBLE THAT THE STORY EMERGES FROM THE EVIDENCE.
+
+======================================================================
+38. PROVENANCE NOTE
+======================================================================
+
+This file itself is project provenance.
+
+It captures the analytical development arising from:
+- discharge-summary re-reading;
+- evidential impeachment;
+- administrative-collage analysis;
+- 3/4 July bottleneck testing;
+- PRKN / Healy / Counihan contextual research;
+- 2025 complaint-response comparison;
+- evolving fact-register architecture;
+- discussion of administrative closure before clinical resolution.
+
+It should be retained even after consolidation so later readers can distinguish:
+- what came directly from source;
+- what emerged from recursive analysis;
+- when a proposition first appeared;
+- what remained unresolved at each stage.
+
+END OF FULL KNOWLEDGE / PROVENANCE CAPTURE
