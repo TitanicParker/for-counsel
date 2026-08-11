@@ -14,6 +14,8 @@ These files are evidential materials. They are not argument pages, submissions, 
 6. Interpretive pages elsewhere in the site may link to these records, but should not merge analysis into them.
 7. A transcript is not a substitute for the native source. Where the repository holds a transcript rather than the original binary file, the source page must say so explicitly.
 
+For the current acquisition/completeness position see [`../../evidence-audit/source-acquisition-status.md`](../../evidence-audit/source-acquisition-status.md).
+
 ## Clinical source corpus
 
 - `gp-referral.html`
@@ -46,6 +48,7 @@ These files are evidential materials. They are not argument pages, submissions, 
 - `gdpr-article16-consolidated-2025-07-16.md` — consolidated/final Article 16 correspondence and attached argument; retained as evidence of the propositions being advanced at that date, not as findings.
 - `patient-imf-clarification-2025-07-18.md` — patient request, copied to the Patient Advocacy Service, seeking clarification of whether the PAR had been discussed, what review was underway and what process/timeline applied.
 - `medical-council-monaghan-response-2025-07-29.md` — Dr Monaghan's later regulatory submission, including his account of Prof Counihan's 2017 advice at a Neurology Weekly Complex Case meeting.
+- `monaghan-supporting-documentation-2025-07-29.md` — source-bundle index for the 185-page redacted supporting-documentation PDF supplied by Dr Monaghan; identifies reproduced 2017–2025 clinical material and keeps later repetition separate from independent historical corroboration.
 - `medical-council-counihan-decision-2025-07-29.md` — Medical Council CEO decision using the narrower wording that Dr Counihan was “not directly involved in your care.”
 - `gdpr-article18-2025-08-04.md` — transcript of the Article 18 restriction notice sent to GUH/HSE DPO and QPS.
 - `gdpr-article15-decision-2025-08-05.md` — GUH Article 15 search/non-holding decision concerning bedside teaching/student/ward-round records and routing podiatry records to Community Healthcare West.
@@ -65,7 +68,7 @@ These files are evidential materials. They are not argument pages, submissions, 
 
 Some entries above are faithful redacted transcriptions made from original Gmail messages, attachments, PDFs, photographed letters or complete source texts directly supplied to and inspected in the project. The original message, attachment, PDF or image remains the controlling source. Where practical, a properly redacted native copy should also be preserved in the permanent library.
 
-A later source may be primary evidence of what was said or decided at that later date while remaining derivative as proof of an earlier historical clinical event. In particular, the reproduced 2017 `Myself and Tim` page, the 2025 Counihan letter, Monaghan submission and Medical Council decision must remain separate evidential origins. The 2017 page proves its own wording but does not by itself identify “Tim”; the later Monaghan submission supplies that identification/account but remains retrospective.
+A later source may be primary evidence of what was said or decided at that later date while remaining derivative as proof of an earlier historical clinical event. In particular, the reproduced 2017 `Myself and Tim` page, the 2025 Counihan letter, Monaghan submission, Monaghan supporting-documentation bundle and Medical Council decision must remain separate evidential origins. The 2017 page proves its own wording but does not by itself identify “Tim”; the later Monaghan submission supplies that identification/account but remains retrospective. The 185-page July 2025 bundle shows what Dr Monaghan retained and supplied in 2025; reproduced historical passages inside it are not counted as new independent corroboration of those earlier events.
 
 The two 6 September 2025 Article 16 decisions are also separate documents addressing separate requests. They should not be collapsed into a single “rectification refusal.”
 
