@@ -36,16 +36,21 @@ These files are evidential materials. They are not argument pages, submissions, 
 - `complaint-2025-03-19.md` — redacted transcript of the attached formal complaint submitted on 19 March 2025.
 - `qps-letter-2025-04-15.md` — QPS complaint-routing letter recording that Sinemet CR had been an effective analgesic for foot pain and that the complaint was routed as clinical judgment.
 - `counihan-response-2025-05-07.md` — signed clinician response stating “As I have not been involved in your care” and forwarding the concerns to Dr Monaghan.
-- `gdpr-article16-2025-06-12.md` — redacted transcript of the Article 16 rectification/annotation request.
+- `gdpr-article16-2025-06-12.md` — redacted transcript of the Article 16 rectification/annotation request concerning clinical records.
+- `gdpr-article16-qps-2025-06-15.md` — separate Article 16 request concerning QPS closure-letter material and the 15 April QPS letter.
 - `medical-council-monaghan-response-2025-07-29.md` — Dr Monaghan's later regulatory submission, including his account of Prof Counihan's 2017 advice at a Neurology Weekly Complex Case meeting.
 - `medical-council-counihan-decision-2025-07-29.md` — Medical Council CEO decision using the narrower wording that Dr Counihan was “not directly involved in your care.”
 - `gdpr-article18-2025-08-04.md` — transcript of the Article 18 restriction notice sent to GUH/HSE DPO and QPS.
+- `gdpr-article15-decision-2025-08-05.md` — GUH Article 15 search/non-holding decision concerning bedside teaching/student/ward-round records and routing podiatry records to Community Healthcare West.
 - `par-status-2025-08-06-via-patient-advocacy.md` — Patient Advocacy Service email reproducing the hospital's 6 August statement that the PAR was being prepared for August SIMT discussion; derivative route to the hospital communication.
 - `simt-outcome-signed-2025-09-01.md` — photographed signed SIMT outcome letter dated 1 September 2025, reporting the 27 August decision.
 - `simt-outcome-2025-09-03.md` — separate two-page SIMT outcome PDF dated 3 September 2025. It is retained separately because its date/wording are not identical to the signed 1 September artefact.
 - `gdpr-article16-decision-clinical-2025-09-06.md` — separate Article 16 decision refusing the 12 June request concerning clinical-record rectification/annotation and explaining the controller's historical-opinion/continuity rationale.
 - `gdpr-article16-decision-qps-2025-09-06.md` — separate Article 16 decision refusing the 15 June request concerning QPS closure letters on the stated basis that the requested material was not personal data within the scope asserted.
+- `dpc-reengagement-2026-01-13.md` — DPC correspondence confirming CAERU handling and suggesting renewed engagement with UHG.
+- `gdpr-renewed-article16-18-2026-01-14.md` — renewed Article 16/18 request following DPC correspondence.
 - `qps-response-2026-01-26.md` — transcript of the January 2026 QPS governance response.
+- `gdpr-dpo-clarification-2026-01-27.md` — data-subject clarification expressly distinguishing the QPS governance position from any later GDPR determination by the DPO.
 - `genetics-prkn-2026-02-04.md` — redacted transcript of the St Vincent's specialist genetic letter stating that Parkinsonism and dystonia are due to compound heterozygous Parkin mutations.
 
 ## Source-status caution
@@ -55,6 +60,8 @@ Some entries above are faithful redacted transcriptions made from original Gmail
 A later source may be primary evidence of what was said or decided at that later date while remaining derivative as proof of an earlier historical clinical event. In particular, the reproduced 2017 `Myself and Tim` page, the 2025 Counihan letter, Monaghan submission and Medical Council decision must remain separate evidential origins. The 2017 page proves its own wording but does not by itself identify “Tim”; the later Monaghan submission supplies that identification/account but remains retrospective.
 
 The two 6 September 2025 Article 16 decisions are also separate documents addressing separate requests. They should not be collapsed into a single “rectification refusal.”
+
+The 26 January 2026 QPS correspondence is a governance position, not a GDPR determination. The 27 January source records that distinction expressly.
 
 ## Publication status
 
