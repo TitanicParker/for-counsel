@@ -12,6 +12,7 @@ This directory records the evidential substrate identified in the existing `for-
 - [`source-packs-and-chains.md`](source-packs-and-chains.md) — minimum hinge, continuity, provenance, governance and GDPR source packs/chains.
 - [`knowledge-and-gaps.md`](knowledge-and-gaps.md) — contemporaneous knowledge/notice chronology and controlling disclosure gaps.
 - [`migration-table-and-structure.md`](migration-table-and-structure.md) — old narrative statements requiring qualification and a proposed non-destructive repository structure.
+- [`source-acquisition-status.md`](source-acquisition-status.md) — current consolidation status after direct inspection/materialisation of the user-supplied Gmail, PDF and image corpus; separates preservation-quality improvements from genuine disclosure-only gaps.
 
 ## Classification rules
 
@@ -29,7 +30,7 @@ The GitHub repository is not code-search indexed. The source-record corpus and c
 
 ## Source-location rule
 
-Where a primary document exists in the project archive/Gmail but has not been mirrored into `for-counsel`, the inventory says so explicitly. No synthetic repository path is invented.
+Where a primary document exists in the project archive/Gmail but has not been mirrored into `for-counsel`, the inventory says so explicitly. No synthetic repository path is invented. The current position is maintained in [`source-acquisition-status.md`](source-acquisition-status.md), which should be preferred over older acquisition to-do wording when the two differ.
 
 ## Controlling safeguard
 
