@@ -12,8 +12,9 @@ These files are evidential materials. They are not argument pages, submissions, 
 4. Each source-record page should identify itself as a redacted source document.
 5. Each source-record page should state that no analytical findings are made on that page.
 6. Interpretive pages elsewhere in the site may link to these records, but should not merge analysis into them.
+7. A transcript is not a substitute for the native source. Where the repository holds a transcript rather than the original binary file, the source page must say so explicitly.
 
-## Intended contents
+## Clinical source corpus
 
 - `gp-referral.html`
 - `discharge-summary.html`
@@ -27,6 +28,20 @@ These files are evidential materials. They are not argument pages, submissions, 
 - `neurology-notes-2024.html`
 - `neurology-notes-2025.html`
 - `official-rebuttal.html`
+
+## Materialised correspondence / governance / later specialist sources
+
+- `gmail-2017-10-24-medical-assessment.md` — contemporaneous patient email recording medication withdrawal/reintroduction, incomplete symptom control at the lower dose, podiatry appointment and major physical improvement.
+- `complaint-2025-03-19.md` — redacted transcript of the attached formal complaint submitted on 19 March 2025.
+- `gdpr-article16-2025-06-12.md` — redacted transcript of the Article 16 rectification/annotation request.
+- `gdpr-article18-2025-08-04.md` — transcript of the Article 18 restriction notice sent to GUH/HSE DPO and QPS.
+- `simt-outcome-2025-09-03.md` — redacted transcript of the two-page SIMT outcome PDF.
+- `qps-response-2026-01-26.md` — transcript of the January 2026 QPS governance response.
+- `genetics-prkn-2026-02-04.md` — redacted transcript of the St Vincent's specialist genetic letter stating that Parkinsonism and dystonia are due to compound heterozygous Parkin mutations.
+
+## Source-status caution
+
+Some entries above are faithful redacted transcriptions made from original Gmail messages, attachments, PDFs or photographed letters directly inspected in the project. The original message, attachment, PDF or image remains the controlling source. Where practical, a properly redacted native copy should also be preserved in the permanent library.
 
 ## Publication status
 
