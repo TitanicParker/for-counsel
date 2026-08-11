@@ -43,6 +43,8 @@ These files are evidential materials. They are not argument pages, submissions, 
 - `par-status-2025-08-06-via-patient-advocacy.md` — Patient Advocacy Service email reproducing the hospital's 6 August statement that the PAR was being prepared for August SIMT discussion; derivative route to the hospital communication.
 - `simt-outcome-signed-2025-09-01.md` — photographed signed SIMT outcome letter dated 1 September 2025, reporting the 27 August decision.
 - `simt-outcome-2025-09-03.md` — separate two-page SIMT outcome PDF dated 3 September 2025. It is retained separately because its date/wording are not identical to the signed 1 September artefact.
+- `gdpr-article16-decision-clinical-2025-09-06.md` — separate Article 16 decision refusing the 12 June request concerning clinical-record rectification/annotation and explaining the controller's historical-opinion/continuity rationale.
+- `gdpr-article16-decision-qps-2025-09-06.md` — separate Article 16 decision refusing the 15 June request concerning QPS closure letters on the stated basis that the requested material was not personal data within the scope asserted.
 - `qps-response-2026-01-26.md` — transcript of the January 2026 QPS governance response.
 - `genetics-prkn-2026-02-04.md` — redacted transcript of the St Vincent's specialist genetic letter stating that Parkinsonism and dystonia are due to compound heterozygous Parkin mutations.
 
@@ -51,6 +53,8 @@ These files are evidential materials. They are not argument pages, submissions, 
 Some entries above are faithful redacted transcriptions made from original Gmail messages, attachments, PDFs or photographed letters directly inspected in the project. The original message, attachment, PDF or image remains the controlling source. Where practical, a properly redacted native copy should also be preserved in the permanent library.
 
 A later source may be primary evidence of what was said or decided at that later date while remaining derivative as proof of an earlier historical clinical event. In particular, the reproduced 2017 `Myself and Tim` page, the 2025 Counihan letter, Monaghan submission and Medical Council decision must remain separate evidential origins. The 2017 page proves its own wording but does not by itself identify “Tim”; the later Monaghan submission supplies that identification/account but remains retrospective.
+
+The two 6 September 2025 Article 16 decisions are also separate documents addressing separate requests. They should not be collapsed into a single “rectification refusal.”
 
 ## Publication status
 
