@@ -37,6 +37,7 @@ These files are evidential materials. They are not argument pages, submissions, 
 - `qps-letter-2025-04-15.md` — QPS complaint-routing letter recording that Sinemet CR had been an effective analgesic for foot pain and that the complaint was routed as clinical judgment.
 - `counihan-response-2025-05-07.md` — signed clinician response stating “As I have not been involved in your care” and forwarding the concerns to Dr Monaghan.
 - `gdpr-article16-2025-06-12.md` — redacted transcript of the Article 16 rectification/annotation request concerning clinical records.
+- `qps-imf-letter-2025-06-13.md` — two-page QPS process letter stating that the hospital had moved the complaint to an independent Incident Management Framework review and distinguishing that route from ordinary YSYS clinical-judgment complaint handling.
 - `gdpr-article16-qps-2025-06-15.md` — separate Article 16 request concerning QPS closure-letter material and the 15 April QPS letter.
 - `medical-council-monaghan-response-2025-07-29.md` — Dr Monaghan's later regulatory submission, including his account of Prof Counihan's 2017 advice at a Neurology Weekly Complex Case meeting.
 - `medical-council-counihan-decision-2025-07-29.md` — Medical Council CEO decision using the narrower wording that Dr Counihan was “not directly involved in your care.”
@@ -60,6 +61,8 @@ Some entries above are faithful redacted transcriptions made from original Gmail
 A later source may be primary evidence of what was said or decided at that later date while remaining derivative as proof of an earlier historical clinical event. In particular, the reproduced 2017 `Myself and Tim` page, the 2025 Counihan letter, Monaghan submission and Medical Council decision must remain separate evidential origins. The 2017 page proves its own wording but does not by itself identify “Tim”; the later Monaghan submission supplies that identification/account but remains retrospective.
 
 The two 6 September 2025 Article 16 decisions are also separate documents addressing separate requests. They should not be collapsed into a single “rectification refusal.”
+
+The 13 June 2025 QPS letter is evidence of the hospital's represented process architecture — including the assurance of an independent IMF review — but not proof of what evidence the later PAR/SIMT actually used.
 
 The 26 January 2026 QPS correspondence is a governance position, not a GDPR determination. The 27 January source records that distinction expressly.
 
