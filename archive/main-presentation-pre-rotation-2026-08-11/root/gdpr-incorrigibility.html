@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GDPR: Incorrigibility in the Record | For Counsel</title>
+  <meta name="description" content="Counsel-facing documentary map of the GDPR sequence: access, rectification, restriction, continuing reliance, and the practical corrigibility of the record.">
+  <style>
+    :root {
+      --bg:#f7f7f4; --paper:#fff; --ink:#171717; --muted:#666b73; --line:#d8d6ce;
+      --soft:#efeee9; --accent:#263238; --accent2:#59656f; --link:#1f4f6f;
+      --warn:#8a5a00; --red:#7b3030; --green:#355a47; --max:1120px; --measure:78ch;
+    }
+    *{box-sizing:border-box} html{scroll-behavior:smooth;-webkit-text-size-adjust:100%;text-size-adjust:100%}
+    body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;font-size:clamp(16px,.35vw + 15px,18px);line-height:1.62}
+    a{color:var(--link);text-decoration-thickness:1px;text-underline-offset:3px} a:hover{color:#0f2f45}
+    .site-header{background:rgba(255,255,255,.96);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:20;backdrop-filter:blur(10px)}
+    .nav{max-width:var(--max);margin:0 auto;padding:14px clamp(16px,3vw,32px);display:flex;justify-content:space-between;gap:20px;align-items:center}
+    .brand{font-weight:760;letter-spacing:.01em;color:var(--ink);text-decoration:none;white-space:nowrap}
+    .nav-links{display:flex;justify-content:flex-end;gap:6px;flex-wrap:wrap;font-size:.94rem}
+    .nav-links a{color:var(--muted);text-decoration:none;padding:8px 10px;border-radius:999px}.nav-links a:hover{color:var(--ink);background:var(--soft)}
+    .hero{max-width:var(--max);margin:0 auto;padding:clamp(42px,8vw,82px) clamp(16px,3vw,32px) clamp(34px,6vw,58px)}
+    .eyebrow,.kicker{margin:0 0 12px;color:var(--accent2);font-size:.8rem;font-weight:760;text-transform:uppercase;letter-spacing:.11em}
+    h1,h2,h3{letter-spacing:-.02em;line-height:1.14;overflow-wrap:anywhere} h1{font-size:clamp(2.15rem,7vw,5rem);max-width:980px;margin:0}
+    .subtitle{max-width:860px;margin:clamp(18px,3vw,28px) 0 0;color:#34383d;font-size:clamp(1.04rem,1.5vw,1.35rem)}
+    main{max-width:var(--max);margin:0 auto;padding:0 clamp(16px,3vw,32px) clamp(60px,8vw,92px)} p,li{max-width:var(--measure)}
+    .panel{background:var(--paper);border:1px solid var(--line);border-radius:clamp(14px,2vw,20px);padding:clamp(22px,4vw,40px);margin:clamp(18px,3vw,28px) 0;box-shadow:0 12px 40px rgba(0,0,0,.035)}
+    .panel h2{margin-top:0;font-size:clamp(1.45rem,3.2vw,2.45rem)} .panel h3{font-size:clamp(1.08rem,1.4vw,1.3rem)}
+    .callout{border-left:4px solid var(--accent);background:var(--soft);padding:clamp(16px,2.4vw,22px);margin:clamp(20px,3vw,28px) 0;border-radius:0 14px 14px 0;max-width:90ch}
+    .callout.warn{border-left-color:var(--warn);background:#faf3e4}.callout.red{border-left-color:var(--red);background:#f8eeee}.callout.green{border-left-color:var(--green);background:#edf5f0}
+    .quote{margin:clamp(18px,3vw,24px) 0;padding:0 0 0 clamp(16px,2vw,22px);border-left:3px solid var(--accent2);color:#2d3135;font-size:clamp(1.02rem,.8vw + .9rem,1.16rem);max-width:84ch}
+    .small{color:var(--muted);font-size:.93rem}.note{color:#4e5359;font-size:.96rem}
+    .grid-two{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(16px,2.5vw,24px)}
+    .grid-three{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(14px,2vw,20px)}
+    .card{background:#fbfbf9;border:1px solid var(--line);border-radius:16px;padding:clamp(18px,3vw,24px)}
+    .card h3{margin-top:0}.card p:last-child,.panel p:last-child{margin-bottom:0}
+    .timeline{display:grid;gap:16px}.event{border-left:3px solid var(--accent);padding-left:18px;max-width:94ch;position:relative}.event strong{display:block;margin-bottom:4px}.event .date{color:var(--accent2);font-weight:760;font-size:.9rem;text-transform:uppercase;letter-spacing:.045em}.event .tag{display:inline-block;margin:5px 6px 0 0;padding:3px 8px;border:1px solid var(--line);border-radius:999px;background:#fafafa;color:#4c5258;font-size:.78rem;font-weight:700}
+    .matrix{width:100%;border-collapse:collapse;margin:22px 0 28px;font-size:clamp(.86rem,.35vw + .78rem,.95rem)}.matrix th,.matrix td{border:1px solid var(--line);vertical-align:top;text-align:left;padding:clamp(9px,1.5vw,12px)}.matrix th{background:#f1eee8;color:#332820}.matrix td:first-child{font-weight:700;white-space:nowrap}
+    .evidence-accordion{display:grid;gap:12px;margin-top:22px}.evidence-item{border:1px solid var(--line);border-radius:16px;background:#fbfbf9;overflow:hidden}.evidence-item summary{cursor:pointer;list-style:none;padding:18px 54px 18px 18px;position:relative;font-weight:760;line-height:1.28}.evidence-item summary::-webkit-details-marker{display:none}.evidence-item summary::after{content:"+";position:absolute;right:18px;top:50%;transform:translateY(-50%);width:28px;height:28px;border:1px solid var(--line);border-radius:999px;display:grid;place-items:center;background:#fff;color:var(--accent)}.evidence-item[open] summary::after{content:"−"}.evidence-item[open] summary{border-bottom:1px solid var(--line);background:var(--soft)}.evidence-body{padding:20px}.evidence-clean{margin-top:18px;padding-top:16px;border-top:1px solid var(--line);font-weight:650;color:#273238}
+    .actor{display:flex;gap:14px;align-items:flex-start}.initial{flex:0 0 42px;height:42px;border-radius:50%;display:grid;place-items:center;background:var(--soft);border:1px solid var(--line);font-weight:800;color:#344047}.actor strong{display:block}.actor span{color:var(--muted);font-size:.9rem}
+    .rail{position:relative;padding-top:10px}.rail::before{content:"";position:absolute;left:0;right:0;top:0;border-top:3px solid var(--accent)}.rail.secondary::before{border-color:var(--accent2)}
+    .source-list{display:grid;gap:0;padding:0;margin:0;list-style:none}.source-list li{display:flex;justify-content:space-between;gap:18px;align-items:baseline;border-bottom:1px solid var(--line);padding:13px 0;max-width:none}.source-list li:last-child{border-bottom:none}.source-list span{color:var(--muted);font-size:.9rem;text-align:right}
+    .status-line{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0}.badge{padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:#fafafa;font-size:.82rem;font-weight:760}.badge.open{background:#edf5f0;border-color:#bfd3c6;color:#315a43}.badge.question{background:#faf3e4;border-color:#dfc794;color:#705013}.badge.record{background:#eef1f3;border-color:#cbd2d8;color:#394750}
+    .footer{max-width:var(--max);margin:0 auto;padding:clamp(22px,3vw,30px) clamp(16px,3vw,32px);color:var(--muted);font-size:.9rem;border-top:1px solid var(--line)}
+    @media(max-width:980px){.grid-three{grid-template-columns:repeat(2,minmax(0,1fr))}.nav{align-items:flex-start;flex-direction:column;gap:10px}.nav-links{justify-content:flex-start;width:100%}}
+    @media(max-width:760px){body{font-size:15.75px;line-height:1.54}.site-header{position:static;backdrop-filter:none}.nav{padding:10px 12px 8px;gap:8px}.nav-links{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px;font-size:.84rem}.nav-links a{background:#f1f0ec;border:1px solid var(--line);border-radius:10px;padding:9px 10px;text-align:center;color:#30363d}.hero{padding:28px 14px 18px}h1{font-size:clamp(1.9rem,10vw,2.8rem);line-height:1.05}.subtitle{font-size:.99rem;line-height:1.48;margin-top:16px}main{padding-left:10px;padding-right:10px;padding-bottom:48px}.grid-two,.grid-three{grid-template-columns:1fr}.panel{box-shadow:none;padding:16px;border-radius:12px;margin:12px 0}.panel h2{font-size:1.42rem}.matrix{display:block;overflow-x:auto}.source-list li{display:block}.source-list span{display:block;text-align:left;margin-top:3px}.actor{gap:10px}}
+  </style>
+</head>
+<body>
+<header class="site-header">
+  <nav class="nav" aria-label="Main navigation">
+    <a class="brand" href="index.html">For Counsel</a>
+    <div class="nav-links">
+      <a href="index.html">Overview</a>
+      <a href="case-theory.html">Case theory</a>
+      <a href="frame-management.html">Frame management</a>
+      <a href="issues-for-counsel.html">Issues</a>
+      <a href="#timeline">GDPR timeline</a>
+    </div>
+  </nav>
+</header>
+
+<section class="hero">
+  <p class="eyebrow">GDPR / documentary case</p>
+  <h1>Incorrigibility in the record, unfolding</h1>
+  <p class="subtitle">A counsel-facing map of what happened when the data subject moved from challenging the governing clinical frame to using the GDPR's formal mechanisms for access, rectification, completion, restriction and regulatory review.</p>
+</section>
+
+<main>
+  <section class="panel">
+    <p class="kicker">Central proposition</p>
+    <h2>The GDPR episode is the corrigibility theory tested in real time.</h2>
+    <p>The earlier record raises a clinical and governance question: could a diagnostic frame remain open to correction when unresolved facts kept returning? The 2025-2026 GDPR sequence supplies a more objective test. The data subject invoked the actual statutory mechanisms designed to make a record contestable: Article 15 to see the data, Article 16 to rectify or complete it, and Article 18 to restrict reliance while accuracy remained contested.</p>
+    <div class="callout"><strong>Core formulation.</strong> The issue is not whether historical medical opinion must be erased. The issue is whether a historically faithful record remained practically corrigible once later information materially qualified it, and whether the statutory mechanisms for access, completion, annotation and restriction were effective when invoked.</div>
+    <p>The working theory is interpretive, not doctrinal. “Incorrigibility of the record” is not presented as a freestanding legal cause of action. The enforceable questions arise under the GDPR itself: accuracy and accountability, transparent and timely rights administration, access, rectification/completion, restriction, notification and effective supervisory remedy.</p>
+  </section>
+
+  <section class="panel">
+    <p class="kicker">The environment before GDPR</p>
+    <h2>The frame was already operative before the first Article 16 request.</h2>
+    <div class="grid-three">
+      <article class="card">
+        <h3>25 March 2025 - Monaghan</h3>
+        <p>Dr Thomas Monaghan's QPS response is deeply apologetic about Liam Moloney's experience and the pain and discomfort he had endured. It accepts that Sinemet helped the experience of pain, while preserving idiopathic Parkinson's disease as the governing explanatory frame and defending cautious levodopa escalation.</p>
+      </article>
+      <article class="card">
+        <h3>15 April 2025 - Nolan</h3>
+        <p>Aoife Nolan's closure letter records the complaint as one concerning bias and diagnostic anchoring, notes that Sinemet CR had been effective for foot pain, and records Moloney's allegation that the earlier failure to consider it led to prolonged and preventable pain. The complaint is classified as “solely relating to clinical judgment” and routed to the neurologist for response.</p>
+      </article>
+      <article class="card">
+        <h3>30 May 2025 - SIMT pathway</h3>
+        <p>After continuing dissatisfaction, Nolan moves the matter into the Incident Management Framework. A Preliminary Assessment Report is to be completed and presented to the Serious Incident Management Team. By the time GDPR restriction is later invoked, SIMT is therefore a known and imminent processing venue.</p>
+      </article>
+    </div>
+    <div class="quote">The GDPR rights were not invoked against an empty file. They were invoked against an existing institutional account that had already absorbed complaint, apology, treatment response and continuing disagreement without surrendering the governing frame.</div>
+  </section>
+
+  <section class="panel" id="timeline">
+    <p class="kicker">Perfect working chronology</p>
+    <h2>From complaint frame to statutory correction attempt to regulatory assessment</h2>
+    <p class="note">Dates below distinguish primary-document dates from later complainant characterisations. Where the source record itself contains a date discrepancy, that discrepancy is preserved rather than silently repaired.</p>
+    <div class="timeline">
+      <div class="event"><span class="date">19 March 2025</span><strong>Formal QPS complaint submitted.</strong><p>Moloney challenges diagnostic anchoring, failure to reassess and the handling of persistent foot pain, and requests independent review, disclosure and record preservation.</p><span class="tag">pre-GDPR environment</span></div>
+      <div class="event"><span class="date">25 March 2025</span><strong>Dr Thomas Monaghan responds to QPS.</strong><p>He apologises repeatedly for Moloney's experience and pain, accepts Sinemet's pain-relieving effect, but maintains the idiopathic Parkinson's frame and explains the treatment strategy within it.</p><span class="tag">frame maintained</span><span class="tag">QPS</span></div>
+      <div class="event"><span class="date">15 April 2025</span><strong>Aoife Nolan issues complaint closure/classification.</strong><p>The complaint is treated as relating solely to clinical judgment and sent to Monaghan under the hospital's chosen pathway. Nolan records Moloney's position that failure to consider Sinemet CR, possibly through emphasis on alcohol history, led to prolonged and preventable pain.</p><span class="tag">classification</span><span class="tag">closure</span></div>
+      <div class="event"><span class="date">30 May 2025</span><strong>Nolan confirms IMF - PAR - SIMT escalation.</strong><p>A Preliminary Assessment Report is to be reviewed by the IHA West and North West Serious Incident Management Team. This is the future process later named in the Article 18 restriction request.</p><span class="tag">SIMT known</span></div>
+      <div class="event"><span class="date">12 June 2025</span><strong>First Article 16 request: clinical record rectification and annotation.</strong><p>The grounds are express: inaccurate through omission of the core presenting foot symptom; misleading through the peripheral-neuropathy implication without confirmatory testing; and clinically incomplete where Parkinson's is presented conclusively without the stated diagnostic discriminator and later contradictory 2025 evidence. The requested remedies are rectification and annotation, not operative erasure.</p><span class="tag">Article 16</span><span class="tag">accuracy / completion</span></div>
+      <div class="event"><span class="date">13 June 2025</span><strong>Nolan restates the “clinical judgment” boundary and asks that further correspondence pause.</strong><p>She says the complaint is exempt from YSYS examination, explains that the Complaints Officer coordinates rather than investigates clinical-judgment complaints, points to the IMF/SIMT process for independent review, and asks Moloney to refrain from further correspondence while the case is collated.</p><span class="tag">governance boundary</span></div>
+      <div class="event"><span class="date">15 June 2025</span><strong>Second Article 16 request: QPS closure-letter data.</strong><p>Moloney challenges the representational accuracy of the QPS closure language and asks for correction/annotation, including the “assessment” terminology and Health Act framing. The request is broader than a conventional personal-record amendment and later receives a scope-based refusal.</p><span class="tag">Article 16</span><span class="tag">QPS data</span></div>
+      <div class="event"><span class="date">7 July 2025</span><strong>Two separate Article 16 reminders are sent.</strong><p>Each June request is identified by date. No extension notice is identified in the present primary package.</p><span class="tag">Article 12(3)</span></div>
+      <div class="event"><span class="date">7 July 2025</span><strong>Article 15 request targets the 2017 bedside teaching interaction.</strong><p>Moloney asks for personal data relating to a remembered interaction involving four medical trainees: clinical references, student or teaching notes, ward-round material, governance/education documentation and trainee assignment records.</p><span class="tag">Article 15</span><span class="tag">teaching event</span></div>
+      <div class="event"><span class="date">14 July 2025</span><strong>Nuala Madden acknowledges an unspecified “request for rectification”.</strong><p>She says the request requires careful review, is “a work in progress”, and asks Moloney to “bear with me”. The communication does not identify which June Article 16 request it concerns and does not on its face state an Article 12(3) extension or reasons for one. Moloney asks for clarification the same evening.</p><span class="tag">Madden</span><span class="tag">request identity</span></div>
+      <div class="event"><span class="date">16 July 2025</span><strong>Consolidated Article 16 clarification.</strong><p>Moloney restates the two earlier Article 16 requests and escalates the demand for a traceable GDPR determination. The contemporaneous statement that no acknowledgment had been received is inaccurate in light of Madden's 14 July acknowledgment and is preserved as adverse evidence.</p><span class="tag">adverse evidence preserved</span></div>
+      <div class="event"><span class="date">31 July 2025</span><strong>James Z. Clinton acknowledges DPC case C-25-7-2074.</strong><p>The DPC intake communication explains the complaint process, advises preservation of written exchanges and metadata, and confirms that supplementary material will be assessed with the original concern.</p><span class="tag">DPC</span><span class="tag">Clinton</span></div>
+      <div class="event"><span class="date">4 August 2025</span><strong>Article 18 restriction is invoked twice and SIMT is expressly named.</strong><p>Moloney asks that processing of the disputed diagnosis and related entries be restricted pending correction/annotation, requests a “data-clean” protocol for the incident review, data sources/versions and audit trail, and preservation of relevant records. One email says Article 16 “remains outstanding”; the follow-up says the June requests are “now formally closed”. Both are preserved.</p><span class="tag">Article 18</span><span class="tag">SIMT named prospectively</span></div>
+      <div class="event"><span class="date">5 August 2025</span><strong>Madden issues the Article 15 decision.</strong><p>The letter says it has been decided to “refuse” access to some records, then states that HSE does not hold personal data relating to several requested categories. It also says clinical records for 10-11 July 2015 are enclosed even though the request concerned July 2017. The record does not establish whether “2015” is a clerical error or the search year.</p><span class="tag">Article 15</span><span class="tag">refusal / non-holding</span></div>
+      <div class="event"><span class="date">7 August 2025</span><strong>Formal Article 77 complaint submitted to the DPC.</strong><p>The case moves from controller-side rights administration into regulatory complaint handling.</p><span class="tag">Article 77</span></div>
+      <div class="event"><span class="date">10 August 2025</span><strong>Supplementary evidence sent to Clinton.</strong><p>Moloney places the GP referral, discharge summary and Monaghan rebuttal before the DPC as a concentrated account of how he says the disputed data state was created and maintained.</p><span class="tag">DPC supplement</span></div>
+      <div class="event"><span class="date">27 August 2025</span><strong>The PAR is presented to SIMT.</strong><p>The later outcome letter records that the multidisciplinary SIMT, chaired by Dr Ramon McLoughlin, considered the Preliminary Assessment Report and was satisfied that care decisions were appropriate.</p><span class="tag">processing event</span><span class="tag">23 days after Article 18</span></div>
+      <div class="event"><span class="date">3 September 2025</span><strong>Nolan communicates the SIMT outcome: “no deficit in the care provided”.</strong><p>The primary outcome letter is dated 3 September. Some later complainant correspondence referred to an outcome date of 1 September; this page uses the date on the primary letter while preserving the later discrepancy as such.</p><span class="tag">new governance output</span><span class="tag">frame maintained</span></div>
+      <div class="event"><span class="date">6 September 2025</span><strong>GUH finally issues two substantive Article 16 decisions.</strong><p>The 12 June clinical request is introduced as a request “for the erasure of a record”, despite having sought rectification and annotation. The letter apologises for delay and largely reasons from preservation of historic professional opinion and continued processing. The 15 June QPS request is separately refused principally on the basis that the material sought does not relate to Moloney as personal data.</p><span class="tag">Article 16 decisions</span><span class="tag">erasure / rectification tension</span></div>
+      <div class="event"><span class="date">10 September 2025</span><strong>Evidence addendum sent to DPC case officer Ms Kenworthy.</strong><p>Moloney expressly puts the sequence before the regulator: late September refusals plus Article 18 invoked before the 27 August SIMT review. The stronger propositions in this addendum remain the complainant's legal characterisation, not established DPC findings.</p><span class="tag">DPC</span><span class="tag">Kenworthy</span></div>
+      <div class="event"><span class="date">24 November 2025</span><strong>Separate GDPR request to University of Galway concerning the same 2017 teaching interaction.</strong><p>The request engages Articles 15, 16 and 18 in relation to University-governed teaching, supervision and academic processing. It is a separate-controller route, not a merger of controllers.</p><span class="tag">University controller</span><span class="tag">Article 15 / 16 / 18</span></div>
+      <div class="event"><span class="date">8 December 2025</span><strong>University DPO reminder.</strong><p>The University request is expressly followed up. No substantive controller determination is located in the present record.</p><span class="tag">University controller</span></div>
+      <div class="event"><span class="date">24 December 2025</span><strong>University response period recorded as expired.</strong><p>Moloney notifies the DPC that no substantive response or extension has been received and that there is no University position on whether relevant teaching-related personal data are held or processed.</p><span class="tag">controller gap</span></div>
+      <div class="event"><span class="date">31 December 2025</span><strong>Article 77 complaint concerning the University is submitted.</strong><p>The University-side matter alleges non-engagement with the distinct controller's access, rectification and restriction duties.</p><span class="tag">University complaint</span></div>
+      <div class="event"><span class="date">13 January 2026</span><strong>Niamh Bourke of DPC CAERU suggests renewed contact with UHG may assist resolution.</strong><p>The DPC does not direct a fresh Article 16/18 request; it suggests that renewed controller engagement may prompt resolution.</p><span class="tag">DPC CAERU</span><span class="tag">Bourke</span></div>
+      <div class="event"><span class="date">14 January 2026</span><strong>Renewed Article 16 / Article 18 request sent directly to GUH DPO.</strong><p>The communication unmistakably identifies itself as a renewed Article 16 request, invokes Article 18 and Article 12(3), and states that it is “not a complaint, appeal, or clinical request”.</p><span class="tag">renewed rights exercise</span></div>
+      <div class="event"><span class="date">26 January 2026</span><strong>Emily Comerford, for QPS, issues a governance response.</strong><p>QPS says the complaint assessment and SIMT review were valid on contemporaneous information, that later dystonia does not require reopening, and that no current governance risk arises. The document does not describe itself as a GDPR determination.</p><span class="tag">QPS</span><span class="tag">Comerford</span></div>
+      <div class="event"><span class="date">27 January 2026</span><strong>Moloney tells the DPO that the QPS response is not the awaited GDPR determination.</strong><p>He expressly separates governance correspondence from the controller's Article 16/18 decision and says he will await the DPO response.</p><span class="tag">rights / governance distinction</span></div>
+      <div class="event"><span class="date">16 February 2026</span><strong>DPC notified of no located GUH DPO response.</strong><p>Moloney states that no acknowledgment, extension or substantive GDPR response has been received to the renewed request and asks the DPC to assess Articles 12(3), 16 and 18.</p><span class="tag">DPC notified</span></div>
+      <div class="event"><span class="date">7 August 2026</span><strong>Declan Fleming reframes the live GUH assessment around Articles 15, 16 and 18.</strong><p>Fleming asks for the Article 16 refusal basis, identification of outstanding Article 15 data/evidence of existence, confirmation of the Article 18 method/date, and separates University of Galway as another controller.</p><span class="tag">DPC assessment</span><span class="tag">Fleming</span></div>
+      <div class="event"><span class="date">10 August 2026</span><strong>Fleming confirms the GUH issues and supplied material are “under assessment”.</strong><p>He accepts the separate-controller architecture. The University complaint is then separately acknowledged under DPC0826812075. Later that day, the GUH file receives the final primary-evidence package and seven documentary questions.</p><span class="tag">current procedural posture</span><span class="tag">two DPC matters</span></div>
+    </div>
+  </section>
+
+  <section class="panel">
+    <p class="kicker">The statutory interruption points</p>
+    <h2>Three rights, one practical question: could the record be challenged before it governed again?</h2>
+    <div class="grid-three">
+      <article class="card rail"><h3>Article 15 - see</h3><p>The access right should make the informational environment visible. The 7 July request asked specifically about a remembered teaching encounter and the data that might situate it institutionally. GUH's formal reply leaves questions about refusal versus non-holding, search scope and the 2015/2017 date.</p></article>
+      <article class="card rail secondary"><h3>Article 16 - correct or complete</h3><p>The 12 June request did not seek to rewrite history wholesale. It identified omission, misleading implication and incompleteness, and sought rectification plus annotation. The later decision's “erasure” framing therefore matters because completion and supplementary qualification are distinct from deletion.</p></article>
+      <article class="card rail"><h3>Article 18 - pause reliance</h3><p>The restriction right was invoked before SIMT and named SIMT prospectively. The critical audit question is what effect GUH actually gave that request between 4 August and the point at which it says accuracy was determined.</p></article>
+    </div>
+    <div class="callout green"><strong>The structural point.</strong> If Article 15 could not reliably expose the relevant data, Article 16 did not produce a timely and clearly framed correction/completion decision, and Article 18 did not visibly interrupt downstream processing, then the GDPR episode supplies evidence about practical corrigibility without requiring a regulator to decide the underlying medical diagnosis.</div>
+  </section>
+
+  <section class="panel">
+    <p class="kicker">The hinge</p>
+    <h2>Article 18 sits directly across the SIMT chronology.</h2>
+    <table class="matrix">
+      <thead><tr><th>Date</th><th>Documented state</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>12 Jun</td><td>Accuracy/completeness challenged under Article 16.</td><td>The controller is on notice that the operative record is disputed.</td></tr>
+        <tr><td>4 Aug</td><td>Article 18 invoked twice; SIMT expressly named.</td><td>The data subject asks that disputed data not simply be treated as stable input during the review.</td></tr>
+        <tr><td>27 Aug</td><td>PAR presented to SIMT.</td><td>A concrete governance-processing event occurs during the unresolved dispute interval.</td></tr>
+        <tr><td>3 Sep</td><td>SIMT outcome communicated: “no deficit in care”.</td><td>A new institutional evaluative output is generated from some body of case data.</td></tr>
+        <tr><td>6 Sep</td><td>Article 16 decisions issued.</td><td>Only after SIMT's review/outcome does GUH formally state why it will not change the clinical record.</td></tr>
+      </tbody>
+    </table>
+    <div class="callout red"><strong>What is not yet proved.</strong> The documents do not by themselves prove that SIMT processed data that were legally restricted, that Article 18 was never implemented internally, or that the SIMT outcome was predetermined. Those questions require GUH's audit trail, data sources, restriction controls, decision record and any notice lifting restriction.</div>
+  </section>
+
+  <section class="panel">
+    <p class="kicker">Actors</p>
+    <h2>The same record passes through different institutional functions.</h2>
+    <div class="grid-two">
+      <article class="card actor"><div class="initial">TM</div><div><strong>Dr Thomas Monaghan</strong><span>Consultant neurologist</span><p>Provides the March 2025 clinical defence: deep apology and acceptance of pain/Sinemet response within a continued Parkinson's frame.</p></div></article>
+      <article class="card actor"><div class="initial">AN</div><div><strong>Aoife Nolan</strong><span>Quality &amp; Patient Safety Coordinator / Complaints Officer</span><p>Classifies the complaint, communicates the IMF/SIMT pathway, and later communicates the SIMT “no deficit” outcome.</p></div></article>
+      <article class="card actor"><div class="initial">NM</div><div><strong>Nuala Madden</strong><span>SARS Coordinator / Medical Records</span><p>Provides the 14 July acknowledgment, 5 August Article 15 response and 6 September Article 16 decisions.</p></div></article>
+      <article class="card actor"><div class="initial">RM</div><div><strong>Dr Ramon McLoughlin</strong><span>Clinical Director for Quality &amp; Patient Safety</span><p>Named in the SIMT outcome as chair of the 27 August meeting.</p></div></article>
+      <article class="card actor"><div class="initial">TO</div><div><strong>Prof Tim O'Brien</strong><span>Senior GUH / HSE West and North West actor named on SIMT material</span><p>Appears in the institutional header/context of the SIMT outcome material. The primary letter itself is signed by Nolan.</p></div></article>
+      <article class="card actor"><div class="initial">EC</div><div><strong>Emily Comerford</strong><span>Quality &amp; Patient Safety</span><p>Issues the January 2026 governance response maintaining the validity and continuing reliance of the earlier complaint/SIMT process.</p></div></article>
+      <article class="card actor"><div class="initial">JC</div><div><strong>James Z. Clinton</strong><span>Data Protection Commission</span><p>Issues the 31 July 2025 DPC acknowledgment and becomes the addressee of the early supplementary evidence.</p></div></article>
+      <article class="card actor"><div class="initial">K</div><div><strong>Ms Kenworthy</strong><span>DPC case officer (first name not established in the source reviewed)</span><p>Receives the 10 September 2025 evidence addendum linking the late Article 16 decisions and the Article 18/SIMT sequence.</p></div></article>
+      <article class="card actor"><div class="initial">NB</div><div><strong>Niamh Bourke</strong><span>DPC Complaint Assessment &amp; Early Resolution Unit</span><p>Explains DPC assessment requirements in January 2026 and suggests renewed contact with UHG may help resolve the matter.</p></div></article>
+      <article class="card actor"><div class="initial">DF</div><div><strong>Declan Fleming</strong><span>Data Protection Commission, Executive Officer</span><p>By August 2026 narrows the live regulatory problem to the administration of Articles 15, 16 and 18, separates the University controller, and confirms the GUH material is under assessment.</p></div></article>
+    </div>
+  </section>
+
+  <section class="panel">
+    <p class="kicker">Seven live documentary questions</p>
+    <h2>What Fleming can ask without accepting the larger theory.</h2>
+    <div class="evidence-accordion">
+      <details class="evidence-item" open><summary>1. Which June Article 16 request did the 14 July acknowledgment concern?</summary><div class="evidence-body"><p>Two separate Article 16 requests existed and both had been reminded. Madden's singular acknowledgment does not identify either by date or subject.</p><p class="evidence-clean">Regulatory proof required: request register, internal reference, allocation/routing trail, and status of the other June request.</p></div></details>
+      <details class="evidence-item"><summary>2. What Article 12(3) treatment did each June request receive?</summary><div class="evidence-body"><p>The substantive decisions are dated 6 September. No extension notice has been located in the primary package. Complexity could justify an extension; it does not itself prove that the extension mechanism was used.</p><p class="evidence-clean">Regulatory proof required: any timely extension notice, reason, date, duration and evidence of communication.</p></div></details>
+      <details class="evidence-item"><summary>3. Did the 6 September decision determine rectification/completion, or answer an erasure problem?</summary><div class="evidence-body"><p>The 12 June request expressly sought rectification and annotation. The decision opens by calling it “erasure” and reasons substantially from preservation of historic opinion. The question is not whether the historic diagnosis may remain; it is whether completion/annotation was separately assessed.</p><p class="evidence-clean">Regulatory proof required: contemporaneous Article 16 analysis addressing inaccuracy, incompleteness and supplementary annotation.</p></div></details>
+      <details class="evidence-item"><summary>4. What effect was actually given to Article 18 before SIMT?</summary><div class="evidence-body"><p>The 4 August request is express and names SIMT. SIMT then meets on 27 August before the 6 September Article 16 determination.</p><p class="evidence-clean">Regulatory proof required: restriction log, flags/controls, data sources, processing audit, decision date, lawful basis for any continued processing, and lifting notice if restriction was ended.</p></div></details>
+      <details class="evidence-item"><summary>5. Was the Article 15 outcome a refusal, a non-holding result, or both?</summary><div class="evidence-body"><p>The 5 August letter uses refusal language and non-holding language in the same determination. The existence of undisclosed records is not assumed.</p><p class="evidence-clean">Regulatory proof required: systems, custodians and repositories searched; category-by-category search outcome; any actual withholding ground.</p></div></details>
+      <details class="evidence-item"><summary>6. Was 2015 a typo, or the period actually searched?</summary><div class="evidence-body"><p>The request concerns July 2017. The response says 10-11 July 2015. A simple search record and attachment list can resolve the issue.</p><p class="evidence-clean">Regulatory proof required: search instruction, patient/admission identifiers used, and dates of the records supplied.</p></div></details>
+      <details class="evidence-item"><summary>7. Was the January 2026 Article 16/18 exercise ever determined by the controller?</summary><div class="evidence-body"><p>The renewed request is sent directly to the DPO and expressly labels the rights invoked. QPS later responds on governance; Moloney then expressly says he is still awaiting the GDPR determination. No separate DPO determination is located in the present package.</p><p class="evidence-clean">Regulatory proof required: acknowledgment, extension, refusal, Article 12(5) position, adopted QPS determination, or other DPO response.</p></div></details>
+    </div>
+  </section>
+
+  <section class="panel">
+    <p class="kicker">Two controllers / one event</p>
+    <h2>The University strand does not merge the controllers; it exposes the boundary.</h2>
+    <div class="grid-two">
+      <article class="card"><h3>GUH / HSE - C-25-7-2074</h3><p>The hospital was asked in July 2025 for personal data relating to the bedside teaching interaction. It gave a category-by-category response that combines refusal/non-holding language and denies holding several teaching-related categories.</p></article>
+      <article class="card"><h3>University of Galway - DPC0826812075</h3><p>The University was separately asked on 24 November 2025 about University-governed teaching, supervision and academic processing arising from the same event. On the present record, no substantive controller determination followed before the separate complaint was made.</p></article>
+    </div>
+    <div class="callout"><strong>Joined-up but legally separate.</strong> The regulator can preserve controller separation while still asking a factual accountability question: how can the data subject obtain a reliable account of the personal data arising from one identifiable teaching event when the hospital gives a negative/non-holding position and the University does not substantively determine its own request?</div>
+  </section>
+
+  <section class="panel">
+    <p class="kicker">Evidential discipline</p>
+    <h2>What this page does not conceal.</h2>
+    <ul>
+      <li>The 14 July Madden acknowledgment exists; later correspondence inaccurately says there had been no acknowledgment.</li>
+      <li>The first 4 August Article 18 email says Article 16 remains outstanding; the follow-up says the June requests are formally closed.</li>
+      <li>The 2015 reference in the Article 15 decision may be a clerical error rather than proof that the wrong year was searched.</li>
+      <li>“Erasure” may be a drafting/template error; its significance depends on whether the underlying analysis actually considered annotation/completion.</li>
+      <li>“Refuse” may be template language; its significance depends on what searches occurred and whether any responsive data were actually withheld.</li>
+      <li>The Article 18 emails prove invocation, not by themselves a breach. Operational compliance or non-compliance requires GUH's internal evidence.</li>
+      <li>Monaghan's apology is not an admission of negligence, and Nolan's “prolonged and preventable pain” formulation records Moloney's allegation rather than an independent QPS finding.</li>
+      <li>The presence of medical students, as remembered by Moloney, does not prove that a particular roster, logbook or teaching note exists.</li>
+      <li>The University and GUH are treated as separate controllers unless evidence establishes a different controller relationship for a particular processing operation.</li>
+    </ul>
+    <div class="quote">The strongest test remains: even if a benign explanation is accepted for an individual irregularity, what documentary or procedural question remains?</div>
+  </section>
+
+  <section class="panel">
+    <p class="kicker">Legal fit</p>
+    <h2>Why “corrigibility” has legal purchase without becoming a new doctrine.</h2>
+    <table class="matrix">
+      <thead><tr><th>Legal mechanism</th><th>Existing legal function</th><th>Corrigibility question in this record</th></tr></thead>
+      <tbody>
+        <tr><td>Art. 5(1)(d) / 5(2)</td><td>Accuracy plus controller accountability.</td><td>Could GUH demonstrate how it kept disputed health data accurate/complete for the purposes for which it continued to be used?</td></tr>
+        <tr><td>Art. 12</td><td>Transparent, intelligible and timely administration of rights.</td><td>Were distinct requests recognised, tracked, extended where necessary, and determined coherently?</td></tr>
+        <tr><td>Art. 15</td><td>Access to personal data and information about processing.</td><td>Could the data subject see the data environment surrounding the 2017 teaching event?</td></tr>
+        <tr><td>Art. 16</td><td>Rectification of inaccurate data and completion of incomplete data, including supplementary statement.</td><td>Could history be preserved while the record was qualified so later readers did not inherit only the old frame?</td></tr>
+        <tr><td>Art. 18</td><td>Restriction while accuracy is contested in the circumstances specified by the Regulation.</td><td>Could ongoing reliance be paused while the dispute was being resolved?</td></tr>
+        <tr><td>Art. 19</td><td>Communication of rectification/restriction to recipients where applicable.</td><td>If correction or restriction is ultimately required, how far must the corrective state travel downstream?</td></tr>
+        <tr><td>Art. 58</td><td>Supervisory corrective powers.</td><td>If rights were not effective when invoked, what present corrective action is required?</td></tr>
+      </tbody>
+    </table>
+    <p class="small">Official reference points: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679">GDPR - EUR-Lex</a>; <a href="https://www.dataprotection.ie/en/can-i-use-gdpr-have-my-medical-records-amended-or-erased">DPC - medical records, amendment and supplementary statement</a>; <a href="https://www.dataprotection.ie/en/individuals/know-your-rights/right-restriction-article-18-gdpr">DPC - Article 18 restriction</a>.</p>
+  </section>
+
+  <section class="panel">
+    <p class="kicker">Regulatory significance</p>
+    <h2>From one complaint to a possible rights-management question.</h2>
+    <p>The present DPC complaint does not need the Commission to adopt “incorrigibility” as a theory. It can proceed document by document. But if controller-side evidence confirms repeated failures across Article 12 timing, Article 15 search/communication, Article 16 completion/annotation, Article 18 operational restriction and the January re-engagement, the cumulative question changes.</p>
+    <div class="callout warn"><strong>Potential regulatory question.</strong> Is this a series of isolated mistakes affecting one complainant, or does the sequence indicate a defect in how Galway University Hospitals recognises, routes, distinguishes, times, determines and operationalises data-subject rights across DPO/SARS, Medical Records and QPS functions?</div>
+    <p>The DPC publicly states that an inquiry is generally considered where an alleged breach appears extremely serious and/or indicative of a systemic failing. This page does not assert that threshold has been met. It identifies the evidence that could rationally cause a regulator to test it.</p>
+    <p class="small"><a href="https://www.dataprotection.ie/en/individuals/exercising-your-rights/complaints-handling-investigations-and-enforcement-individuals">DPC - complaints, investigations and enforcement</a></p>
+  </section>
+
+  <section class="panel">
+    <p class="kicker">What would convert theory into proof</p>
+    <h2>The missing records are mostly controller-side records.</h2>
+    <div class="grid-two">
+      <article class="card"><h3>Rights administration</h3><ul><li>request register and internal references;</li><li>allocation/routing records;</li><li>extension decisions and notices;</li><li>contemporaneous Article 16 reasoning.</li></ul></article>
+      <article class="card"><h3>Article 18 operation</h3><ul><li>restriction flag or equivalent control;</li><li>PAR/SIMT data sources and versions;</li><li>audit logs for processing during the dispute;</li><li>decision/lifting notification.</li></ul></article>
+      <article class="card"><h3>Article 15 search</h3><ul><li>systems and repositories searched;</li><li>departments and custodians consulted;</li><li>retention position;</li><li>actual records supplied and dates.</li></ul></article>
+      <article class="card"><h3>January 2026</h3><ul><li>DPO acknowledgment or case entry;</li><li>extension/refusal/Article 12(5) position;</li><li>evidence that QPS was adopted as a GDPR determination, if claimed;</li><li>or confirmation that no DPO decision issued.</li></ul></article>
+    </div>
+    <div class="quote">Narrative explanation is not the decisive test. The decisive test is whether the controller can produce the contemporaneous administrative record that should exist if its explanation is true.</div>
+  </section>
+
+  <section class="panel">
+    <p class="kicker">Documentary synthesis</p>
+    <h2>What the GDPR chapter adds to the counsel case.</h2>
+    <p>The counsel theory began with a record that documented uncertainty yet allowed one frame to acquire durable authority. The GDPR chapter adds a later and more testable proposition: when statutory correction mechanisms were invoked, did they have enough practical force to alter, qualify, expose or temporarily restrain that authority?</p>
+    <div class="quote">Existing frame → complaint → clinical-judgment classification → SIMT pathway → Article 16 correction/annotation → Article 15 access → Article 18 restriction naming SIMT → SIMT “no deficit” output → Article 16 refusal framed partly through erasure/retention → continued governance reliance → renewed Article 16/18 → governance answer without located DPO determination → regulator assessment.</div>
+    <p>The record does not need to prove institutional motive to establish a corrigibility problem. It is enough to ask whether the systems that should permit correction actually worked. If access cannot expose the data, completion cannot qualify the record, restriction cannot interrupt reliance, and later requests cannot obtain a determination, then the legal machinery itself becomes evidence about the record's practical resistance to correction.</p>
+  </section>
+
+  <section class="panel">
+    <p class="kicker">Primary source index</p>
+    <h2>Documents underpinning this page</h2>
+    <ul class="source-list">
+      <li><strong>19 Mar 2025 - Formal QPS complaint</strong><span>diagnostic anchoring / review / disclosure</span></li>
+      <li><strong>25 Mar 2025 - Monaghan rebuttal</strong><span>apology + continued clinical frame</span></li>
+      <li><strong>15 Apr 2025 - Nolan closure letter</strong><span>clinical-judgment classification</span></li>
+      <li><strong>30 May 2025 - Nolan SIMT escalation</strong><span>IMF → PAR → SIMT</span></li>
+      <li><strong>12 Jun 2025 - Article 16 clinical request</strong><span>rectification + annotation</span></li>
+      <li><strong>13 Jun 2025 - Nolan process letter</strong><span>clinical-judgment boundary / correspondence pause</span></li>
+      <li><strong>15 Jun 2025 - Article 16 QPS request</strong><span>closure-letter personal-data challenge</span></li>
+      <li><strong>7 Jul 2025 - Article 16 reminders + Article 15 request</strong><span>separate rights exercises</span></li>
+      <li><strong>14 Jul 2025 - Madden acknowledgment + clarification</strong><span>unspecified rectification request</span></li>
+      <li><strong>31 Jul 2025 - Clinton DPC acknowledgment</strong><span>C-25-7-2074 intake</span></li>
+      <li><strong>4 Aug 2025 - Article 18 emails</strong><span>restriction / SIMT / data-clean protocol</span></li>
+      <li><strong>5 Aug 2025 - Madden Article 15 decision</strong><span>refusal / non-holding / 2015-2017 issue</span></li>
+      <li><strong>27 Aug + 3 Sep 2025 - SIMT review and outcome</strong><span>“no deficit in care”</span></li>
+      <li><strong>6 Sep 2025 - two Madden Article 16 decisions</strong><span>clinical + QPS refusals</span></li>
+      <li><strong>10 Sep 2025 - DPC addendum to Ms Kenworthy</strong><span>restriction / late decisions placed before regulator</span></li>
+      <li><strong>24 Nov-Dec 2025 - University GDPR sequence</strong><span>separate controller / same teaching event</span></li>
+      <li><strong>13-27 Jan 2026 - Bourke / renewed GUH rights / Comerford / DPO clarification</strong><span>second corrigibility test</span></li>
+      <li><strong>16 Feb 2026 - DPC non-response notification</strong><span>January rights unresolved on current record</span></li>
+      <li><strong>7-10 Aug 2026 - Fleming assessment sequence</strong><span>seven documentary questions / two-controller separation / under assessment</span></li>
+    </ul>
+  </section>
+
+  <section class="panel">
+    <p class="kicker">Counsel caution</p>
+    <h2>Use the structure, not the overclaim.</h2>
+    <p>This page is strongest if it remains a map of evidence and legal questions. It should not be pleaded as proof that GUH deliberately concealed records, that SIMT was predetermined, that the University and hospital colluded, or that every disputed clinical proposition was factually false. The documentary force is more exact: the record acquired reliance; formal mechanisms for correcting, exposing and restricting that record were invoked; and the effectiveness of those mechanisms is now itself capable of objective regulatory examination.</p>
+    <div class="callout"><strong>Usable formulation.</strong> The GDPR chapter asks whether the institution's record was meaningfully corrigible in practice. The answer does not turn on hindsight. It turns on what happened when the data subject invoked the legal mechanisms specifically designed to make personal data accessible, correctable, completable and, while accuracy was contested, restrictable.</div>
+    <p class="small">Prepared as a counsel-facing explanatory document. It is not legal advice, medical advice, a pleading, or a statement of DPC findings.</p>
+  </section>
+</main>
+
+<footer class="footer">For Counsel — GDPR, corrigibility, reliance and the administration of data-subject rights.</footer>
+</body>
+</html>
