@@ -51,16 +51,16 @@ Liam's contemporaneous understanding was that Monaghan was not solely calling th
 
 ---
 
-## Proposition 2 — Neurology's own treatment regime generated direct evidence that the feet were medication-responsive, but the significance of that signal was not visibly incorporated into the neurological treatment model
+## Proposition 2 — Neurology's own treatment regime generated direct evidence that the referred gait–feet–tension complex was pharmacologically coupled, yet the feet remained operationally separated from the neurological disease model
 
-> **Within months of the July 2017 admission, Neurology's own procyclidine/Kemadrin treatment produced marked physical improvement, and a planned withdrawal experiment was followed by deterioration that included the feet. Whatever the mechanism, this was direct patient-specific evidence that the neurological treatment regime could materially alter the feet. The surviving record does not show that this finding caused Neurology to define what the response meant for the earlier Podiatry/Neurology partition or for future treatment decisions.**
+> **Within months of the July 2017 admission, Neurology's own procyclidine/Kemadrin treatment produced marked physical improvement across the same cluster that had prompted the GP referral — gait, feet and muscle tension — and a planned withdrawal experiment was followed by deterioration that included the feet. Whatever the precise mechanism, this was direct patient-specific evidence that the referred symptom complex could move together under neurological medication. The later record does not presently show that this treatment-response evidence caused the feet to be incorporated into the governing neurological disease model; instead, the feet continued to be allocated to alternative explanatory pathways even as neurological medication repeatedly altered them.**
 
 ### Supporting documentary and contemporaneous patient facts
 
 1. Before admission, the GP had already linked gait, feet and `muscle tension` in the Neurology referral pathway.
-2. During admission, Neurology itself documented a mixed picture: real structural foot pathology, a dystonic-looking lower-limb abnormality, and a relationship recorded as `Not clear`.
+2. During admission, Neurology documented a mixed picture: real structural foot pathology, a dystonic-looking lower-limb abnormality, and a relationship recorded as `Not clear`.
 3. Podiatry nevertheless became the operative pathway for the feet while Neurology treated the Parkinsonism.
-4. Procyclidine/Kemadrin was prescribed by Neurology as part of the neurological treatment regime.
+4. Procyclidine/Kemadrin was prescribed by Neurology as part of the neurological treatment regime and was, in practical terms, the first pharmacological response to the neurological referral complex.
 5. In a 4 October 2017 contemporaneous email written during a planned Kemadrin break, Liam recorded that Monaghan had instructed a staged titration and a treatment break after several weeks so that Liam could assess what effects the drug was having.
 6. The same email records that within days of beginning treatment there had been significant improvement and that Liam had been `living in a miracle, literally`.
 7. Liam contemporaneously listed concrete functional gains: `My walk is back together`, writing improved, he could stand straight, his legs were `loose and limber`, and he could perform multiple ordinary movement and dexterity tasks that had previously been difficult.
@@ -73,6 +73,14 @@ Liam's contemporaneous understanding was that Monaghan was not solely calling th
 14. Nor does the record presently show that this signal caused the earlier Podiatry/Neurology allocation or the criteria for prolonged dopaminergic deferral to be formally reconsidered.
 15. In October 2021, Sinemet entered the treatment architecture and the clinic record expressly says Kemadrin/procyclidine would be removed and replaced with Sinemet, escalated to 12.5/50 mg QDS.
 16. Later years again showed medication-state effects in the feet/lower limbs, including OFF/dystonic reasoning and eventual severe morning foot pain improving once Parkinson medication reached the system.
+17. From 2023 onward, severe foot pain was repeatedly considered alongside a `peripheral neuropathy` hypothesis and alcohol use. The record does not presently establish that peripheral neuropathy was objectively demonstrated as the explanation for the foot pain.
+18. In 2024 Neurology expressly recorded concern about the risk of an `alcohol related neuropathy`.
+19. In 2025, while the foot pain was severe enough that Liam described the first morning steps as `torture`, the neurologist recorded: `Once the Parkinsons medications hit his system he does have a relief in the feelings in the feet.`
+20. The same 2025 assessment described peripheral neuropathy conditionally: `If there is a degree of peripheral neuropathy here, the alcohol being gone will hopefully slow the deterioration of that.`
+21. In the same consultation the neurologist also recorded: `He knows very well that once the Sinemet hits his system that the feet feel better from a pain perspective.`
+22. The neurologist further stated: `I have little doubt other than that if we increased the Sinemet, he would probably get some further relief from the pain.`
+23. This creates a material evidential asymmetry: the peripheral-neuropathy/alcohol pathway remained conditional and hopeful, while the dopaminergic relationship with the feet was directly observed and expected to strengthen with increased Sinemet.
+24. The proposition to be tested is therefore not simple omission. The record may show **operational separation being repeatedly maintained**: alternative explanations remained available for the feet while treatment-response evidence linking the feet to neurological medication did not visibly become etiologically controlling.
 
 ### Patient voice
 
@@ -82,17 +90,28 @@ He recalls that when the drug was withdrawn, the **first pain to return** was th
 
 The present recollection should be read beside, not substituted for, the October 2017 emails. The emails directly corroborate the broader treatment-response state: dramatic improvement on Kemadrin/procyclidine, planned withdrawal to test effect, deterioration during withdrawal, foot restlessness during withdrawal, and later re-escalation because the lower dose did not cover all symptoms.
 
+Liam further states that the success of the 2017 treatment consolidated his trust in the neurological team. He believed he was in good hands and says that this trust persisted until the morning of 14 March 2025.
+
+For the 2023–2025 period, Liam says the repeated association in Neurology between foot pain, peripheral neuropathy and alcohol altered how he experienced discussions about the feet. He came to expect that raising severe foot pain would bring the conversation back to his drinking. That is patient evidence about the effect of the explanatory framework on communication; it is not, by itself, proof of the clinicians' motives.
+
 ### Source-status boundary
 
 - The October 2017 emails are contemporaneous patient-origin evidence.
 - The statement that the outside-left-foot pain was the *first* symptom to return is present patient recollection unless independently corroborated by a contemporaneous note/email/witness.
+- Liam's account of sustained trust from 2017 to 14 March 2025 is direct patient evidence of his own state of mind.
+- His account that the alcohol/neuropathy framing discouraged or constrained how he raised the feet is likewise patient evidence of the communication effect of that framing.
 - The proposition does **not** assert that procyclidine proved the feet were dystonia.
 - It does **not** assert that procyclidine and levodopa are pharmacologically interchangeable.
-- It asserts the narrower point that Neurology's own treatment materially altered the feet and therefore generated a clinical question about what that treatment-foot interaction meant.
+- It does **not** assert that peripheral neuropathy was impossible or that alcohol could not be clinically relevant.
+- It asserts the narrower point that Neurology's own treatments repeatedly altered the feet while an alternative neuropathy/alcohol explanation remained incompletely resolved.
 
-### Expert question
+### Expert questions
 
 > **What clinical significance should a treating neurologist attach when a planned withdrawal of antiparkinsonian medication is followed by deterioration that includes the feet, particularly where the foot/neurological relationship had previously been left unresolved? What assessment, documentation or reconsideration would good neurological practice ordinarily require?**
+
+> **Where peripheral neuropathy is repeatedly invoked as a possible explanation for disabling foot pain in a patient under longitudinal neurological care, what objective assessment would ordinarily be expected to establish whether neuropathy is actually present, characterize it, and determine its likely cause?**
+
+> **How should a neurologist reconcile a conditional neuropathy hypothesis — `if there is a degree` — and a hoped-for benefit from alcohol cessation with directly observed foot-pain relief after Sinemet and an expressed expectation that more Sinemet would probably provide further relief?**
 
 ---
 
@@ -101,3 +120,7 @@ The present recollection should be read beside, not substituted for, the October
 The two propositions interact:
 
 > **If the treatment rule was to avoid dopamine replacement `for as long as possible`, then evidence that Neurology's own medication materially changed the feet was potentially relevant to deciding what ongoing disability counted toward the endpoint of that rule. The surviving record does not presently show the feet being incorporated into a defined reopening threshold.**
+
+The longer longitudinal question is now sharper:
+
+> **By October 2017 Neurology's own treatment had functionally demonstrated that the GP-referred gait–feet–tension complex could move together under neurological medication. By 2025 the record again documented direct dopaminergic relief of severe foot pain, while the competing peripheral-neuropathy/alcohol explanation remained conditional. The issue for expert assessment is whether the feet were merely overlooked, or whether the clinical architecture repeatedly preserved their separation from the Parkinsonian treatment model despite treatment-response evidence capable of challenging that separation.**
