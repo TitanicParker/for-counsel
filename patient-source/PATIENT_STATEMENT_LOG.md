@@ -227,3 +227,48 @@ This entry is distinct from PSL-0001. PSL-0001 concerns the communication after 
 `UNASSESSED`
 
 This entry should be assessed principally against the documentary timing of discharge and the Podiatry pathway. The key evidential questions are whether the protest can be independently placed and corroborated, what the neurologist's response meant in context, and whether the Podiatry referral record contains a clinical rationale or merely an operative disposition.
+
+---
+
+## PSL-0004 — Exact date, ward, time window and new student batch at protest
+
+**Statement date:** 2026-08-12  
+**Historical period/event described:** Monday 10 July 2017, St Anthony's Ward, approximately 10:00–12:00  
+**Statement type:** clarification of chronology / witness identification context  
+**Prompt context:** Liam supplied more specific identifying details for the four medical students who he says witnessed the bedside protest.
+
+### Liam's statement
+
+> “There were four medical students present at the protest that was omitted. The day was July 10th, 2017. The location was St. Anthony's Ward. The time was between 10 and 12 noon of that day.”
+
+Liam further clarified that:
+
+> “it was their first day. They were a new batch of students on the ward. Secondly, the four of them were together.”
+
+### Source-status note
+
+This entry is direct first-person evidence of Liam's present recollection of the identifying coordinates of the witness group. It supersedes the earlier uncertainty in PSL-0003 about whether the Monday was 10 July, but it does not independently prove those coordinates.
+
+The new details are potentially useful because they define a narrow records-search target:
+
+- Monday 10 July 2017;
+- St Anthony's Ward;
+- approximately 10:00–12:00;
+- four medical students together;
+- first day of a new batch/placement on the ward.
+
+### Potential corroboration / contradiction routes
+
+- University of Galway medical-student clinical-placement rosters;
+- first-day/orientation timetables for St Anthony's Ward on 10 July 2017;
+- teaching-group allocations and attendance sheets;
+- Neurology/ward teaching schedules;
+- supervising-clinician allocations;
+- student logbooks or contemporaneous placement records;
+- independent cross-identification by the students themselves once one or more names are found.
+
+### Analytical status
+
+`UNASSESSED`
+
+The clarification materially improves witness-identification feasibility. Any witness contact should preserve independent recollection and avoid disclosing the detailed protest account before the witness gives their own first account.
