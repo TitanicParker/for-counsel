@@ -146,3 +146,39 @@ The wording should remain preserved exactly as supplied by Liam and should not b
 `UNASSESSED`
 
 The entry has been logged as source evidence. Its relationship to existing documentary evidence and propositions should be assessed separately rather than embedded into the source text.
+
+---
+
+## PSL-0002 — Lyrica initiation, dose escalation, and perceived lack of material effect
+
+**Statement date:** 2026-08-12  
+**Historical period/event described:** approximately 2023 onward  
+**Statement type:** treatment received / symptom experience / patient interpretation  
+**Prompt context:** Liam volunteered a clarification about how Lyrica entered his treatment history and how he understood its effect during a period of severe medication-related movement fluctuation.
+
+### Liam's statement
+
+> “Lyrica was obtained outside the treatment pathway initially. It was initiated outside the treatment pathway in approximately 2023. And at that stage, I was in severe cycles of dystonia and dyskinesia caused by Sinemet and Stalevo and Rasagiline, all being input into my system, turning dystonia into dyskinesia, peaks and troughs, peaks and troughs, dystonia, dyskinesia, ever and ongoing. The relief, the initial early relief provided by the Lyrica was merely, it was not nerve-related and it wasn't significant, as you can see from the records. I was scaled up from 25 milligrams a day to 600 milligrams a day and back down again with no change. And that's documented for the most part.”
+
+### Source-status note
+
+This entry is direct first-person evidence of Liam's recollection of how Lyrica was initially obtained, the treatment context in which he began taking it, the movement-state fluctuations he experienced, the dose range he remembers, and his own assessment that Lyrica did not materially change the underlying problem.
+
+The statement that the cycles were `caused by Sinemet and Stalevo and Rasagiline`, that dystonia was being turned into dyskinesia, and that the initial relief was `not nerve-related` are Liam's clinical interpretations of his experience. They should not be converted into established medical causation without comparison with the contemporaneous clinical record and, where needed, expert interpretation.
+
+The stated dose history from approximately 25 mg/day to 600 mg/day and back down again should be checked against prescribing and neurology records. The repository already contains later records documenting Lyrica at 600 mg/day and subsequent reduction, but this entry itself remains the source for Liam's recollection of the complete dose trajectory and his perceived lack of material change.
+
+### Potential corroboration / contradiction routes
+
+- 2023 Neurology records concerning severe foot pain, Lyrica use, Sinemet/Stalevo use, dystonia/OFF reasoning and dyskinesia;
+- 2024 Neurology record documenting Lyrica 150 mg four times daily (600 mg/day), improvement in foot pain, persistent toe curling, and dopamine `balancing problem`;
+- 2025 Neurology record documenting reduction of Lyrica to 50 mg three times daily and renewed discussion of foot pain;
+- GP and prescribing records capable of fixing initial Lyrica source, start date, starting dose and titration history;
+- pharmacy dispensing records if available;
+- medication lists and correspondence from the period.
+
+### Analytical status
+
+`UNASSESSED`
+
+This entry should be compared against the longitudinal medication record before any proposition is changed. In particular, the record should distinguish between relief of pain, persistence of toe curling/dystonia, dyskinesia, and Liam's broader assessment that changing the Lyrica dose did not materially alter the underlying problem.
