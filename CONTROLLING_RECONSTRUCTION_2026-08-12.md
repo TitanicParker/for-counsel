@@ -2,197 +2,306 @@
 
 ## Status
 
-This document records the controlling case reconstruction after a fresh reread of the 2017 source state, longitudinal Neurology, 2025 complaint/response material, 2026 PRKN result, and the newer patient-voice / authority analyses.
+This is the final pre-proposition reconstruction. It supersedes earlier versions that made the case depend on missed PRKN, a purely dystonic-foot theory, formal hierarchy, or a single disputed conversation.
 
-It supersedes any tendency to make the case depend on proving that every foot symptom was dystonia, that PRKN was simply missed, or that hierarchy/semantic transformation must carry the central argument.
+The centre is now simple:
 
-## The centre of the case
+> **A provisional treatment decision made under uncertainty became more durable than the evidence on which it rested.**
 
-The centre is now simpler.
+Or more shortly:
 
-> **In 2017 Galway correctly recognised severe young-onset Parkinsonism and itself identified PRKN/PARK2 as a plausible cause. The same admission recorded a dystonic-looking lower-limb abnormality and an unresolved painful-foot presentation. The treating neurologist supplied Liam and his GP with departmental material describing PRKN as characteristically young, sometimes dystonic and symmetrical, and highly levodopa-responsive. Nevertheless, a deliberate strategy to defer levodopa became controlling. As PRKN suspicion strengthened and medication-sensitive, Parkinsonian and later OFF/dystonic phenomena appeared in the feet and lower limbs, the record does not show the original treatment/partition decision being returned to an open state. The foot phenotype remained mixed and incompletely explained for years. When dopaminergic treatment was eventually brought directly into the severe morning-foot problem in 2025, it generated information that caused Liam to reopen the history. The 2026 genetic result then confirmed Parkin disease as the cause of his Parkinsonism and dystonia.**
+> **Recognition succeeded; reassessment may have failed.**
 
-## What this means
+---
 
-The case does **not** require proof that all foot pain was Parkinsonian or dystonic.
+## The July 2017 hinge
 
-The record supports a mixed phenotype:
+Galway recognised severe young-onset Parkinsonism during the first admission. The phenotype was markedly symmetrical, akinetic-rigid, unusually young and partly dystonic-looking. Structural foot pathology was also real. The neurological relationship of the feet/lower limbs was explicitly left `Not clear`.
 
-- genuine corns/calluses, pes planus and hammertoes;
-- benefit from local measures;
-- benefit from pregabalin/Lyrica;
+PRKN/PARK2 was not missed. It was raised within the initial reasoning.
+
+The case was reviewed at a Neurology Complex Case Meeting. Monaghan later stated that this would have been on a Tuesday morning and likely during Liam's first admission. With admission on Monday 3 July 2017, Tuesday 4 July is the obvious chronology inference, although the native meeting record remains an acquisition target.
+
+The contemporaneous plan directly links Counihan and Neurology colleagues to future dopaminergic-treatment caution:
+
+> `The greatest of care has been advised with Prof Counihan and Neurology Colleagues...`
+
+The rationale expressly included the exceptionally young estimated onset:
+
+> `disease onset was at c 24/26 years of age.`
+
+The operative policy was not merely `be cautious` or `not yet`:
+
+> **`We were likely try and avoid these for as long as possible.`**
+
+Monaghan then represented the local position to Healy as:
+
+> `Myself and Tim are keen to hold back on Levodopa insofar as maybe possible unless you'd advise otherwise?`
+
+At the same time, Monaghan's own reasoning recognised the opposite possibility: that Liam might do very well on levodopa and that delay might later be regretted.
+
+That creates the first governing question:
+
+> **What was supposed to make `for as long as possible` end?**
+
+The record presently shows no explicit review date, disability threshold, failed-treatment threshold, specialist-opinion trigger, phenotype trigger or other stopping rule.
+
+---
+
+## Why Counihan matters without overclaiming hierarchy
+
+The case does not require proof that Counihan issued an order or formally commanded Monaghan.
+
+The stronger point is **epistemic authority**.
+
+Monaghan expressly said he was not a movement-disorders neurologist. Yet the treatment caution was attributed to Prof Counihan and Neurology colleagues, and the continuing position was described as `Myself and Tim` being keen to hold levodopa back.
+
+Counihan was not an interchangeable member of an anonymous `we`: he was the locally relevant Galway neurologist with directly relevant Parkinson's/movement-disorder and PRKN/genetics knowledge.
+
+The Galway Parkinson's-genetics material associated with the 2017 discharge environment described PRKN using features strikingly close to Liam's presentation: juvenile/early onset, dystonia, symmetry, excellent levodopa responsiveness, and a role for genetic investigation in atypical early-onset disease.
+
+That makes the unresolved question sharper, not accusatory:
+
+> **Did Counihan personally endorse prolonged avoidance despite the live PRKN phenotype, or did Monaghan translate a narrower specialist warning to use exceptional care into the stronger operational rule of avoiding treatment for as long as possible?**
+
+Until native Complex Case Meeting material or Counihan correspondence is produced, that distinction remains open.
+
+---
+
+## The foot/lower-limb problem was never a single thing
+
+The case must preserve the mixed phenotype.
+
+Real structural pathology existed: corns, calluses, pes planus, hammertoes/mallet toes and pressure areas. Local treatments later helped some local lesions. Pregabalin/Lyrica later improved some pain.
+
+But the neurological record simultaneously contained:
+
 - dystonic-looking lower-limb posture in 2017;
-- later explicitly Parkinsonian foot/lower-limb movement;
-- toe curling and OFF/dystonia reasoning;
-- medication-state effects on pain and movement;
-- later genetically confirmed Parkin-related Parkinsonism and dystonia.
+- a gait described as `almost dystonically unusual`;
+- a relationship to the feet recorded as `Not clear`;
+- later medication-sensitive phenomena;
+- a 2020 statement that the footdrop-like lower-limb `throw` was Parkinsonian despite normal strength;
+- 2023 OFF/dystonia reasoning and Stalevo use for movement and pain;
+- 2024 persistent toe curling despite improvement in some pain;
+- 2025 severe morning foot pain improving when Parkinson medication reached the system.
 
-The correct 2017 clinical state was therefore not `the feet were neurological` and not `the feet were separate`.
+The correct reconstruction is therefore neither `all feet were neurological` nor `the feet were separate`.
 
-It was the wording the record itself preserved:
+It is:
 
-> **Not clear.**
+> **The phenotype was mixed, and the unresolved neurological component required longitudinal reintegration.**
 
-The central question is what happened operationally to that uncertainty.
+---
 
-## The first lock, restated
+## The later-2017 procyclidine signal
 
-The first lock is no longer best expressed as an allegation that clinicians failed to recognise PRKN.
+The later-2017 withdrawal/restoration sequence is important because it supplies an early signal that at least part of the disputed lower-limb/foot syndrome was pharmacologically neurologically modifiable.
 
-They recognised it as a live possibility.
+That does **not** prove that levodopa would necessarily have relieved the same symptom in 2017. Procyclidine and levodopa are not mechanistically interchangeable.
 
-The stronger question is:
+But it does matter to the partition question. Once withdrawal/restoration of a centrally acting neurological treatment materially altered the disputed syndrome, a simple mechanical/peripheral account became harder to leave unqualified.
 
-> **Given a very young, markedly symmetrical Parkinsonian patient with a dystonic-looking lower-limb abnormality, a live PRKN/PARK2 differential, and locally supplied PRKN literature describing excellent levodopa responsiveness, what was supposed to cause the levodopa-deferral decision to be reconsidered as the phenotype developed?**
+The expert question is therefore not:
 
-If no reopening trigger existed, then the lock was built into the plan.
+> `Did procyclidine response prove levodopa response?`
 
-If a reopening trigger did exist, the record should show when it was activated and what information caused the decision to return to an open state.
+It is:
 
-## The 2018 document is especially important
+> **What should that response have done to the unresolved neurological hypothesis, and should it have counted as a signal capable of reopening the `for as long as possible` treatment architecture?**
 
-By April 2018 the treating record states:
+---
 
-- PRKN/PARK2 was what `we/Prof Healy suspect is the cause`;
-- a specific PRKN test or panel was a reasonable route;
-- Liam could `obviously ... be very much better` with levodopa or another dopamine agonist;
-- nevertheless `we do not want to do that - at least for quite some time`.
+## Healy changed the evidential state
 
-This is a clean expression of the lock.
+Healy personally examined Liam and wrote in September 2017:
 
-By then the issue was not whether Parkinsonism had been recognised, whether PRKN had been contemplated, whether outside specialist knowledge existed, or whether dopaminergic treatment might substantially improve him.
+> `I think probably has Park II...`
 
-The treatment remained deliberately unavailable because of the existing strategy.
+He then described PARK II patients as tending to manage well for long periods with relatively low-dose dopamine replacement while becoming dyskinetic if over-used.
 
-## Treatment caution remains real qualifying evidence
+He did not order immediate levodopa.
 
-The levodopa-deferral rationale was not imaginary.
+But his opinion materially changed the evidential state in two ways:
 
-The record repeatedly identifies concern about dyskinesia, impulse-control disorders and dopamine dysregulation in a very young patient. When Sinemet was eventually introduced in 2021, dyskinetic/choreiform phenomena did in fact emerge.
+1. PRKN moved from local possibility to an external specialist's `probably has Park II` assessment.
+2. The treatment framing was cautious replacement / avoid over-use, not simply prolonged non-use.
 
-The case should therefore not portray the clinicians as irrationally frightened of levodopa.
+A key documentary absence is the lack of visible comparative reasoning between Healy's model and Galway's existing `for as long as possible` model.
 
-The stronger formulation is:
+---
 
-> **A legitimate concern about future treatment complications may have become powerful enough to determine the present treatment architecture and to prevent treatment from also functioning as an information-generating intervention in an unusually young, dystonic, genetically suggestive patient.**
+## 2018 shows the lock in mature form
 
-The expert question is not whether caution had a rationale. It plainly did.
+By April 2018 Galway still recorded PARK2/PRKN as what `we/Prof Healy suspect is the cause`.
 
-The expert question is whether that rationale remained proportionate and sufficiently revisitable as the information state changed.
+Monaghan wrote that he was `Obviously ... particularly interested to know`, but also that confirmation:
 
-## PRKN knowledge environment
+> `doesn't particularly change current management - so there is no great loss in "not knowing" currently right now.`
 
-The departmental article enclosed with Liam's 2017 discharge package is now a central source.
+The same record states that Liam could:
 
-Its importance is not merely that Counihan had once published on genetics.
+> `obviously ... be very much better`
 
-Its importance is that Monaghan selected and physically enclosed Galway departmental material as relevant explanatory information for Liam and his GP while simultaneously discussing PRKN/PARK2 in Liam's own case.
+on levodopa or a dopamine agonist, but:
 
-The article describes Parkin/PRKN disease using features including:
+> `we do not want to do that - at least for quite some time.`
 
-- early/young onset;
-- dystonia;
-- symmetrical signs and symptoms;
-- excellent levodopa response.
+This is the cleanest expression of path dependence in the record.
 
-This is contemporaneous evidence of the neurological knowledge environment surrounding Liam's case.
+The question effectively became:
 
-It should be preserved as part of the complete discharge package, not detached from its provenance.
+> **Would knowing PRKN change the management plan we have already chosen to preserve?**
 
-## The hierarchy is supporting architecture, not the centre
+rather than:
 
-The Monaghan/Counihan/Healy map remains important, but it should not carry the case.
+> **Does probable PRKN require us to reconsider the plan chosen before we had this information?**
 
-The functional roles remain:
+That distinction is central to the later proposition phase.
 
-- Monaghan held the evolving bedside information and continued management;
-- Counihan's view carried senior local weight in the early treatment discussion;
-- Healy was an external specialist route for young-onset/genetic Parkinsonism and was expressly invited to advise if he disagreed with holding levodopa back.
+---
 
-But by 2018 Monaghan himself expressly owns the continuing decision not to use levodopa for quite some time.
+## October 2021: `for as long as possible` ends in practice
 
-The central governance question is therefore recursive rather than hierarchical:
+The October 2021 clinic letter provides a major chronological endpoint.
 
-> **What changed after the original decision, and what process required the changed patient to be returned to that decision?**
+It records that in September 2021 Liam felt undertreated and was started on his first levodopa drug, Sinemet 62.5 mg twice daily (`12.5/50 mg BD`).
 
-## The protest remains important but should not carry the whole case
+It then records an ocular-pressure concern and an explicit treatment substitution:
 
-Liam's reported bedside protest remains a material hinge event because, if corroborated, it would show contemporaneous disagreement at the point when the feet were being given a practical pathway and the treatment strategy was becoming settled.
+> Paddy Browne suggested that `we would remove the Kemadrin and replace it with the Sinemet (for the ocular pressure).`
 
-The final record later preserves extensive explanation, collective authority and `good understanding`, but not that counter-state.
+The letter states that Sinemet was increased to four times daily and that Liam hoped the increased Sinemet dose would more than compensate for removal of Kemadrin/procyclidine.
 
-The four students remain a defined potential witness class.
+This is an important distinction:
 
-However the case does not depend on proving that the protest alone explains the clinical failure.
+- it does **not** prove procyclidine and Sinemet are pharmacologically interchangeable;
+- it **does** prove that, in this patient's actual management, Sinemet was used as the replacement neurological treatment when Kemadrin/procyclidine was removed.
 
-Likewise, the semantic question about `foot pain and leg tension were not the same problem` remains useful for reconstructing what Liam meant, but it should not be asked to carry the central mechanism.
+That makes the 2021 transition unusually important for the longitudinal case architecture.
 
-## The second lock, restated
+The original `for as long as possible` period had ended.
 
-The 2017 discharge package is unusually extensive and deliberately explanatory.
+The forensic question becomes:
 
-It contains the clinical narrative, examination, differential diagnosis, genetic reasoning, Counihan reference, Healy correspondence, genetic-testing material, pharmaceutical information, scientific literature, investigations and administrative consequences.
+> **What counted in 2021 that had not counted earlier, and were the feet/lower limbs among the symptoms permitted to end the waiting period?**
 
-That makes it a valuable source, but it also creates retrospective coherence.
+---
 
-The final object combines information developed at different times, including post-discharge DaTSCAN material, into one integrated explanatory package.
+## The 2025 foot response does not prove 2017 treatment, but it tests the old partition
 
-The second-lock question is therefore:
+By 2025 the severe morning foot problem itself had become directly linked to medication timing.
 
-> **What was actually known when the treatment strategy first hardened, and what subsequently became known without causing that strategy to reopen?**
+The treating record accepted that the feet improved once Parkinson medication reached the system, expected that additional Sinemet would probably provide further relief subject to dyskinesia limits, and operationalised overnight/early-morning dopaminergic coverage with controlled-release Sinemet.
 
-The issue is chronology of knowledge, not an allegation that the record was improperly altered.
+Major relief was then reported.
 
-## The longitudinal record
+This does not prove that controlled-release Sinemet should have been prescribed in 2017.
 
-The later years should be used to test the adequacy of the inherited partition, not to prove an all-dystonia theory.
+Its stronger significance is retrospective testing of the inherited symptom partition:
 
-Important reopening signals include:
+> **A symptom domain that had not visibly functioned as a trigger for ending `for as long as possible` was ultimately shown to be materially dopaminergically modifiable.**
 
-- 2018 medication-sensitive change involving the outside-left-foot phenomenon and marked relief from tension;
-- 2020 explicit clinical statement that the footdrop-like lower-limb `throw` was Parkinsonian while a local corn separately responded to bunion covers;
-- 2023 OFF/dystonia reasoning, inability to walk in the evening, and Stalevo used for both movement and pain;
-- 2024 Lyrica improving pain but not toe curling;
-- 2025 severe morning foot pain improving once Parkinson medication reached the system, with more Sinemet expected to provide further relief but limited by dyskinesia risk.
+That raises a simple expert question:
 
-These facts demonstrate that `the feet` were not a stable unitary causal category.
+> **Was `for as long as possible` measured against an incomplete symptom model?**
 
-## March 2025, restated
-
-March 2025 should not be presented as proving that all historic foot pain was Parkinson's disease.
-
-Its stronger significance is:
-
-> **The intervention generated information demonstrating that the inherited partition of the foot problem was clinically inadequate.**
-
-The treating neurologist accepted that the feet improved once Sinemet reached the system, expected further pain relief from additional Sinemet, and operationalised Liam's hypothesis that the severe morning state might reflect the overnight absence of Parkinson medication.
-
-That event caused Liam to reopen the preceding history and complain nine days later.
+---
 
 ## 2026 genetics
 
-The February 2026 specialist conclusion establishes that Liam's Parkinsonism and dystonia are due to compound heterozygous Parkin mutations.
+The 2026 St Vincent's result confirmed two pathogenic Parkin variants and concluded that Liam's Parkinsonism and dystonia are due to compound heterozygous Parkin mutations.
 
-This provides later etiological coherence to two phenomena already present in the earlier record.
+This does not retrospectively dictate the 2017 standard of care.
 
-It does not prove that every historical foot symptom was dystonia and does not retrospectively supply a 2017 standard of care.
+Its importance is narrower and stronger:
 
-Its significance is that the eventual cause belonged to a diagnostic architecture the treating team had already entered in 2017–2018.
+> **The eventual cause belonged to the diagnostic branch Galway and Healy had already identified in 2017–2018.**
 
-## The single most useful question
+The case is therefore not about a hidden diagnosis finally discovered years later.
 
-The case should now repeatedly return to this question:
+It is about what happened to management after the correct etiological branch had already become visible.
 
-> **Given that PRKN was already suspected, a dystonic lower-limb phenotype was already recorded, and the PRKN material supplied with Liam's own discharge package expressly described excellent levodopa responsiveness, what was supposed to cause the decision to withhold levodopa to be reconsidered — and did that trigger ever exist?**
+---
 
-That question keeps the centre of the case simple while leaving the difficult medical questions where they belong: with the experts.
+## Patient voice must remain a parallel evidential layer
+
+The patient is not merely the object of the record.
+
+Liam's recollection of the immediate post-meeting communication — including `My boss told me not to give you the good stuff` and `in time I fear we may come to regret that` — remains patient-source evidence unless independently corroborated.
+
+It must not be upgraded into documentary fact simply because later documents fit around it.
+
+But it matters because patient voice can supply what the formal record often cannot:
+
+- what decision was actually communicated;
+- what Liam understood `for as long as possible` to mean;
+- whether any reopening rule was explained;
+- whether Podiatry felt adjunctive or like a hand-off;
+- what symptoms he was trying to distinguish;
+- when he first noticed medication-state effects;
+- what he repeatedly asked that never entered the notes;
+- whom he understood to own the decision.
+
+Every proposition drafted from this point should carry a patient-voice field.
+
+---
+
+## The simplest counsel case
+
+The case can be stated in one paragraph:
+
+> **In July 2017 Galway correctly recognised severe young-onset Parkinsonism, a live PRKN/PARK2 possibility and a dystonic-looking lower-limb problem whose relationship to painful structural feet was `Not clear`. A specialist-attributed collective treatment policy was nevertheless adopted to avoid levodopa/dopamine agonists `for as long as possible`, without a documented rule for what would end the waiting. Subsequent evidence repeatedly strengthened the neurological/PRKN side of the case: a later-2017 medication-modifiability signal, Healy's `probably has Park II` assessment and low-dose replacement model, continuing 2018 PRKN suspicion, later Parkinsonian/OFF/dystonic foot phenomena, and eventually a 2025 foot-pain response to dopaminergic timing. Yet the record does not show the original treatment/partition decision being formally reopened against those developments. In 2021 Sinemet finally entered and explicitly replaced procyclidine/Kemadrin in the treatment architecture; in 2026 genetics confirmed that the earlier PRKN branch was etiologically correct.**
+
+The shortest version is:
+
+> **They chose to wait `for as long as possible`, but never documented what would make further waiting no longer possible. The symptom domain that might have helped answer that question — the feet/lower limbs — was never securely integrated into the rule, despite repeated evidence of neurological and ultimately dopaminergic modifiability.**
+
+---
+
+## What is established / what remains open
+
+### Established
+
+- severe young-onset Parkinsonism recognised early;
+- dystonic-looking lower-limb abnormality documented;
+- structural foot disease also real;
+- PRKN/PARK2 expressly considered;
+- foot relationship recorded `Not clear`;
+- Complex Case Meeting review;
+- Counihan/Neurology colleagues expressly linked to treatment caution;
+- exact `for as long as possible` policy wording;
+- no levodopa challenge during admission;
+- Healy personally reviewed and wrote `probably has Park II`;
+- Healy described long-term relatively low-dose dopamine replacement with warning against over-use;
+- 2018 continuing PRKN suspicion plus management-neutrality language;
+- later neurological medication-modifiability signal in the disputed foot/lower-limb domain;
+- 2021 first Sinemet and explicit replacement of Kemadrin/procyclidine with Sinemet;
+- later Parkinsonian/OFF/dystonic/medication-state foot evidence;
+- 2025 severe morning foot pain materially improved with dopaminergic timing/coverage;
+- 2026 Parkin cause confirmed.
+
+### Open / expert-dependent
+
+- exact words Counihan used in the Complex Case Meeting;
+- whether Counihan personally intended prolonged avoidance or narrower caution;
+- whether initial July 2017 deferral was clinically proportionate;
+- whether a levodopa trial was clinically indicated at any particular earlier date;
+- whether procyclidine response should have prompted levodopa testing;
+- what portion of historic foot pain was structural, neuropathic, dystonic, OFF-related or mixed;
+- whether Healy's letter required immediate management change;
+- what injury or disability is causally attributable to any failure to reopen rather than natural disease progression;
+- what formal hierarchy, if any, existed between Counihan and Monaghan.
+
+---
 
 ## Writing rule from this point
 
-Do not overcomplicate the centre.
+Do not lose the ACME by burying the case in qualifications.
 
-Hierarchy, semantic transformation, protest, documentary completion, patient voice and institutional inheritance are important explanatory and evidential layers. They should support the case, not substitute for its central mechanism.
+Use qualifications where they change the proposition, not where they merely repeat that medicine is uncertain.
 
-The governing sequence is:
+Keep returning to the governing sequence:
 
-**PRKN/dystonic young-onset phenotype recognised → levodopa deliberately deferred → unresolved foot relationship remains `Not clear` → knowledge accumulates without visible reopening → mixed neurological/foot evidence returns repeatedly → 2025 targeted dopaminergic intervention generates disruptive information → 2026 Parkin genetics provides etiological coherence.**
+**young-onset PRKN/dystonic phenotype recognised → `for as long as possible` becomes the treatment default → feet remain `Not clear` and partly partitioned → neurological-modifiability signal appears → Healy strengthens PRKN and describes cautious low-dose replacement → no visible formal reconciliation → 2018 PRKN answer declared management-neutral → 2021 Sinemet ends total deferral and replaces procyclidine/Kemadrin → later foot evidence becomes explicitly Parkinsonian/OFF/medication-sensitive → 2025 dopaminergic timing relieves severe morning foot pain → 2026 PRKN confirmed.**
+
+That is the pre-proposition spine.
