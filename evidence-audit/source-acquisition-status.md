@@ -1,10 +1,11 @@
 # Source Acquisition Status
 
-**Purpose:** identify what the project now holds, what has been directly verified, and what still requires institutional disclosure or a native original. This is an acquisition-control document, not a case-theory document.
+**Updated:** 12 August 2026  
+**Purpose:** identify what the project holds, what has been directly verified, and what still requires institutional disclosure or a native original. This is an acquisition-control document, not a case-theory document.
 
 ## Status rule
 
-- **MATERIALISED** — a stable repository source page now exists.
+- **MATERIALISED** — a stable repository source page exists.
 - **DIRECTLY INSPECTED / NATIVE EXTERNAL** — the original/native document has been supplied to and directly inspected in the project, but the binary original is not yet stored in the repository.
 - **REPRODUCED IN LATER BUNDLE** — historical material appears inside a later clinician/regulatory bundle; it is useful for genealogy but is not a new independent historical source.
 - **NOT LOCATED / DISCLOSURE REQUIRED** — not presently available in the accessible corpus.
@@ -13,117 +14,97 @@
 
 ## Materialised and directly verified
 
-### 2017 clinical entry and neurological pathway
+### 2017 clinical and referral pathway
 
-- **GP referral, 29 June 2017** — native PDF directly inspected; repository clinical source page already exists. The native PDF confirms bilateral foot issues within the neurological presentation.
-- **2017 Neurology/discharge material** — repository source pages exist and the July 2025 Monaghan supporting bundle reproduces the working clinical record containing the same examination, “Not clear” wording, treatment plan and podiatry referral.
-- **2017 Monaghan-to-Healy correspondence** — materialised separately; the reproduced page contains “Myself and Tim are keen to hold back on Levodopa...” but does not itself identify “Tim”.
+- **GP referral, 29 June 2017** — native PDF directly inspected; repository clinical source page exists. It places the feet, abnormal gait and neurological deterioration inside the accepted presenting problem.
+- **GP Podiatry note, 6 July 2017** — directly verified from the 2017 GP record and now materialised at `docs/source-records/gp-podiatry-2017-07-06.md`. The GP records: `Phoned podiatry to discuss case - will mark as priority case and as Parkinson's - should be called mid September`.
+- **2017 Neurology/discharge material** — repository source pages exist. The record contains severe young-onset Parkinsonism, dystonic-looking lower-limb abnormality, structural foot pathology, the `Not clear` relationship, PRKN/PARK2 reasoning, levodopa deferral, Podiatry disposition and later DaTSCAN addendum.
+- **2017 Monaghan-to-Healy correspondence** — materialised separately; it contains `Myself and Tim are keen to hold back on Levodopa insofar as maybe possible unless you'd advise otherwise?` and seeks genetic/second-opinion advice.
+- **Prof Daniel Healy reply, 12 September 2017** — photographed source directly supplied and inspected; substantive transcription now materialised at `docs/source-records/healy-response-2017-09-12.md`. Healy records that Liam `probably has Park II`, recommends testing that initially, and describes PARK II patients as doing well for long periods on relatively low doses of dopamine replacement therapy while becoming dyskinetic if over-used.
+- **Long Term Illness Scheme form, 9 July 2017** — image directly supplied and inspected. It provides a dated administrative marker that Parkinson's disease was already being used as the qualifying/operative clinical category during the admission.
+- **DaTSCAN addendum, 13 July 2017** — the completed discharge record states the scan was abnormal `as was expected`, showing that the abnormal dopaminergic scan confirmed an existing clinical expectation rather than creating it.
 
 ### Early treatment-response evidence
 
-- **24 October 2017 patient email** — materialised from Gmail; directly verifies the short medication withdrawal/reintroduction period, incomplete control on the reduced dose, podiatry appointment and “living in a miracle” treatment-response account.
-- **24 April 2018 Neurology record** — repository clinical source page exists; the July 2025 Monaghan supporting bundle independently reproduces the same retained working-record passage concerning rapid return/change at the outside-left-foot/corn site when Procyclidine was stopped.
+- **24 October 2017 patient email** — materialised from Gmail; directly verifies the short medication withdrawal/reintroduction period, incomplete control on the reduced dose, Podiatry appointment and major experienced improvement.
+- **24 April 2018 Neurology record** — repository source page exists; it records PRKN/PARK2 as what `we/Prof Healy suspect is the cause`, while also recording that Liam could `obviously ... be very much better` with levodopa or another dopamine agonist and that the team did not want to do that `for quite some time`.
 
 ### Longitudinal Neurology
 
-- **2019–2025 Neurology source pages** — already materialised in the clinical source corpus.
-- **2020 foot/lower-limb observations** — later working-file reproduction confirms the left lower-limb “throw” characterised as parkinsonian, exquisite foot sensitivity and urge/excess movement.
-- **2021 Sinemet / DBS record** — later working-file reproduction confirms ordinary Sinemet introduction in September 2021 and preserves the categorical DBS wording supplied in the clinic letter.
-- **10 March 2025 clinic letter** — a native/near-native PDF has been directly supplied to the project; fuller text is also reproduced in the clinical corpus and later clinician bundle. The key treatment provenance is clear: severe morning foot problem, known Sinemet-linked relief, consideration of overnight undertreatment and commencement of Sinemet CR.
+- **2019–2025 Neurology source pages** — materialised in the clinical source corpus.
+- **2020 foot/lower-limb observations** — the left lower-limb footdrop-like `throw` is characterised as Parkinsonian while local corn treatment separately helped a mechanical component.
+- **2021 Sinemet / DBS record** — ordinary Sinemet introduced in September 2021; later dyskinetic/choreiform phenomena provide qualifying evidence for the original treatment-risk concern.
+- **10 March 2025 clinic letter** — directly supplied/represented in the corpus. It records severe morning foot pain, relief when Parkinson medication reached the system, dyskinesia limits and introduction of Sinemet CR directed at the morning state.
 
 ### Complaint and governance sources
 
-The following have been materialised as separate source pages and should remain separate evidential origins:
+Materialised source pages include the 19 March 2025 complaint, April/May/June QPS materials, Article 15/16/18 correspondence, 29 July 2025 Medical Council materials, SIMT outcomes and January–February 2026 DPC/QPS/GDPR correspondence.
 
-- 19 March 2025 formal complaint;
-- 15 April 2025 QPS letter;
-- 7 May 2025 Counihan response;
-- 30 May and 13 June 2025 QPS IMF/PAR letters;
-- Article 16 requests and later decisions;
-- Article 15 teaching-interaction request and 5 August search/non-holding decision;
-- 4 August Article 18 notice;
-- 29 July Monaghan Medical Council submission;
-- 29 July Medical Council Counihan decision;
-- 1 September and 3 September SIMT outcome artefacts;
-- January–February 2026 DPC/QPS/GDPR correspondence.
+### March 2025 etiological statement
 
-### SIMT outcome
-
-- **3 September 2025 SIMT outcome PDF** — native PDF directly supplied and inspected. It establishes the 27 August SIMT presentation and “no deficit” decision. It does not disclose the PAR source architecture.
-
-### 29 July 2025 Monaghan supporting-documentation bundle
-
-- **185-page redacted supporting-documentation PDF** — directly supplied and inspected.
-- A repository source-bundle index now exists at `docs/source-records/monaghan-supporting-documentation-2025-07-29.md`.
-- The bundle contains Dr Monaghan's complaint response, his working clinical document file reproducing records back to 2017, and later complaint/governance material.
-- It is especially important for source genealogy because it shows what historical material the clinician himself selected and supplied in 2025.
-- Repetition inside this bundle is not counted as independent corroboration of the underlying historical event.
+- **25 March 2025 clinician complaint response** — repository source page exists and expressly states: `it is our belief and understanding that [Patient] has idiopathic Parkinson's disease.` This can now be tested directly against the earlier PARK2 sources and later genetic result.
 
 ### 2026 genetics
 
-- **St Vincent's PRKN/Parkin letter, dictated 3 February and approved 4 February 2026** — primary image directly inspected in the project; a redacted transcript has been materialised.
-- It states that two pathogenic Parkin variants were identified and that Parkinsonism and dystonia are due to compound heterozygous Parkin mutations.
-- The original image remains the controlling source and should ultimately be preserved as a properly redacted native repository exhibit if desired.
+- **St Vincent's PRKN/Parkin letter, dictated 3 February and approved 4 February 2026** — primary image directly inspected; transcript materialised. It states that two pathogenic Parkin variants were identified and that Parkinsonism and dystonia are due to compound heterozygous Parkin mutations.
 
 ---
 
 ## Important source-status refinements now established
 
-1. The SIMT phrase that **Sinemet was first prescribed in 2021** is literally compatible with the clinical record because ordinary Sinemet began in September 2021. The separate March 2025 issue is that **Sinemet CR was then introduced at night specifically in response to the severe morning foot problem**. These propositions must not be conflated.
+1. **The Healy reply is no longer a missing substantive source.** It is now directly available and closes the prior gap about what Healy himself recorded after seeing Liam. A preservation-quality native/redacted repository exhibit remains desirable.
 
-2. The July 2025 Monaghan bundle preserves both sides of the clinical picture: the unresolved 2017 foot/neurology relationship and podiatry disposition, and a coherent benign rationale for cautious dopaminergic treatment in a very young patient.
+2. **The GP Podiatry route is now independently clearer.** On 6 July 2017 the GP record says the case would be prioritised `as Parkinson's`. The original written referral and the Podiatry service's own intake/treatment records remain missing.
 
-3. PRKN/PARK2 was already raised as a possible genetic explanation in the 2017 working record. The 2026 genetic letter is nevertheless a separate later diagnostic source; the earlier suspicion does not equal an earlier confirmed diagnosis.
+3. **PRKN/PARK2 moved beyond a generic differential.** Galway raised it in 2017; Healy said Liam probably had PARK II in September 2017; Galway recorded in 2018 that PRKN was what `we/Prof Healy suspect is the cause`; and St Vincent's confirmed Parkin disease in 2026.
 
-4. Dr Monaghan's repeated statements that clinic letters were written for the patient and copied to him are primary evidence of the information framework the clinician says he deliberately supplied. They do not prove agreement or identical understanding.
+4. **The DaTSCAN did not resolve genetic aetiology.** The scan was abnormal `as was expected`; its role was confirmatory of a dopaminergic Parkinsonian disorder, not a genetic test distinguishing idiopathic disease from PRKN.
+
+5. **Administrative classification preceded etiological resolution.** Parkinson's disease was already operating in LTI/discharge administration before the later Healy opinion and long before genetic confirmation.
+
+6. **The March 2025 idiopathic-PD statement now creates a specific transition question:** when and on what evidence did the documented PARK2 suspicion cease to govern the etiological understanding?
 
 ---
 
-## Native originals still desirable but not essential to continue analysis
+## Native originals desirable for preservation quality
 
-Where available, the following would improve exhibit quality but are no longer analytical blockers because their substance has been directly verified through primary or reproduced sources:
+Where available, the following would improve exhibit quality:
 
-- complete standalone native 10 March 2025 three-page clinic letter;
+- properly redacted native image/PDF of the 12 September 2017 Healy letter;
+- properly redacted native image/PDF of the 9 July 2017 LTI form;
+- native 2017 GP record PDF or a redacted extract containing the 6 July Podiatry note;
+- complete standalone native 10 March 2025 clinic letter;
 - standalone signed/native 2021 DBS clinic letter;
 - standalone native 24 April 2018 clinic letter;
-- properly redacted native image/PDF copy of the February 2026 St Vincent's genetic letter;
+- properly redacted native image/PDF of the February 2026 St Vincent's genetic letter;
 - native copies of Gmail-derived material already transcribed.
 
-These are preservation-quality improvements, not currently missing propositions.
+These are preservation improvements, not analytical blockers.
 
 ---
 
 ## Genuine remaining disclosure-only gaps
 
-The remaining high-value gaps appear to be institutional records not presently possessed by the data subject/project:
-
-1. **Original 2017 Podiatry referral** and referral-processing record.
+1. **Original 2017 Podiatry written referral** and referral-processing record.
 2. **Complete Podiatry pathway**, including assessment, treatment, waiting-list/appointment history, communications back to Neurology/GP and closure/removal/discharge material.
 3. **Complete Preliminary Assessment Report (PAR)** with author, source schedule/evidence matrix and attachments.
 4. **SIMT agenda, minutes, attendance and source pack** for the 27 August 2025 review.
 5. **Native EHR version history** for the 2017 discharge/extended clinical document, including creation/finalisation/addendum chronology.
 6. **Native Complex Case Meeting record**, if any, showing attendance, discussion and contemporaneous decision provenance.
-7. **Any separate Dan Healy response/second-opinion letter** not already reproduced in the supplied material.
-8. **Trainee/teaching records** concerning the reported July 2017 bedside interaction, if they exist and are held elsewhere despite the GUH non-holding response.
-9. **Article 18 internal operational/audit trail**, including routing, implementation, refusal, lifting or legal-basis documentation.
+7. **Trainee/teaching records** capable of identifying the four medical students Liam says were together on their first day on St Anthony's Ward on 10 July 2017 between approximately 10:00 and 12:00.
+8. **Article 18 internal operational/audit trail**, including routing, implementation, refusal, lifting or legal-basis documentation.
+9. **Any documentary step explaining the transition from probable/suspected PARK2 to the March 2025 asserted idiopathic Parkinson's disease understanding**, including negative genetic results, specialist reassessment or another etiological decision record if one exists.
 
 ---
 
 ## Pending Podiatry disclosure
 
-No assumption is made about the expected Podiatry response. It may:
+No assumption is made about what the Podiatry records will show. They should now be tested against a more precise question because the GP record already states that the case was prioritised `as Parkinson's`.
 
-- supply a contemporaneous reasoning bridge;
-- show podiatry was adjunctive rather than substitutive;
-- show inherited classification;
-- show disposition without neurological resolution;
-- show podiatry itself reopened the neurological question; or
-- be too incomplete to determine the pathway.
-
-When received: preserve exact originals and metadata first; inventory every item; construct a neutral chronology; classify source origin; then assess impact on the 2017 hinge. Do not revise the case theory before that neutral audit is complete.
+When received: preserve originals/metadata first; inventory every item; reconstruct referral wording, intake understanding, findings, treatment, response, communications back and closure; then assess impact on the 2017 hinge without changing the theory in advance of that audit.
 
 ---
 
 ## Current stopping line
 
-The user-supplied corpus is now sufficiently complete to stop repeatedly searching the user's own files for the same known propositions. Future acquisition work should focus on the genuine disclosure-only gaps above and on preserving native originals where this improves exhibit quality.
+The core source architecture is now materially stronger. Future acquisition should focus on the Podiatry pathway, witness-identification records, decision provenance and preservation-quality native exhibits rather than repeatedly searching for propositions already directly verified.
