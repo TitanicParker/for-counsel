@@ -1,325 +1,248 @@
 # Controlling Proposition Map
 
-**Status:** working bridge between F0001–F0283 and counsel-facing prose  
-**Branch:** `agent/counsel-site-rotation`  
-**Rule:** no proposition in this file is a pleading or final expert conclusion merely because it is listed here.
+**Updated:** 12 August 2026  
+**Rule:** no proposition here is a pleading or final expert conclusion merely because it is listed.
 
-The second-generation counsel presentation is built from a causal sequence rather than a catalogue. The controlling structure is now:
-
-**open presentation → early treatment decision → administrative/documentary crystallisation → reported protest / possible omitted counter-state → inherited classification → longitudinal reopening evidence → March 2025 therapeutic rupture → 2026 genetic coherence → later institutional reliance.**
-
-The presentation layer remains:
+The current presentation layer remains:
 
 **SOURCE → DOCUMENTARY FACT → TESTED PROPOSITION → PROSE**
 
-Each proposition below is classified as one of:
-
-- **ESTABLISHED DOCUMENTARY PROPOSITION** — the source architecture presently supports the proposition at the stated level;
-- **SOURCE-DISCIPLINED INFERENCE** — a synthesis from multiple documentary facts that remains open to qualification;
-- **EXPERT QUESTION** — requires independent medical opinion;
-- **LEGAL QUESTION** — requires counsel;
-- **SOURCE-DEPENDENT / OPEN** — controlling material remains missing.
-
----
-
-## P01 — The feet were part of the accepted presenting problem
+## P01 — First Neurology presentation at 39 followed a possibly long symptom history
 
 **Status:** ESTABLISHED DOCUMENTARY PROPOSITION
 
-The 29 June 2017 GP referral records bilateral foot problems, corns/calluses, abnormal gait, impaired movement initiation, stiffness, increased tone and worsening function in a referral expressly framed as `?parkinsonian or other underlying diagnosis`.
+Monaghan's contemporaneous correspondence to Healy records that Liam was 39, may have had Parkinsonian symptoms for approximately 13 years, and that this was his first time being seen by Neurology.
 
-**Key facts:** F0001–F0011.
-
-**Narrative use:** the feet are not later collateral history; they are inside the original accepted problem.
+**Boundary:** the approximately 13-year duration is a clinical reconstruction; it does not prove that every symptom present in 2004 was already recognised Parkinsonism.
 
 ---
 
-## P02 — Severe Parkinsonism was genuinely identified
+## P02 — The admitted phenotype was severe, young, symmetrical and partly dystonic-looking
 
 **Status:** ESTABLISHED DOCUMENTARY PROPOSITION
 
-Neurology recorded markedly increased symmetrical tone, striking gait abnormality, gross bradykinesia and rigidity. The later DaTSCAN was abnormal and supported a presynaptic dopaminergic disorder.
+The July 2017 record documents severe young-onset Parkinsonism, markedly symmetrical increased tone, lead-pipe rigidity, gross bradykinesia, striking gait abnormality and a footdrop-like lower-limb appearance `somewhat suggestive of a dystonic posture - NOT FOOT DROP`.
 
-**Key facts:** F0012–F0022, F0037–F0038.
-
-**Boundary:** this does not establish idiopathic aetiology, exclusivity of the Parkinsonian explanation, or the cause of the feet.
+The DaTSCAN indication later describes the walk as `almost dystonically unusual`.
 
 ---
 
-## P03 — The painful foot/lower-limb relationship remained expressly unresolved in 2017
+## P03 — Structural foot pathology was real, but the neurological relationship remained unresolved
 
 **Status:** ESTABLISHED DOCUMENTARY PROPOSITION
 
-The 2017 record considered that leg symptoms, corns, calluses and burning might be separate or perhaps peripheral, then records: **`Not clear.`**
+The record documents corns, calluses, pes planus, hammertoes, burning and foot pain while also documenting abnormal lower-limb movement. The relationship is expressly recorded as **`Not clear.`**
 
-**Key facts:** F0023–F0025.
-
-**Narrative use:** this is the substantive clinical uncertainty that the later pathways must be read against.
+**Boundary:** the case does not require an `all dystonia` theory.
 
 ---
 
-## P04 — The first substantive neurological assessment and the levodopa-deferral decision appear to have been separated by roughly fourteen hours
+## P04 — Before admission, primary care was already reconsidering the gait/feet/muscle-tension problem neurologically
 
-**Status:** SOURCE-DISCIPLINED INFERENCE / SOURCE-DEPENDENT as to exact clock-time reconstruction
+**Status:** ESTABLISHED DOCUMENTARY PROPOSITION
 
-The current chronology places the first substantive neurological assessment and the senior/departmental decision to hold levodopa back within a compressed overnight interval. The exact timing should be fixed against native records where possible.
-
-**Narrative use:** do not flatten the admission into an undifferentiated eight-day assessment period. Separate what was known when the treatment position crystallised from information developed later.
-
-**Expert question:** whether this early therapeutic decision was reasonable and whether it constrained a clinically useful route for generating dopaminergic-response information during the admission.
+The GP record moves from structural foot findings and Podiatry planning in April 2017 to consideration of Neurology for the patient's `gait, feet and "muscle tension" issues` in June. Occupational Health then echoes the concern; increased leg tone is recorded; hospital neurological assessment is arranged.
 
 ---
 
-## P05 — The early levodopa strategy may have become epistemically controlling before the painful-foot phenotype was fully assembled
+## P05 — Podiatry was made operative during admission `as Parkinson's`
+
+**Status:** ESTABLISHED DOCUMENTARY PROPOSITION at the level of the GP record; SOURCE-DEPENDENT as to exact referral content
+
+The 6 July 2017 GP entry states:
+
+> `Phoned podiatry to discuss case - will mark as priority case and as Parkinson's - should be called mid September`
+
+This establishes that the Podiatry route was not being described in the GP record as unrelated routine foot care.
+
+**Open:** the written referral, information transmitted, Podiatry's own understanding, treatment and feedback remain missing.
+
+---
+
+## P06 — A deliberate levodopa-deferral strategy became controlling early
+
+**Status:** ESTABLISHED DOCUMENTARY PROPOSITION as to strategy; timing/meeting provenance remains partly source-dependent
+
+The 2017 record documents deliberate deferral of levodopa/dopamine agonists because of young age, dyskinesia, impulse-control and dopamine-dysregulation concerns. Monaghan's contemporaneous Healy correspondence states:
+
+> `Myself and Tim are keen to hold back on Levodopa insofar as maybe possible unless you'd advise otherwise?`
+
+Later Monaghan representations place Counihan's advice in the Weekly Complex Case Meeting context.
+
+---
+
+## P07 — The DaTSCAN confirmed an expected dopaminergic abnormality; it did not resolve aetiology
+
+**Status:** ESTABLISHED DOCUMENTARY PROPOSITION
+
+The 13 July addendum says the scan was abnormal **`as was expected`** with marked bilateral basal-ganglia findings. The underlying referral already described suspected autosomal-recessive Parkinsonism.
+
+**Boundary:** the DaTSCAN is not a genetic discriminator between idiopathic Parkinson's disease and PRKN disease.
+
+---
+
+## P08 — Parkinson's disease became an operative administrative category before aetiology was resolved
+
+**Status:** ESTABLISHED DOCUMENTARY PROPOSITION at the level of administrative use; interpretive significance remains an inference
+
+The Long Term Illness Scheme form is dated 9 July 2017 and uses Parkinson's disease as the qualifying condition. The discharge state later lists Parkinson's Disease as primary diagnosis.
+
+**Question:** how did administrative certainty interact with still-open genetic and foot/lower-limb uncertainty?
+
+---
+
+## P09 — PRKN/PARK2 was not merely possible; Healy recorded that Liam probably had PARK II
+
+**Status:** ESTABLISHED DOCUMENTARY PROPOSITION
+
+The July 2017 Galway record specifically considers PRKN/PARK2. On 12 September 2017, after personally seeing Liam, Prof Daniel Healy writes:
+
+> `I think probably has Park II and I would suggest testing that initially. If it is negative I would go on to test a panel.`
+
+By April 2018 Galway records PRKN/PARK2 as what `we/Prof Healy suspect is the cause`.
+
+This closes the prior substantive source gap concerning Healy's own recorded opinion.
+
+---
+
+## P10 — Healy's treatment wording introduces a distinction between cautious low-dose replacement and over-use
+
+**Status:** ESTABLISHED DOCUMENTARY PROPOSITION as to wording; EXPERT QUESTION as to clinical implications
+
+Healy writes that PARK II patients:
+
+> `tend to manage quite well for long periods of time with relatively low doses of Dopamine replacement therapy. They can become quite dyskinetic if over-used.`
+
+**Boundary:** Healy does not expressly order immediate levodopa commencement.
+
+**Question:** after Galway had expressly invited Healy to advise against its hold-back strategy, what process considered this treatment framing and whether the pre-existing strategy should change?
+
+---
+
+## P11 — By 2018 the diagnostic branch had strengthened while levodopa remained deliberately unavailable
+
+**Status:** ESTABLISHED DOCUMENTARY PROPOSITION
+
+The April 2018 record states that PARK2/PRKN is what `we/Prof Healy suspect is the cause`, while also stating that Liam could `obviously ... be very much better` with levodopa or another dopamine agonist but `we do not want to do that - at least for quite some time`.
+
+**Narrative use:** this is the cleanest documentary expression of the treatment lock.
+
+---
+
+## P12 — The original treatment strategy may have constrained diagnostic learning
 
 **Status:** SOURCE-DISCIPLINED INFERENCE / EXPERT QUESTION
 
-The working reconstruction indicates that levodopa was already being withheld as a senior/departmental position before the later mature foot/PRKN reasoning visible in the completed record had been assembled.
+Once levodopa was deliberately unavailable, early dopaminergic-response information about gait, lower-limb posturing, tension and foot symptoms was not generated through that route.
 
-**Mechanism under test:** once levodopa was treated as settled, the most obvious dopaminergic-response route was no longer available for interrogating the unresolved painful, dystonic-looking lower-limb phenomenon during that admission.
-
-**Boundary:** this does not establish that an inpatient levodopa challenge was mandatory.
-
-**Narrative label:** **first lock — clinical/therapeutic.**
+The question is not whether an inpatient levodopa challenge was mandatory. It is whether treatment caution also removed an information-generating intervention in an unusually young, dystonic, genetically suggestive patient, and whether that consequence was recognised and revisited.
 
 ---
 
-## P06 — Podiatry became an operative pathway while the neurological relationship remained unresolved
-
-**Status:** ESTABLISHED DOCUMENTARY PROPOSITION at the level of sequence; SOURCE-DEPENDENT / OPEN as to rationale
-
-The discharge plan requested outpatient Chiropody/Podiatry while the same documentary architecture still records the foot/leg relationship as `Not clear`.
-
-**Key facts:** F0023, F0024, F0033, F0046.
-
-**Open source question:** what was transmitted to Podiatry, how Podiatry understood its remit, what it found, and why the pathway ended.
-
----
-
-## P07 — Parkinson’s disease became the operative administrative framework before aetiology and the foot relationship were fully resolved
-
-**Status:** SOURCE-DISCIPLINED INFERENCE
-
-The record lists Parkinson’s Disease as the primary diagnosis and establishes treatment strategy, follow-up, work/LTI implications and patient-facing explanation while preserving atypicality, possible recessive/genetic disease and an unresolved foot relationship.
-
-**Key facts:** F0012, F0020–F0029, F0033–F0036.
-
-**Narrative concept:** **administrative crystallisation** — a description of practical effect to test, not a concluded breach.
-
----
-
-## P08 — The completed discharge artefact is cumulative rather than a single decision-state snapshot
-
-**Status:** SOURCE-DISCIPLINED INFERENCE, strongly date-supported
-
-The operative discharge/LTI state preceded the 13 July DaTSCAN result, while the completed artefact later includes that result by addendum. Native EHR version history remains missing.
-
-**Key facts:** F0034, F0037, F0039, F0040, F0102.
-
-**Narrative use:** later-completed coherence must not automatically be projected backwards onto earlier decisions.
-
-**Narrative label:** **second lock — administrative/documentary.**
-
----
-
-## P09 — The final documentary state may appear more integrated, collectively authorised and settled than the underlying sequence can presently be shown to have been
-
-**Status:** SOURCE-DISCIPLINED INFERENCE
-
-The completed record gathers primary diagnosis, levodopa-deferral rationale, collective language, apparent patient understanding, Podiatry disposition, work/LTI consequences and later DaTSCAN confirmation into a single object.
-
-**Source limits:** native EHR version history, complete Complex Case material and full decision provenance remain incomplete.
-
-**Boundary:** this is a forensic inference about document effect, not an allegation of improper alteration or deliberate reconstruction.
-
----
-
-## P10 — Liam reports a contemporaneous bedside protest at the hinge and identifies four medical students as present
-
-**Status:** PATIENT ACCOUNT / SOURCE-DEPENDENT / OPEN
-
-The protest is not independently corroborated at present. It is also not negated merely by silence in the completed hinge record, because the completeness of that record at the disputed transition is itself under examination.
-
-**Existing boundary facts:** F0100–F0101 and related protest/source-gap entries.
-
-**Narrative use:** the protest is a serious affirmative evidential proposition, not a decorative allegation.
-
----
-
-## P11 — The four students constitute a defined potential eyewitness class
-
-**Status:** SOURCE-DISCIPLINED INVESTIGATIVE PROPOSITION
-
-If identifiable from teaching, placement or ward-round records, the students may provide an evidential origin independent of both Liam’s later account and the completed discharge record.
-
-**Protocol:** see `evidence-audit/protest-witness-investigation.md`.
-
-**Trigger:** any independent witness evidence requires re-running patient-understanding, hinge-completeness and later-governance propositions.
-
----
-
-## P12 — PRKN/PARK2 was a contemporaneous diagnostic possibility, not a hindsight invention
-
-**Status:** ESTABLISHED DOCUMENTARY PROPOSITION
-
-The 2017 working record considered autosomal-recessive disease and PRKN/PARK2. The 2018 note records PRKN as what `we/Prof Healy suspect is the cause` and describes specific testing routes.
-
-**Key facts:** F0021, F0052, F0107+ and F0268.
-
-**Boundary:** the native Healy response remains controlling for what Healy himself concluded.
-
----
-
-## P13 — The information architecture around Counihan, the Complex Case Meeting and Healy remains materially incomplete
+## P13 — The Podiatry pathway may have become substitutive rather than merely adjunctive; this remains open
 
 **Status:** SOURCE-DEPENDENT / OPEN
 
-Contemporaneous correspondence establishes that Monaghan sought Healy’s advice and wrote that `Myself and Tim` were keen to hold levodopa back unless Healy advised otherwise. Later material identifies Counihan and a Complex Case Meeting context.
+The existence of real structural pathology made Podiatry potentially appropriate. The unresolved question is whether Podiatry treated local structural complications while Neurology retained responsibility for the unresolved neurological relationship, or whether referral functionally closed that question.
 
-**Missing:** exact meeting record, attendance, evidence considered, exact advice, full Healy response and timing relative to key decisions.
-
-**Narrative use:** these are not routine paperwork gaps; they concern who knew what at the first lock.
+The 6 July GP note that the case was prioritised `as Parkinson's` makes the original referral and Podiatry notes particularly important.
 
 ---
 
-## P14 — Treatment caution was deliberate and had a recorded clinical rationale
+## P14 — The 10 July bedside protest has a narrowly defined potential witness class
+
+**Status:** PATIENT ACCOUNT / INVESTIGATIVE PROPOSITION
+
+Liam now states that the protest occurred Monday 10 July 2017 on St Anthony's Ward between approximately 10:00 and 12:00, with four medical students together on the first day of a new placement batch.
+
+**Open:** identify the four students through placement/teaching records and obtain independent first accounts under a neutral protocol.
+
+---
+
+## P15 — Later mixed evidence repeatedly tested the inherited foot classification
+
+**Status:** ESTABLISHED DOCUMENTARY PROPOSITION at the level of mixed longitudinal content
+
+Later records include local/mechanical improvement, explicitly Parkinsonian lower-limb movement, OFF/dystonia reasoning, toe curling, pain fluctuation and medication-state effects. This supports a mixed phenotype and a repeated reopening question, not a unitary explanation.
+
+---
+
+## P16 — March 2025 generated disruptive treatment-response information
 
 **Status:** ESTABLISHED DOCUMENTARY PROPOSITION
 
-The record documents concern about dyskinesia, impulse-control disorders and dopamine dysregulation in a very young patient.
+The 2025 record states that the feet improved when Parkinson medication reached the system, that additional Sinemet could provide further pain relief, that dyskinesia limited escalation, and that Sinemet CR was introduced for the severe morning state.
 
-**Key facts:** F0028–F0031, F0051 and later longitudinal treatment-risk facts.
-
-**Narrative use:** this major qualifying evidence must remain visible wherever treatment delay is discussed.
+The significance is not that all historic foot pain was thereby proved Parkinsonian. It is that the inherited partition was shown to be clinically incomplete.
 
 ---
 
-## P15 — At least part of the foot/lower-limb phenomenon showed early neurological pharmacological modifiability
-
-**Status:** SOURCE-DISCIPLINED INFERENCE; mechanism remains EXPERT QUESTION
-
-During the short Procyclidine withdrawal, the first rapid change later reported involved the outside-left-foot/corn site; symptoms worsened and Liam felt more `shifty` and `unrelaxed`. A separate contemporaneous email independently records withdrawal, restart, incomplete control at the lower dose and escalation.
-
-**Key facts:** F0041–F0048.
-
-**Narrative use:** this is the first post-lock reopening signal.
-
----
-
-## P16 — The later years repeatedly test the inherited classification with mixed evidence
-
-**Status:** ESTABLISHED DOCUMENTARY PROPOSITION at the level of mixed source content
-
-Later records contain neurological interpretations, OFF/dystonia reasoning, medication-state dependence and persistent toe/lower-limb phenomena, but also structural findings, toe-support benefit, Lyrica benefit and periods when severe pain did not track Parkinson medication cleanly.
-
-**Key facts:** F0050, F0053–F0064 and later 2020–2024/adverse entries.
-
-**Narrative use:** the longitudinal issue is reopening and path dependency, not a unitary all-dystonia theory.
-
----
-
-## P17 — By 2023 the record expressly recognised an interpretive disagreement about the feet
+## P17 — In March 2025 the retrospective etiological position was expressly idiopathic Parkinson's disease
 
 **Status:** ESTABLISHED DOCUMENTARY PROPOSITION
 
-The 2023 Neurology record documents a `misalignment` between the clinician’s Parkinson’s-centred explanation and Liam’s concern that much of the problem related to the feet.
+The 25 March 2025 complaint response states:
 
-**Key facts:** F0062–F0063.
+> `it is our belief and understanding that [Patient] has idiopathic Parkinson's disease.`
 
-**Narrative use:** by this stage the unresolved classification is no longer merely implicit; the disagreement itself is inside the clinical record.
-
----
-
-## P18 — The March 2025 Sinemet CR intervention was deliberately directed to the severe morning experience including foot pain
-
-**Status:** ESTABLISHED DOCUMENTARY PROPOSITION
-
-The 10 March 2025 note records severe morning foot pain, relief once Parkinson medication reached the system, an expectation of further relief from more Sinemet, dyskinesia concern and introduction of night-time Sinemet CR. Monaghan later states that his 10 March prescription was also intended to help the morning experience including pain.
-
-**Key facts:** F0065–F0075, F0262–F0264.
+That statement must now be read against the earlier documented probable/suspected PARK2 pathway.
 
 ---
 
-## P19 — The March 2025 response materially changed Liam’s understanding of the preceding history
+## P18 — The transition from probable/suspected PARK2 to asserted IPD is presently undocumented
 
-**Status:** ESTABLISHED DOCUMENTARY PROPOSITION at the level of patient knowledge state
+**Status:** SOURCE-DEPENDENT / OPEN
 
-The 19 March complaint identifies the recent dopamine-responsive experience as a turning point and links it to a demand for review of the prior care.
+The current source set shows:
 
-**Key facts:** F0076–F0083.
+- PRKN/PARK2 considered in 2017;
+- Healy saying `probably has Park II` in September 2017;
+- Galway saying in 2018 that PARK2 is what `we/Prof Healy suspect is the cause`;
+- a March 2025 statement of idiopathic Parkinson's disease.
 
-**Narrative use:** March 2025 is both a therapeutic rupture and serious knowledge/limitation evidence.
+No presently identified source explains when, why or on what evidence PARK2 ceased to be the operative etiological hypothesis.
+
+**Acquisition question:** locate any negative genetic result, specialist reassessment or etiological decision record that explains the transition.
 
 ---
 
-## P20 — The 2026 PRKN result supplies later etiological coherence to Parkinsonism and dystonia
+## P19 — 2026 genetics confirms that the earlier PARK2 branch was the causal branch
 
 **Status:** ESTABLISHED DOCUMENTARY PROPOSITION for the later specialist conclusion
 
-The February 2026 specialist letter reports two pathogenic Parkin variants and concludes that Liam’s Parkinsonism and dystonia are due to compound heterozygous Parkin mutations.
+St Vincent's records two pathogenic Parkin variants and concludes that Liam's Parkinsonism and dystonia are due to compound heterozygous Parkin mutations.
 
-**Key facts:** F0093–F0097.
-
-**Boundary:** it does not establish that every historical foot symptom was dystonia or determine the 2017 standard retrospectively.
+**Boundary:** this does not prove that every foot symptom was dystonia or retrospectively determine the 2017 standard of care.
 
 ---
 
-## P21 — The later governance process inherited an already-completed historical record
+## P20 — The central treatment-governance question is now one of rebalancing
 
-**Status:** SOURCE-DISCIPLINED INFERENCE
+**Status:** EXPERT QUESTION / SOURCE-DISCIPLINED INFERENCE
 
-The complaint moved through Monaghan’s retrospective explanation, PAR/SIMT and later QPS reliance. To the extent later stages relied on the completed 2017 record or derivative accounts, they may have inherited the same omissions, chronology compression and apparent consensus unless the hinge was independently reconstructed.
+The original caution had a genuine rationale. The question is whether that balance was recalculated when the information state changed — particularly after Healy's probable PARK II opinion and low-dose dopamine-replacement framing, the 2018 stronger PRKN attribution, later mixed neurological foot evidence and eventual dopaminergic response.
 
-**Narrative use:** later institutional authority does not automatically create a new evidential origin.
-
----
-
-## P22 — The no-deficit institutional conclusion is established, but its proposition-level independent evidential basis cannot presently be reconstructed
-
-**Status:** ESTABLISHED DOCUMENTARY PROPOSITION as to outcome; SOURCE-DEPENDENT / OPEN as to architecture
-
-SIMT concluded there was `no deficit in the care provided`. The complete PAR, source schedule/attachments and SIMT agenda/minutes/source pack have not been located.
-
-**Key facts:** F0084–F0092, F0104–F0105 and later governance facts.
-
-**Narrative use:** `Independent revalidation of the disputed 2017 foot/Podiatry hinge, protest and later reopening evidence has not yet been demonstrated from the materials presently available.`
+> **What was supposed to cause the original levodopa-deferral strategy to return to an open state, and where is the record that this happened?**
 
 ---
 
-## P23 — Adverse evidence must travel with the case
+# Current controlling questions
 
-**Status:** ESTABLISHED DOCUMENTARY PROPOSITION
+1. What exactly was known when levodopa deferral first crystallised?
+2. What did Counihan and the Complex Case Meeting actually receive, discuss and advise?
+3. How was Healy's September 2017 probable-PARK-II opinion received and acted upon in Galway?
+4. Was Healy's distinction between low-dose dopamine replacement and over-use ever considered against the existing `hold back` policy?
+5. What did the 6 July Podiatry communication mean operationally when the case was being prioritised `as Parkinson's`?
+6. What exactly did the written Podiatry referral say, and what did Podiatry understand itself to be treating?
+7. Can the four students on the first day of the 10 July St Anthony's placement batch be identified, and what do they independently remember?
+8. When and why did `probable/suspected PARK2` become `idiopathic Parkinson's disease` by March 2025?
+9. What evidence, if any, repeatedly reopened the original treatment/foot partition before 2025?
+10. What expert opinion is required on treatment proportionality, diagnostic information loss, causation and damage?
 
-The record includes genuine severe Parkinsonism, abnormal DaTSCAN, articulated treatment-risk reasoning, structural/mechanical foot pathology, local-treatment benefit, Lyrica benefit, Procyclidine ambiguity, dyskinesia/impulse-control concerns, high functional periods and a 2023 medication-withdrawal episode adverse to a simple dopamine-tracked pain theory.
+# Writing rule
 
-**Narrative use:** contrary evidence narrows the mechanism under investigation; it does not erase it.
+Do not make the case depend on proving that PRKN was missed, that every foot symptom was dystonia, or that the original levodopa caution was irrational.
 
----
+The current documentary sequence is:
 
-# Controlling questions generated by the map
-
-1. What exactly was known at the moment the first levodopa-deferral decision crystallised, and what was learned only later?
-2. Did the early treatment strategy constrain potentially informative response data during the admission?
-3. What happened to the unresolved `Not clear` foot/lower-limb relationship once Podiatry became operative?
-4. Which parts of the completed discharge document were contemporaneous with discharge, and which were later additions or later-developed reasoning?
-5. Did the completed artefact present a more consensual or collectively authorised state than existed at the bedside?
-6. Can the four students be independently identified, and what do they remember before exposure to Liam’s later account?
-7. What did Counihan, the Complex Case Meeting and Healy actually know, receive and advise, and when?
-8. What medically coherent explanation best accounts for repeated neurological treatment-state changes involving the foot/lower-limb syndrome while mechanical/local/neuropathic features also existed?
-9. At what point, if any, should later evidence have caused the inherited 2017 classification to be formally reconsidered?
-10. What did the March 2025 therapeutic event change clinically and epistemically?
-11. What evidence did PAR/SIMT independently reconstruct, as distinct from inheriting from the 2017 record or later clinician account?
-12. What damage, if any, is attributable to the disputed pathway rather than underlying disease progression?
-13. What is the claim-specific limitation analysis given the March 2025 knowledge evidence and later discoveries?
-
----
-
-# Writing instruction for the counsel site
-
-Do not merely insert the words `double lock` into existing pages.
-
-The prose must make the reader understand the causal sequence:
-
-**the first lock may have constrained what could be learned; the second lock made the resulting state appear settled; later care and later review then inherited that completed state.**
-
-Fact IDs support propositions. Propositions support paragraphs. Paragraphs should carry the reader through the chronology without forcing them to memorise the architecture.
+**first Neurology presentation → severe young-onset symmetrical/dystonic phenotype → early levodopa deferral → Podiatry prioritised `as Parkinson's` while relationship remained unresolved → DaTSCAN abnormal `as expected` → Healy says probable PARK II and describes low-dose dopamine replacement → Galway records suspected PARK2 but keeps levodopa unavailable → mixed evidence accumulates → 2025 IPD assertion and dopamine-responsive rupture → 2026 Parkin confirmation.**
