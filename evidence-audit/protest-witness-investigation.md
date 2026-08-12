@@ -1,122 +1,105 @@
 # Protest Witness Investigation
 
 **Status:** active evidence-acquisition question  
-**Event:** reported bedside protest during the July 2017 neurological admission  
-**Known witness class:** four medical students were present according to Liam's account of the encounter.
+**Event:** reported bedside protest before discharge during the July 2017 neurological admission  
+**Patient-source coordinates:** Monday 10 July 2017; St Anthony's Ward; approximately 10:00–12:00; four medical students together; first day of a new batch/placement on the ward.  
+**Source status:** these coordinates are Liam's first-person evidence and remain to be independently corroborated.
+
+## Why this is now a realistic identification exercise
+
+The witness class is no longer described merely as `four students present sometime during the admission`.
+
+Liam now gives a narrow target:
+
+- **date:** Monday 10 July 2017;
+- **location:** St Anthony's Ward;
+- **time:** approximately 10:00–12:00;
+- **group size:** four medical students together;
+- **placement marker:** their first day as a new batch on the ward.
+
+Those details should permit a substantially more focused search of University of Galway / hospital clinical-placement records, orientation lists, teaching allocations, timetables, attendance records and contemporaneous student logbooks.
 
 ## Why this is a controlling question
 
-The protest does not sit at the edge of the case. It sits at the transition between the two early locking mechanisms now under investigation:
+The reported protest occurred at the point when the Podiatry pathway and discharge state were becoming operative while the neurological record still contained unresolved lower-limb/foot questions.
 
-1. the early senior/departmental levodopa-deferral decision; and
-2. the later LTI/discharge/documentary crystallisation of the operative Parkinson's framework.
+If independently corroborated, the encounter could establish a contemporaneous counter-state to the apparent documentary consensus: that Liam expressly challenged discharge while the feet remained unresolved and that Podiatry was discussed in response.
 
-If Liam protested the separation of the painful feet/lower limbs from the neurological problem, or challenged the treatment/pathway decision at the bedside, then the encounter contained a live counter-state to the apparent consensus later conveyed by the completed record.
-
-The completed discharge artefact preserves collective authority and records `good understanding`, but it does not preserve the reported protest. Because the hinge record is already materially impeached as a complete, self-sufficient account of the foot-to-podiatry transition, its silence cannot by itself resolve whether the protest occurred.
-
-The existence of four students means the event has a potentially recoverable evidential footprint outside both Liam's memory and the discharge artefact.
+The completed discharge artefact records extensive explanation and `good understanding` but does not preserve the reported protest. Silence in that document therefore cannot, by itself, determine whether the encounter happened.
 
 ## The live forensic question
 
-> **Who were the four medical students present at the bedside encounter, can they be independently identified, and what does each remember without being fed Liam's later reconstruction?**
+> **Who were the four students whose new placement on St Anthony's Ward began on Monday 10 July 2017, were they together at Liam's bedside between approximately 10:00 and 12:00, and what does each independently remember?**
 
-This question should be pursued as witness reconstruction, not as an exercise in finding people to agree with an existing theory.
+The purpose is not to find witnesses who agree with Liam. It is to recover independent evidence, including evidence that may qualify or contradict his recollection.
 
 ## Identification routes
 
-Potential routes include:
+Priority routes:
 
-- undergraduate clinical-placement rosters for the relevant ward/team and week;
-- Neurology teaching schedules;
-- ward-round or bedside-teaching lists;
-- university placement records;
-- trainee/student attendance records held by University of Galway / Galway University Hospitals;
-- consultant or registrar teaching allocations;
-- contemporaneous timetables, logbooks or sign-in records retained by former students;
-- independent identification by clinicians or students who remember the teaching group.
+- University of Galway undergraduate medical clinical-placement roster for St Anthony's Ward beginning 10 July 2017;
+- first-day/orientation schedules for that placement block;
+- Neurology / ward bedside-teaching allocations;
+- student attendance/sign-in records;
+- consultant, registrar or NCHD teaching assignments;
+- student logbooks or placement portfolios;
+- university correspondence or timetable records identifying the four-person group;
+- independent identification by one former student of the other three, once a first identity is established.
 
-The target is the **identity of the four individuals**, not merely proof that students were generally attached to the service.
+The key is to identify the **specific four-person new batch**, not merely students generally attached to Neurology that month.
 
 ## Clean-witness protocol
 
-If any student is identified, preserve the independence of their recollection.
+Initial contact should preserve uncontaminated recall.
 
-Before showing them Liam's reconstruction, ask only neutral questions sufficient to establish identity, presence and spontaneous memory. Record the circumstances of contact and the sequence of what was disclosed.
+Before showing any witness the discharge summary, complaint, current theory or Liam's detailed recollection, establish only:
 
-The most valuable dimensions are:
+1. whether they began a placement on St Anthony's Ward around 10 July 2017;
+2. who else was in their student group;
+3. whether they remember being together on the ward that first morning;
+4. whether they remember Liam or an unusual bedside interaction;
+5. what they remember, in their own words, about the subject matter, participants and response.
 
-1. **Recognition** — do they independently recognise or remember Liam?
-2. **Presence** — do they remember being present at the bedside encounter?
-3. **Setting** — what do they remember about the teaching/ward-round context?
-4. **Disagreement** — do they remember a protest, argument, challenge or disagreement?
-5. **Subject matter** — what do they independently remember the disagreement being about?
-6. **Feet/lower limbs** — do they remember Liam insisting that the feet or lower-limb problem was connected to the neurological condition, or objecting to its separation/podiatry treatment?
-7. **Medication** — do they remember discussion of levodopa or a decision not to use it?
-8. **Response** — what, if anything, do they remember the clinician saying or doing in response?
-9. **Aftermath** — do they remember discussion among the students or staff afterwards?
-10. **Uncertainty** — what parts do they expressly not remember?
+Only after spontaneous recall is exhausted should more specific neutral prompts be considered.
 
-Do not contaminate the account by reading the discharge summary, complaint, current case theory, or Liam's detailed reconstruction before obtaining the witness's own first account.
+A useful identity-cross-check, if names are known, is whether A independently remembers B/C/D, B remembers A/C/D, and so on. This can establish the group structure without first telling witnesses what event they are expected to remember.
 
-## Possible evidential outcomes
+## What would be evidentially valuable
 
-### A. Independent substantive corroboration
+The strongest outcome would be one or more students independently remembering:
 
-A student independently remembers Liam, the encounter, and material features of the protest.
+- being together on their first day;
+- Liam asking the students to summon a neurologist;
+- the neurologist attending;
+- a disagreement or challenge concerning discharge and unresolved feet/lower limbs;
+- discussion of Podiatry;
+- any material words spoken by either participant.
 
-**Effect:** the protest gains an independent eyewitness origin. Reclassify the hinge, patient-agreement analysis, and discharge-completeness issue. Audit every later proposition that relies on apparent patient acceptance or absence of contemporaneous disagreement.
+Exact wording is not necessary for useful corroboration. Partial recollection should be preserved as partial recollection.
 
-### B. Independent partial corroboration
+A witness who remembers presence but not the encounter provides presence evidence, not proof that no protest occurred. A witness with a contrary substantive recollection provides important adverse evidence and must be preserved on the same basis.
 
-A student remembers Liam and a disagreement but not the exact words or subject matter; or remembers the feet being discussed without remembering the protest clearly.
+## Legal-cleanliness principle
 
-**Effect:** still potentially material. Preserve exactly what is remembered and what is not. Do not enlarge partial recollection into full corroboration.
+Where practicable, identification and substantive witness-taking should be solicitor-led or at least conducted under a documented neutral protocol. The first account should be dated, attributed, and recorded before the witness is shown later materials.
 
-### C. Presence corroborated, event not remembered
+The students are fact witnesses, not medical experts. The narrow historical issue is whether the encounter occurred, what they saw/heard, and what happened next.
 
-A student independently remembers being present but cannot recall the protest.
+## Interaction with new documentary evidence
 
-**Effect:** establishes the witness class more firmly but does not prove or disprove the protest. Memory absence years later is not equivalent to evidence that the event did not occur.
+The witness exercise now sits beside a stronger documentary record:
 
-### D. Contrary recollection
+- the GP record says on 6 July that Podiatry would mark the case as priority `as Parkinson's`;
+- the discharge record describes a dystonic-looking lower-limb abnormality and an unresolved `Not clear` relationship;
+- the Podiatry disposition becomes operative during the admission;
+- Healy later records probable PARK II.
 
-A student remembers the encounter and affirmatively recalls no protest or recalls a materially different exchange.
-
-**Effect:** important adverse evidence. Preserve and test it with the same discipline.
-
-### E. Students cannot be identified
-
-**Effect:** the protest remains Liam's evidence, but the unexhausted witness route should not be represented as if it had been investigated and disproved.
-
-## Why corroboration would matter beyond the protest itself
-
-Independent corroboration would not simply add another fact to the register. It could change the status of several existing propositions:
-
-- whether `good understanding` can be treated as reflecting the whole transition;
-- whether the final discharge artefact presents a more consensual state than existed at the bedside;
-- whether the podiatry disposition was contemporaneously contested;
-- whether a material patient account was omitted from the record at the hinge;
-- whether later institutional reviewers inherited a materially incomplete account of the original transition;
-- whether the two-lock model gains direct witness support at the point where therapeutic and administrative closure meet.
-
-## Interaction with the eight-year history
-
-The value of the witness evidence is not confined to July 2017. If the protest concerned the neurological significance of the feet, later longitudinal material becomes relevant as a history of the same unresolved disagreement:
-
-- medication-sensitive foot phenomena;
-- recurrent foot/lower-limb problems inside Neurology;
-- later OFF/dystonia reasoning;
-- 2023 `misalignment` over the feet;
-- 2025 dopaminergic treatment deliberately directed at the severe morning foot experience and substantial relief;
-- later PRKN confirmation linking Parkinsonism and dystonia.
-
-The witness question therefore belongs in the main case architecture, not in a miscellaneous credibility section.
+The students would not prove the medical significance of those records. Their possible value is to establish whether Liam contemporaneously challenged the unresolved foot/discharge position at the bedside.
 
 ## Repository action
 
-Until this route is exhausted, the project should describe the state accurately:
+Until the witness route is exhausted, describe the state as:
 
-> **Liam reports that he protested at the bedside and that four medical students were present. Those students constitute a defined potential eyewitness class. Their identities and independent recollections have not yet been obtained.**
+> **Liam reports that on Monday 10 July 2017, between approximately 10:00 and 12:00 on St Anthony's Ward, he protested at the bedside and that four medical students — together on the first day of a new placement batch — witnessed the encounter. Their identities and independent recollections have not yet been obtained.**
 
-If any witness is found, preserve the first account separately as a primary witness source, create a new source-inventory entry, and re-run the affected propositions rather than simply appending a corroboration note.
+Any witness found should be preserved as a new independent source and the affected propositions should then be re-run rather than simply labelled `corroborated`.
