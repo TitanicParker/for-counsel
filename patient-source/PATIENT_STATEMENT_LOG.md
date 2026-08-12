@@ -113,4 +113,36 @@ The meaning of the recorded 2017 distinction between foot pain and leg tension m
 
 # Entries
 
-_No substantive statement has yet been entered in this log. New entries may be added from time to time at Liam's request._
+## PSL-0001 — Neurologist's words after the Complex Case Meeting
+
+**Statement date:** 2026-08-12  
+**Historical period/event described:** Tuesday 4 July 2017, after the Complex Case Meeting  
+**Statement type:** direct communication / recollection  
+**Prompt context:** Liam volunteered a verbatim recollection of what the neurologist said to him when they met after the Complex Case Meeting.
+
+### Liam's statement
+
+> “My boss told me not to give you the good stuff. And in time I fear we may come to regret that.”
+
+Liam identifies these as the neurologist's words to him after the Complex Case Meeting and presents the wording as verbatim recollection.
+
+### Source-status note
+
+This entry is direct first-person evidence of what Liam remembers being said to him by the neurologist after the Complex Case Meeting. It is not, by itself, direct evidence of what the neurologist's `boss` had actually said, who the neurologist meant by `boss`, what was discussed inside the meeting, or the private reasoning of any clinician.
+
+The wording should remain preserved exactly as supplied by Liam and should not be silently altered to match later documentary formulations such as `Myself and Tim are keen to hold back on Levodopa` or later descriptions of Prof Counihan's advice.
+
+### Potential corroboration / contradiction routes
+
+- any contemporaneous Complex Case Meeting record;
+- the 2017 treatment/discharge record;
+- Monaghan's contemporaneous correspondence to Healy referring to `Myself and Tim` and holding back levodopa;
+- Monaghan's 2025 Medical Council account of Counihan's advice at the Weekly Complex Case Meeting;
+- any witness present when this post-meeting communication occurred;
+- any contemporaneous patient communication preserving the wording or substance.
+
+### Analytical status
+
+`UNASSESSED`
+
+The entry has been logged as source evidence. Its relationship to existing documentary evidence and propositions should be assessed separately rather than embedded into the source text.
