@@ -49,6 +49,97 @@ The safe method is claim by claim:
 
 ---
 
+# 2A. GDPR corrigibility experiment — what the correspondence now establishes
+
+The 2025–2026 GDPR correspondence should no longer be treated merely as a collateral legal dispute. It is also contemporaneous evidence about **institutional corrigibility**: Liam repeatedly attempted to force the controller to identify, complete, qualify, verify, or restrict an operative historical data state whose completeness he disputed.
+
+The strongest source-disciplined reconstruction is:
+
+**historic authoritative record challenged as incomplete**  
+→ **Article 15 used to seek the missing teaching / trainee / ward / provenance material**  
+→ **controller states that it holds no personal data in the requested teaching/student/ward-round/trainee-assignment/governance categories**  
+→ **Article 16 used to seek completion / annotation / qualification of the medical-data state**  
+→ **controller refuses, reasoning that the historical diagnosis/opinion remains factually accurate as a record of what was thought at the time and should remain for continuity of care**  
+→ **Article 18 invoked before PAR/SIMT to challenge continued reliance while accuracy/completeness remained disputed**  
+→ **PAR nevertheless proceeds to SIMT and SIMT reaches `no deficit in care`**  
+→ **January 2026 QPS expressly continues to regard the completed complaint/SIMT processes as valid and safe to rely upon, without an identified reopening or qualification event.**
+
+This sequence does **not** prove deliberate concealment, unlawful refusal, or that the controller possessed withheld records. It does establish a pattern highly relevant to the present case theory:
+
+> **The data subject repeatedly tried to convert a disputed historical state into a visibly disputed operational state. The identified institutional responses preserved the historical state and continued downstream reliance, while the records capable of testing the contested hinge remained unproduced or were said not to be held.**
+
+## Article 15 — incompleteness testing rather than generic record access
+
+The 7 July 2025 Article 15 request targeted the reported bedside/teaching interaction and the institutional footprint capable of corroborating or refuting it. GUH's 5 August decision did not merely fail to produce a witness record. It expressly stated that GUH did not hold personal data responsive to several requested categories, including:
+
+- medical records referencing student involvement;
+- student records;
+- ward-round records for 2017;
+- governance/supervisory/education documents describing teaching on St Anthony's Ward during the period;
+- trainee assignment records.
+
+The decision also redirected Podiatry records to Community Healthcare West.
+
+The evidential consequence is narrow but important:
+
+> **GUH's non-holding position does not disprove the reported protest. It means the institutional search route Liam deliberately used to test the discharge record's completeness did not yield the categories most capable of independently reconstructing the encounter.**
+
+The unresolved question is therefore not simply `were no records released?` but:
+
+> **What repositories, custodians and controller boundaries were actually searched before GUH concluded that it held no personal data responsive to those categories?**
+
+## Article 16 — preservation of the historical state
+
+The 12 June request was materially about rectification, completion, annotation and qualification of an allegedly incomplete medical-data state. GUH's 6 September decision refused the request and treated the existing record as a reliable record of what occurred and what professional opinion/diagnosis existed at the time. It reasoned that historical opinions/diagnoses remain factually accurate as records of those opinions and provide context for later treatment decisions.
+
+That reasoning may be legitimate as far as preservation of historic opinion goes. But it does not answer the separate completion question now central to the case:
+
+> **Does preserving a historically accurate opinion also justify leaving the surrounding dataset unqualified where the dispute concerns omission of a material patient challenge, unresolved causal allocation, or missing provenance rather than retrospective deletion of the opinion itself?**
+
+The decision is therefore important evidence of **institutional preservation of the settled historical state**, while the completion/qualification issue remained unresolved.
+
+## Article 18 — the attempted circuit-breaker
+
+The 4 August 2025 Article 18 notice was sent before the PAR went to SIMT and was directed to DPO/QPS channels. Its functional significance was to try to prevent the disputed state from gaining additional institutional authority while its accuracy/completeness was being verified.
+
+The currently traceable sequence remains:
+
+**4 Aug 2025 — Article 18 notice**  
+→ **6 Aug — PAR being prepared**  
+→ **27 Aug — PAR presented to SIMT**  
+→ **3 Sep — SIMT `no deficit in care` outcome**  
+→ **6 Sep — Article 16 refusal**  
+→ **26 Jan 2026 — QPS states completed complaint/SIMT processes remain valid and that later information does not require reopening, amendment or escalation.**
+
+No presently located source shows an Article 18 operational trail demonstrating:
+
+- restriction flagging;
+- DPO/QPS routing;
+- communication of disputed-data status to PAR/SIMT;
+- verification outcome;
+- refusal/exception analysis;
+- lifting notice;
+- or a defined lawful basis for continued processing under Article 18(2).
+
+That absence does not itself prove infringement. It creates a **demonstrability gap**.
+
+## Current strongest inference
+
+The GDPR history materially strengthens the wider structural hypothesis because it reproduces the same architecture seen in the clinical record:
+
+**contradiction is raised**  
+→ **the authoritative state is preserved**  
+→ **operational reliance continues**  
+→ **the evidence capable of independently reopening the state remains outside the visible record.**
+
+The safe current formulation is:
+
+> **From June 2025 onward, Liam repeatedly used GDPR rights to test whether the institution could recognise and operationalise a dispute about the completeness and reliability of the historic record. The identified responses show preservation and continued reliance more clearly than they show a functioning route by which the disputed hinge could be independently reconstructed and allowed to alter the operative institutional state.**
+
+This is evidence of **corrigibility architecture**, not proof of motive.
+
+---
+
 # 3. Repository/archive gap audit
 
 The following categories were specifically searched because the controlling reports identify them as potentially outcome-changing. The GitHub repository is not code-search indexed, so direct source-record/commit inspection and project-archive/Gmail searches were used. The conclusion below is **not located**, not `does not exist`.
@@ -97,3 +188,9 @@ If any GAP-01 through GAP-07 source is subsequently found, do not simply add it 
 # 5. Current gap verdict
 
 No searched gap was resolved by the materials located in `for-counsel` or the connected project archive during this phase. The most consequential remaining gap is the **complete PAR plus its source schedule/attachments**, because it is the missing junction between the 2025 complaint/Monaghan material and SIMT's high-authority `no deficit in care` conclusion.
+
+The GDPR chronology adds a second, closely linked controlling question:
+
+> **When the patient expressly disputed the historic data state and tried to make that dispute operational through Articles 15, 16 and 18, did the institution have a functioning mechanism capable of interrupting inherited reliance while the underlying hinge was independently verified?**
+
+On the presently identified record, continued preservation and reliance are demonstrated more clearly than any such interruption/reconstruction mechanism.
