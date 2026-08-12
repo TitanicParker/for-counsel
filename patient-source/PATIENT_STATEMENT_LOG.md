@@ -182,3 +182,48 @@ The stated dose history from approximately 25 mg/day to 600 mg/day and back down
 `UNASSESSED`
 
 This entry should be compared against the longitudinal medication record before any proposition is changed. In particular, the record should distinguish between relief of pain, persistence of toe curling/dystonia, dyskinesia, and Liam's broader assessment that changing the Lyrica dose did not materially alter the underlying problem.
+
+---
+
+## PSL-0003 — Monday-morning bedside protest before discharge and Podiatry exchange
+
+**Statement date:** 2026-08-12  
+**Historical period/event described:** Monday morning of Liam's second week as an inpatient, immediately before expected discharge the following day; presently consistent with Monday 10 July 2017 but the exact date should be checked against the native chronology  
+**Statement type:** recollection / direct communication / protest / witness context  
+**Prompt context:** Liam clarified the timing and content of the omitted bedside protest, distinguishing it from the earlier Complex Case Meeting encounter.
+
+### Liam's statement
+
+> “The protest that was omitted on the Monday morning, it was my second week in hospital. There had been a change of the medical students that were helping the ward at that time. When they visited my bedside and I knew that I was getting out the next day, I asked them to summon the duty neurologist. When the neurologist arrived, I asked him if he really intended to give me a full NCT and send me out on bald tires, to which he responded, it's easy for you to get a podiatry appointment as me. And then in the discharge summary, we see a reasoningless referral to podiatry.”
+
+### Source-status note
+
+This entry is direct first-person evidence of Liam's recollection that the protest occurred on the Monday morning of his second inpatient week, after a change in the group of medical students attached to the ward, when he expected discharge the following day.
+
+It is direct evidence of Liam's recollection that:
+
+- he asked the medical students at his bedside to summon the duty neurologist;
+- the neurologist attended;
+- Liam used the `full NCT ... bald tires` analogy to challenge the prospect of discharge while the foot problem remained unresolved;
+- the neurologist responded, in Liam's recalled wording: `it's easy for you to get a podiatry appointment as me.`
+
+The final sentence — that the discharge summary contains a `reasoningless referral to podiatry` — is Liam's characterization of the documentary referral and should be tested separately against the discharge record and any surviving Podiatry referral/pathway material.
+
+This entry is distinct from PSL-0001. PSL-0001 concerns the communication after the Tuesday Complex Case Meeting. PSL-0003 concerns a later Monday-morning bedside protest immediately before anticipated discharge.
+
+### Potential corroboration / contradiction routes
+
+- ward and discharge chronology fixing the Monday immediately before physical discharge;
+- student placement / teaching records capable of identifying the new group of medical students present in the second inpatient week;
+- independent recollection from those students;
+- duty/ward neurology staffing records if available;
+- contemporaneous 2017 discharge summary and Podiatry/Chiropody plan;
+- original Podiatry referral, referral date, referral author and referral wording;
+- Podiatry treatment records and any communication back to Neurology or GP;
+- any contemporaneous patient/family communication about the exchange.
+
+### Analytical status
+
+`UNASSESSED`
+
+This entry should be assessed principally against the documentary timing of discharge and the Podiatry pathway. The key evidential questions are whether the protest can be independently placed and corroborated, what the neurologist's response meant in context, and whether the Podiatry referral record contains a clinical rationale or merely an operative disposition.
