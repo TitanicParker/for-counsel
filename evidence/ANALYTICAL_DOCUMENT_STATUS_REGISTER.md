@@ -19,6 +19,7 @@ Every analytical document should ultimately carry one of these labels:
 |---|---|---|
 | `REPOSITORY_CONTROL.md` | CONTROLLING | Governs source layers, page locators, EUID permanence and migration order |
 | `CONTROLLING_EVIDENTIAL_AND_CASE_THEORY_MEMORANDUM.md` | CONTROLLING | Connects the operative evidential boundary, patient protest and proposition/EUID chain |
+| `analysis/supporting/RESTORED_FOOT_PROTEST_DEPENDENCY_AUDIT_2026-08-13.md` | SUPPORTING — DOCUMENTARY DEPENDENCY / STIPULATED-PREMISE ANALYSIS | Not primary evidence; not a clinical-standard, negligence, dishonesty, conscious-omission, reckless-reliance, knowing-reconstruction, concealment or fraud determination |
 | `CASE_ARGUMENT_AND_SURVIVING_RECORD_2026-08-13.md` | CONTROLLING | Current contracted case argument; must remain bounded by proposition matrix |
 | `evidence/FACT_REGISTER_STATUS.md` | CONTROLLING | Truthful status of missing referenced v0.9 fact register |
 | `evidence/SOURCE_EXHIBIT_MANIFEST.md` | CONTROLLING | Source provenance and citation infrastructure |

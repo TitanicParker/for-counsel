@@ -8,6 +8,8 @@ Control entry points:
 - [`evidence/SOURCE_EXHIBIT_MANIFEST.md`](evidence/SOURCE_EXHIBIT_MANIFEST.md)
 - [`evidence/SOURCE_PROPOSITION_MATRIX.md`](evidence/SOURCE_PROPOSITION_MATRIX.md)
 - [`evidence/CONTROLLED_ANALYTICAL_GLOSSARY.md`](evidence/CONTROLLED_ANALYTICAL_GLOSSARY.md)
+- [`sources/consolidated/evidence-corpus.md`](sources/consolidated/evidence-corpus.md) — derived 47-source corpus with EUIDs; originals remain controlling
+- [`analysis/supporting/RESTORED_FOOT_PROTEST_DEPENDENCY_AUDIT_2026-08-13.md`](analysis/supporting/RESTORED_FOOT_PROTEST_DEPENDENCY_AUDIT_2026-08-13.md) — stipulated-premise documentary dependency analysis
 
 ## Ten-minute read: what this case is really about
 

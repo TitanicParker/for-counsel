@@ -26,6 +26,8 @@ The correct evidential treatment is therefore two-track:
 
 Neither the discharge silence nor the corroboration gap is proof that the event did not occur.
 
+The supporting [`Restored Foot-Protest Dependency Audit`](analysis/supporting/RESTORED_FOOT_PROTEST_DEPENDENCY_AUDIT_2026-08-13.md) tests the stipulated premise against the controlled corpus. It does not elevate the premise to independently corroborated institutional fact and does not determine clinical appropriateness, negligence, state of mind, concealment or fraud. Its proper analytical conclusion is that omission materially affects apparent acceptance, sufficiency, absence of dissent and completeness—not the existence of the clinical findings or the possible appropriateness of Podiatry.
+
 ## Citation form during migration
 
 Every controlling citation should move toward:
