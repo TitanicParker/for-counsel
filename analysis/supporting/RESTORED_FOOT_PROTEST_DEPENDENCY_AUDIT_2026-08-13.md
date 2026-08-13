@@ -4,7 +4,7 @@
 
 **Repository:** `TitanicParker/for-counsel`
 
-**Repository state examined:** branch `agent/complete-evidential-corpus`; 47-source corpus and report integration generated and verified against parent `main` commit `576100898c26d65b2827cbbc401a277151a9acf9` before publication; the resulting integration commit is recorded in repository history
+**Repository state examined:** branch `agent/complete-evidential-corpus` at commit `a73bb8d3c54616f740c78642e3c3957ad9f836e9`, generated and verified against parent `main` commit `576100898c26d65b2827cbbc401a277151a9acf9`; merged into `main` by commit `f8531bc797dfa2cda17d29e183bee883b636ac58`
 
 **Corpus examined:** `sources/consolidated/evidence-corpus.md`, generated from the 47 registered public/patient-source representations in `sources/manifest/source-manifest.csv`
 
