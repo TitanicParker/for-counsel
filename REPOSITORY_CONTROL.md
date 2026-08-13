@@ -81,3 +81,11 @@ The reported bedside protest remains patient evidence requiring its own EUID whe
 4. Every normalized alteration must have a change-log entry.
 5. Every analytical document must be classified under the status vocabulary in `evidence/ANALYTICAL_DOCUMENT_STATUS_REGISTER.md`.
 6. Public-site updates follow evidence-layer validation, not the reverse.
+
+## Current generated products
+
+- `sources/consolidated/evidence-corpus.md` — all 47 registered source representations with EUIDs.
+- `sources/consolidated/clinical-corpus.md` — clinical subset in controlled chronological order.
+- `evidence/chronology/medication-chronology.csv` — clerically extracted medication events requiring source-level verification before analytical use.
+- `evidence/chronology/knowledge-chronology.csv` — actor/source receipt and recording events without inference of subjective reading or agreement.
+- `evidence/narrative-comparison/comparison-corpus.csv` — manually calibrated literal comparisons linked to analysis elsewhere.
