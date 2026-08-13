@@ -1,44 +1,42 @@
-# Evidential Fact Register — Control Note
+# Evidential Fact Register — Status Note
 
-**Controlling register:** `clean_case_evidential_fact_register_v09.md`  
-**Current fact range:** F0001–F0283  
-**Status:** provisional fact-extraction freeze  
-**Freeze date:** 11 August 2026
+**Referenced file:** `clean_case_evidential_fact_register_v09.md`  
+**Referenced range:** F0001–F0283  
+**Current repository status:** the referenced file is **not present on `main`**  
+**Checked:** 13 August 2026
 
-## Role in the rotated counsel site
+## Current position
 
-The fact register is the atomic documentary substrate for the second-generation counsel presentation.
+This repository previously described `clean_case_evidential_fact_register_v09.md` as the atomic fact layer for the counsel presentation. The exact file is not currently available in the repository and should not be described as inspectable here.
 
-It is not a pleading, narrative or case theory. Its job is to record the smallest proposition an identified source supports at the level actually established, while preserving source genealogy, qualification, adverse material and missing-source boundaries.
+Accordingly, the repository does not presently expose the complete intended chain:
 
-The presentation layer is to be generated in the following order:
+> **SOURCE → DOCUMENTARY FACT → TESTED PROPOSITION → PROSE**
 
-**SOURCE → DOCUMENTARY FACT → TESTED PROPOSITION → PROSE**
+The source and analytical layers are present; the referenced F0001–F0283 register is not.
 
-No new analytical writing is itself a reason to create a new fact ID.
+## Handling rule
 
-## Controlling discipline
+Until the exact v0.9 file is recovered:
 
-The register distinguishes:
+- do not cite F0001–F0283 as repository-verifiable entries;
+- cite primary source records directly;
+- do not create replacement F0001–F0283 entries from later analysis;
+- preserve the historical references to v0.9 as references to a missing external/project artifact;
+- if the exact file is recovered, mirror it unchanged and preserve its identifiers and wording.
 
-- source-native documentary fact from substantive truth;
-- direct observation from patient-reported history;
+If the exact file cannot be recovered, any successor fact register should use a new version identifier and be rebuilt transparently from primary sources rather than presented as the missing v0.9.
+
+## Intended evidential discipline
+
+Any restored or successor atomic register should continue to distinguish:
+
+- documentary wording from substantive historical truth;
+- direct observation from reported history;
 - clinical opinion from objective result;
 - later representation from the earlier event it describes;
-- institutional act from the historical facts relied upon;
-- independent evidential origin from repetition;
+- institutional conclusion from the source facts relied upon;
+- independent corroboration from repetition;
 - missing source from proof of non-occurrence.
 
-The default substantive status remains `DOCUMENTARY_ONLY` unless an entry expressly carries a stronger status.
-
-## Freeze rule
-
-Absent a genuinely new source, newly materialised native version, or disclosure that changes source genealogy, the fact-extraction phase is provisionally frozen at **F0283**.
-
-The principal anticipated source event capable of reopening this layer materially is the outstanding Podiatry disclosure. Other high-value disclosure-only gaps remain the complete PAR/SIMT source architecture, native EHR/version history, Complex Case material, any separate Healy response/report, Article 18 operational records and any separately held trainee/teaching material.
-
-## Migration note
-
-The full v0.9 register was supplied to the project as a standalone source file and is the controlling working register for the rotation. Until it is mirrored here byte-for-byte, this control note prevents any intermediate proposition map or counsel prose from being mistaken for the full atomic register.
-
-When the full register is mirrored into this repository, preserve the F0001–F0283 IDs exactly. Do not renumber, collapse or silently rewrite entries.
+The earlier F0283 freeze should therefore be read as historical project status until the referenced register is restored and independently inspectable.
