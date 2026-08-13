@@ -1,6 +1,6 @@
 # Controlled Analytical Glossary
 
-**Status:** CONTROLLING — terminology and classification control  
+**Status:** CONTROLLING — terminology and classification control
 **Date:** 13 August 2026
 
 ## Purpose
@@ -20,6 +20,26 @@ This glossary controls the specialist vocabulary used across the repository. Its
 - **EVIDENTIAL / METHODOLOGICAL** — controls how propositions are sourced, tested and expressed.
 
 ## Controlled terms
+
+Each row below is a compact legacy presentation. On first substantive revision, a term must be migrated to the full controlled-entry form: permanent glossary ID; class; definition; what it does not mean; permitted use; proof status; related terms; and controlling example. Defining a term never proves that it applies.
+
+### Full controlled entry — operational partition
+
+**ID:** GLOSS-EVID-004
+
+**Class:** Evidential / systems analysis
+
+**Definition:** An unresolved clinical relationship becoming practically separated through different services, classifications or treatment pathways.
+
+**Does not mean:** That the separation was clinically wrong, deliberate, exclusive, or based on no reasoning.
+
+**Permitted use:** To identify the documentary and operational transition that requires source-specific reconstruction.
+
+**Proof status:** Analytical construct, not a documentary fact. Its application requires identified EUIDs and a tested proposition.
+
+**Related terms:** reopening rule; adjunct versus substitute; peripheral/Podiatry partition.
+
+**Controlling example:** The record preserves `Not clear` concerning the relationship of the feet to the neurological syndrome and later records a podiatry disposition; whether that sequence constituted an operational partition is an analysis, not metadata.
 
 | Term | Class | Controlled meaning |
 |---|---|---|

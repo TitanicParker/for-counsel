@@ -1,5 +1,14 @@
 # For Counsel
 
+> **Evidence-control notice (13 August 2026):** Repository restructuring is governed by [`REPOSITORY_CONTROL.md`](REPOSITORY_CONTROL.md). The source/EUID/proposition chain controls over rhetorical force. The first EUID corpus is a pilot; full clinical-corpus migration is not complete.
+
+Control entry points:
+
+- [`CONTROLLING_EVIDENTIAL_AND_CASE_THEORY_MEMORANDUM.md`](CONTROLLING_EVIDENTIAL_AND_CASE_THEORY_MEMORANDUM.md)
+- [`evidence/SOURCE_EXHIBIT_MANIFEST.md`](evidence/SOURCE_EXHIBIT_MANIFEST.md)
+- [`evidence/SOURCE_PROPOSITION_MATRIX.md`](evidence/SOURCE_PROPOSITION_MATRIX.md)
+- [`evidence/CONTROLLED_ANALYTICAL_GLOSSARY.md`](evidence/CONTROLLED_ANALYTICAL_GLOSSARY.md)
+
 ## Ten-minute read: what this case is really about
 
 This repository concerns a young-onset movement-disorder case in which the **evidence changed repeatedly, but the governing clinical frame appears not to have changed with it**.
@@ -90,9 +99,9 @@ The present recollection is important because it materially agrees with contempo
 
 This gives the case an unusually clean early experiment:
 
-> **GP referral: gait + feet + tension**  
-> **Neurological treatment: procyclidine**  
-> **Observed response: gait, tension and feet improve together**  
+> **GP referral: gait + feet + tension**
+> **Neurological treatment: procyclidine**
+> **Observed response: gait, tension and feet improve together**
 > **Withdrawal: the system deteriorates again**
 
 Whatever the precise mechanism, Neurology had shown that the referred symptom complex could move together under neurological medication.

@@ -1,10 +1,12 @@
 # Project Evidential Orientation
 
-**Repository:** `TitanicParker/for-counsel`  
-**Active evidential branch:** `agent/source-extraction-genealogy`  
+**Repository:** `TitanicParker/for-counsel`
+**Repository control baseline:** `main` at the preservation point recorded for the EUID migration
 **Function:** navigation and evidential orientation for counsel / independent movement-disorders review. This is not pleading and does not replace the underlying records.
 
 > **Rule:** follow every material proposition into the linked source. Do not trust this README merely because it states a conclusion.
+
+Repository-layer rules and migration status are controlled by [`REPOSITORY_CONTROL.md`](REPOSITORY_CONTROL.md) and [`CONTROLLING_EVIDENTIAL_AND_CASE_THEORY_MEMORANDUM.md`](CONTROLLING_EVIDENTIAL_AND_CASE_THEORY_MEMORANDUM.md).
 
 For the current acquisition position, including what has now been directly inspected/materialised and what still requires hospital disclosure, see [`evidence-audit/source-acquisition-status.md`](evidence-audit/source-acquisition-status.md).
 

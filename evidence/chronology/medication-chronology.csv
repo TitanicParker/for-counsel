@@ -1,0 +1,2 @@
+event_id,event_date,medication,action,response_or_adverse_effect,stated_rationale,euid,source_id,native_page,notes
+MED-2017-PROCYCLIDINE-WITHDRAWAL,2017-09/10,Procyclidine,temporary_cessation,"return on the foot, of the outside left corn; symptoms got worse a bit; more shifty and unrelaxed",visual_blurring,N18-20180424-0034;N18-20180424-0035;N18-20180424-0037,N18,UNMAPPED,Retrospectively recorded on 24 April 2018; chronology wording remains source-bound.
