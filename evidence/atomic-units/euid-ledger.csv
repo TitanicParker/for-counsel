@@ -1,0 +1,5 @@
+euid,source_id,source_date,author,speaker,type,temporal_status,native_page,repo_lines,transcription_status,certainty,redaction,supersedes,notes
+N18-20180424-0034,N18,2018-04-24,Treating neurologist,clinician,report,retrospective,UNMAPPED,docs/source-records/neurology-notes-2018.html:34,manual_transcription,certain,identifiers_redacted,,Records nurse instruction and patient-observed withdrawal change.
+N18-20180424-0035,N18,2018-04-24,Treating neurologist,patient_via_clinician,report,retrospective,UNMAPPED,docs/source-records/neurology-notes-2018.html:35,manual_transcription,certain,none,,Intentionally preserved short statement unit.
+N18-20180424-0036,N18,2018-04-24,Treating neurologist,clinician,medication_status,contemporaneous,UNMAPPED,docs/source-records/neurology-notes-2018.html:36,manual_transcription,certain,none,,Intentionally preserved parenthetical fragment.
+N18-20180424-0037,N18,2018-04-24,Treating neurologist,patient_via_clinician,quotation,retrospective,UNMAPPED,docs/source-records/neurology-notes-2018.html:37,manual_transcription,certain,none,,Verbatim wording preserved.

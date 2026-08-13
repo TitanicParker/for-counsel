@@ -1,0 +1,2 @@
+source_id,title,source_date,author,recipient,native_status,representation_path,representation_type,transcription_status,redaction_status,native_page_status,sha256,git_blob,controlling_note
+N18,Neurology notes 2018,2018-04-24,Treating neurologist,GP and patient,NOT_ESTABLISHED,docs/source-records/neurology-notes-2018.html,redacted_publication_transcript,manual_transcription,redacted,UNMAPPED,ff23fec9383977879bef7ba7ddaa886e9efa9dce5360f1fbf49f0ce95d2a5ca0,4ffbc915a3e8dd51fa863c7e57b11e60a32f678d,Repository representation is derived; native exhibit controls if obtained.

@@ -52,11 +52,15 @@ Search for stale statements that acquired material remains missing. The 12 Septe
 
 ### 8. Automated validation
 
-Add CI only after the repository's status and source conventions are stable enough to encode deterministically. The validator should check links, source IDs, status declarations, stale missing-source statements and transcript provenance.
+The first deterministic control is installed at `scripts/validate_evidence.py` with CI in `.github/workflows/evidence-integrity.yml`. It checks the machine-readable source/EUID layer and prohibits unsupported printed-page locators. Expand it as each convention becomes sufficiently stable to encode.
 
 CI should never adjudicate contested clinical or legal conclusions.
 
-### 9. Privacy/publication control
+### 9. EUID migration
+
+The permanent identifier syntax and insertion rule are controlled by `REPOSITORY_CONTROL.md`. `N18-20180424` is the initial pilot. Complete source-by-source assignment only after the pilot is manually checked; do not bulk-renumber later units if an omission is restored.
+
+### 10. Privacy/publication control
 
 Apply `evidence/PUBLICATION_AND_PRIVACY_REVIEW.md` before large public rotations. Public verification and private exhibit preservation are separate functions.
 
