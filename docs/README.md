@@ -1,14 +1,53 @@
 # Docs — Analytical Reading Order
 
-**Updated:** 13 August 2026
+**Updated:** 14 August 2026
 
-This directory contains source records and analytical audits supporting the current case architecture.
+This directory contains the counsel-facing reader layer, source records, analytical audits and the current governance synthesis for the case.
 
-The controlling present-outlook document remains:
+## Start here — governance synthesis
 
-- [`../CURRENT_CASE_POSITION_2026-08-13.md`](../CURRENT_CASE_POSITION_2026-08-13.md) — current case architecture: management invariance, omission, asymmetric integration, knowledge asymmetry, record impeachment, local versus global updating, and the present state-of-mind ladder.
+The principal governance-level synthesis is now:
 
-## Current high-priority analytical audits
+- **[Reconstruction After the Protest — styled reader](governance-synthesis.html)**
+- **[Reconstruction After the Protest — source Markdown](COUNSEL_RECONSTRUCTION_AFTER_THE_PROTEST_2026-08-14.md)**
+
+This document does **not** replace the evidence-control system or the 13 August record-based analyses. It sits above them as the institutional synthesis that explains how the established documentary pattern could persist.
+
+Its controlling question is:
+
+> **Who owned the duty to change the meaning of the case, rather than merely change the patient's medication?**
+
+Its principal governance mechanism is:
+
+> **Local updating without global updating.**
+
+The synthesis treats the moment immediately after the reported 10 July 2017 bedside protest as the key institutional hinge. It asks what adjudicative process occurred, failed to occur, or remains undocumented before the operative plan became the durable discharge history. It then traces how later neurological evidence could repeatedly change treatment without visibly producing a corresponding reconstruction of the original foot/Podiatry partition.
+
+The styled reader renders the complete Markdown source in a counsel-facing document view with a persistent table of contents and direct links back to the source and evidential substrate.
+
+---
+
+## Evidential substrate — controlling 13 August documents
+
+The 14 August governance synthesis must be read downward into the controlled evidential architecture rather than as a substitute for it.
+
+Primary control entry points:
+
+- [`../CONTROLLING_EVIDENTIAL_AND_CASE_THEORY_MEMORANDUM.md`](../CONTROLLING_EVIDENTIAL_AND_CASE_THEORY_MEMORANDUM.md) — controlling evidential boundary and source/EUID/proposition discipline.
+- [`../CURRENT_CASE_POSITION_2026-08-13.md`](../CURRENT_CASE_POSITION_2026-08-13.md) — management invariance, material omission, asymmetric integration and record impeachment.
+- [`../READER_ARCHITECTURE.md`](../READER_ARCHITECTURE.md) — governing story/proof/patient-voice reader architecture.
+- [`../CASE_ARGUMENT_AND_SURVIVING_RECORD_2026-08-13.md`](../CASE_ARGUMENT_AND_SURVIVING_RECORD_2026-08-13.md) — controlling contraction: decision → contradiction → preservation → reconstruction.
+- [`../PRESENT_OUTLOOK_2026-08-13.md`](../PRESENT_OUTLOOK_2026-08-13.md) — partition-and-reintegration outlook and current expert question.
+
+The relationship between the layers is:
+
+> **13 August establishes the documentary pathology. 14 August supplies the governance physiology capable of producing it.**
+
+The evidential layer establishes early partition, management invariance, omitted dissent, later contradictory evidence, local updating, asymmetric integration and targeted record impeachment. The governance layer identifies the missing post-protest adjudicative bridge, ownership of longitudinal synthesis, senior-policy stickiness, absence of reopening/falsification rules, distributed treatment authority, and the prospective-versus-retrospective information asymmetry.
+
+---
+
+## High-priority analytical audits
 
 ### 1. Management-plan invariance — record-only baseline
 
@@ -16,17 +55,16 @@ The controlling present-outlook document remains:
 
 This is the principal record-only audit. It asks whether the patient's evolving condition governed the management plan, or whether an early management plan became the architecture within which later evidence was interpreted.
 
-Its key findings include:
+Core findings include:
 
 - July 2017 diagnostic, genetic and foot/movement uncertainty coexisted with a substantially settled operational plan;
 - the foot/movement relationship was expressly `Not clear`, while Podiatry became operative in practice;
-- the discharge Genetics/Therapy reasoning treated firm genetic diagnosis as usually not actively changing management and prolonged dopaminergic caution as applying `whatever` the genetic cause;
+- genetics were framed as usually not actively changing management;
+- prolonged dopaminergic caution was framed as applying `whatever` the genetic cause;
 - no documented global reopening rule was identified;
-- Monaghan's pre-Healy wording — `Myself and Tim are keen to hold back on Levodopa ... unless you'd advise otherwise?` — created an external policy-level escape clause;
-- Healy strengthened probable PARK II and described relatively low dopamine replacement with avoidance of over-use, but no identified note shows explicit reconciliation with the pre-existing prolonged-deferral policy;
+- Healy strengthened probable PARK II and described relatively low dopamine replacement with avoidance of over-use, without an identified formal reconciliation with Galway's pre-existing prolonged-deferral policy;
 - April 2018 records suspected PARK2/PRKN, the Procyclidine foot-domain signal, anticipated substantial levodopa benefit, and affirmative continuation of the pre-existing policy;
-- later care changed repeatedly at the level of drugs, doses and immediate symptoms, but no identified event performed a global historical reconstruction of the original partition;
-- the strongest overall documentary model is **path-dependent management**, with conscious interpretive accommodation demonstrable by 2025 but improper motive not proved.
+- later care changed repeatedly at the level of drugs, doses and immediate symptoms without an identified global historical reconstruction.
 
 Core formulation:
 
@@ -40,27 +78,14 @@ And:
 
 - [`COUNTERFACTUAL_IMPEACHMENT_AUDIT_CORROBORATED_BEDSIDE_PROTEST_2017_2026.md`](COUNTERFACTUAL_IMPEACHMENT_AUDIT_CORROBORATED_BEDSIDE_PROTEST_2017_2026.md)
 
-This audit must be read as a **counterfactual evidential analysis**, not as a finding that witness corroboration has already occurred.
+This audit tests what changes if independent medical students corroborate the essential pre-discharge bedside event reported by the patient.
 
-It asks what changes if one or more independent medical students credibly corroborate the essential pre-discharge bedside event reported by the patient.
+It separates:
 
-The audit strictly separates:
-
-1. **Protest** — independent witness evidence would establish that the treating neurologist personally knew before discharge that the patient considered the central foot problem unresolved, rejected Podiatry as a sufficient answer to the whole problem, and challenged discharge on that basis.
-2. **Omission** — comparison with the finished discharge summary would establish that this material challenge was absent from the durable narrative while the document recorded `Not clear`, Podiatry, the treatment architecture and `good understanding`.
+1. **Protest** — witness evidence establishes the live patient challenge and the clinician's knowledge of it.
+2. **Omission** — comparison with the finished discharge summary establishes whether that challenge is absent from the durable narrative.
 
 Its principal consequence is not automatic proof of dishonesty. It is a change in the evidential character of the foundational document.
-
-Under credible independent corroboration:
-
-- actual knowledge that the architecture was contested would move to July 2017;
-- Podiatry could no longer safely be described as an uncontested or consensual disposition;
-- `good understanding` could support comprehension only, not agreement, satisfaction or absence of protest;
-- the patient would have supplied a practical global reopening signal before discharge despite the absence of a formal reopening rule;
-- the discharge summary would become materially impeached as a neutral or complete narrative of patient position and consensual closure, while remaining usable for objective findings, tests, prescriptions and the fact of clinician decisions;
-- later clinicians might still have relied innocently on the chart, but they would have inherited an informational starting point that materially understated known conflict;
-- April 2018 would strengthen from conscious policy maintenance toward strong conscious non-integration of a known prior dispute plus later neurological treatment-response evidence;
-- the whole-course model would remain path dependence, but with a concrete upstream documentary defect; knowing frame preservation would become a materially stronger and earlier hypothesis, while deliberate deception would remain unproved.
 
 Core formulation:
 
@@ -70,53 +95,74 @@ And:
 
 > **Independent corroboration would not merely add another fact. It would change the evidential character of the foundational discharge document itself.**
 
-## How the two audits fit together
+### 3. Restored protest dependency audit
 
-Read the two audits in sequence.
+- [`../analysis/supporting/RESTORED_FOOT_PROTEST_DEPENDENCY_AUDIT_2026-08-13.md`](../analysis/supporting/RESTORED_FOOT_PROTEST_DEPENDENCY_AUDIT_2026-08-13.md)
 
-### Baseline A — record alone
+This is the stipulated-premise analysis of how much of the apparent consensual completeness of the 2017 foot/Podiatry disposition depends on omission of the reported protest.
 
-The strongest present conclusion is:
+### 4. Patient-centred causal ruling
 
-> **An initially defensible July 2017 plan became a durable, path-dependent architecture. Later evidence changed treatment locally without an identified global historical reconstruction.**
+- [`PATIENT_CENTRED_CAUSAL_RULING_FEET_LEVODOPA_2021_2025.md`](PATIENT_CENTRED_CAUSAL_RULING_FEET_LEVODOPA_2021_2025.md)
 
-### Counterfactual B — if the protest is independently corroborated
+This preserves the feet as the principal functional and experiential interface without collapsing mixed structural and neurological mechanisms into a single cause.
 
-The origin of that path dependence becomes materially different:
+---
 
-> **The treating neurologist would have actual pre-discharge knowledge that the operative partition was contested, while the foundational document transmitted the architecture without transmitting the challenge.**
+## The 14 August governance advances
 
-This would supply a plausible upstream mechanism for later documentary and clinical inheritance:
+The governance synthesis promotes four propositions that were implicit or distributed across the earlier repository into explicit organising rules:
 
-> **`Not clear` + operative Podiatry + patient challenge + challenge absent from durable narrative → later readers inherit `Not clear + Podiatry + good understanding` without inheriting the contemporaneous objection to that arrangement.**
+1. **The missing adjudicative bridge** — what happened between the patient's challenge and completion of the durable discharge narrative?
+2. **The omitted protest as a removed reopening trigger** — later evidence can appear newly arising rather than as evidence answering an unresolved question preserved from admission.
+3. **Ownership of meaning / epistemic integration** — the continuity function is not merely prescribing and note-taking; someone must own synthesis, reconsideration and escalation.
+4. **Prospective adaptability with retrospective non-corrigibility** — the same foot evidence may become authoritative enough to change tomorrow's prescription without receiving equivalent authority to change yesterday's formulation.
 
-Downstream reliance could remain innocent. It would nevertheless be reliance on a materially incomplete informational starting point.
+These propositions do not require an allegation of improper motive. They define a governance structure that can arise through ordinary fragmentation, hierarchy, delegation, inherited problem lists, append-only documentation and absent reopening rules. The evidential task is to distinguish ordinary institutional failure from conscious preservation at particular decision points.
 
-## Current controlling questions
+---
 
-Every new source should be tested against the same questions:
+## Current control questions
+
+Every new source should now be tested at two levels.
+
+### Evidential level
 
 1. What did the source add to the patient's actual condition?
 2. What earlier proposition did it threaten?
 3. Did it make `Not clear` more clear?
 4. What changed locally?
 5. What changed globally?
-6. Did Podiatry ownership, peripheral-neuropathy authority, levodopa policy, genetic significance, patient-position interpretation or the historical account get reopened?
-7. What did the continuity clinician personally know at that point?
-8. What was recorded, omitted, inherited or retrospectively reclassified?
-9. What evidence could falsify the governing explanation?
-10. Does the source strengthen ordinary adaptive care, path-dependent management, or knowing frame preservation?
+6. What did the continuity clinician personally know?
+7. What was recorded, omitted, inherited or retrospectively reclassified?
+8. What evidence could falsify the governing explanation?
+
+### Governance level
+
+1. Who owned the unresolved cross-domain question at this point?
+2. Did the new information trigger an explicit reconsideration of the inherited architecture?
+3. If the architecture was retained, where is the visible adjudication showing conscious renewal rather than mere continuation?
+4. Did information travel back through the authority structure?
+5. Was the observation treated only as a treatment fact, or also as a model-testing fact?
+6. What reopening or falsification rule existed?
+7. Did the patient's disagreement remain visible as a standing longitudinal question?
+8. Who had responsibility to change the meaning of the case?
+
+---
 
 ## Immediate evidential priorities
 
-The highest-value unresolved materials remain:
+Highest-value unresolved materials remain:
 
-- complete native Podiatry Article 15 pathway, especially referral provenance, what was treated, what was communicated back, and **when and why the pathway ended**;
-- independent identification and uncontaminated recollection of the medical students present for the reported pre-discharge protest;
-- native Complex Case Meeting record and exact senior treatment advice/review thresholds;
-- objective patient-specific evidence, if any, establishing peripheral neuropathy and its cause;
-- complete PAR/SIMT source schedule, attachments, expert input and deliberative record;
-- EHR/version/drafting history relevant to the discharge summary if obtainable.
+- independent identification and uncontaminated recollection of the four medical students present for the reported pre-discharge protest;
+- records generated between the reported 10 July encounter and completion/transmission of the discharge account, including drafts/version history, ward notes, consultant discussions and discharge coordination;
+- native Complex Case Meeting material and exact senior treatment advice/review thresholds;
+- complete native Podiatry Article 15 pathway, especially referral provenance, feedback, what was treated, and when/why the pathway ended;
+- any explicit treatment-response protocol mapping feet, gait, curling, morning state, dose onset/wearing-off and overnight state;
+- any proposition-level reconsideration after Procyclidine response, the parkinsonian foot finding, 2023 OFF reasoning, 2025 CR relief or 2026 PRKN confirmation;
+- complete PAR/SIMT source schedule, attachments, expert input and deliberative record.
+
+---
 
 ## Evidential discipline
 
@@ -127,10 +173,15 @@ Do not overclaim that:
 - Podiatry was inherently inappropriate;
 - Healy ordered immediate levodopa;
 - Procyclidine proves the response levodopa would have produced;
-- witness corroboration presently exists before it is actually obtained;
-- conscious accommodation proves dishonesty;
-- 2026 PRKN confirmation retrospectively determines every 2017 symptom or the standard of care.
+- later treatment benefit proves the historical standard of care;
+- local updating without global updating proves dishonest intent;
+- absence of a document proves no reconsideration ever occurred;
+- 2026 PRKN confirmation retrospectively determines every 2017 symptom.
 
-The current case is stronger when it remains proposition-specific:
+The repository is strongest when it asks a narrower, testable institutional question:
 
-> **Reconstruct how the management architecture acquired authority, identify what evidence could change it, and determine whether later contradictory evidence governed the architecture or was merely accommodated within it. At the same time, test whether the foundational record fairly preserved the patient's contemporaneous position at the point where uncertainty became operative partition.**
+> **Was new information allowed to govern the model, or only the next action taken inside the model?**
+
+And the final governance question is:
+
+> **Who owned the duty to change the meaning of the case?**
