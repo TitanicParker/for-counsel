@@ -27,6 +27,37 @@ The styled reader renders the complete Markdown source in a counsel-facing docum
 
 ---
 
+## GDPR / data-governance control layer
+
+The current data-governance control document is:
+
+- **[`GDPR_DATA_GOVERNANCE_POSITION_2026-08-14.md`](GDPR_DATA_GOVERNANCE_POSITION_2026-08-14.md)**
+
+This document preserves a critical distinction:
+
+> **Do not confuse what is presently proved, what is presently under regulatory assessment, and what the repository has newly made capable of proof.**
+
+It maps four controller strands separately:
+
+1. **HSE / Galway University Hospitals** — DPC case `C-25-7-2074`; the DPC stated on 10 August 2026 that the submitted Articles 15/16/18 issues are under assessment.
+2. **University of Galway** — separate complaint submitted and acknowledged on 10 August 2026 under DPC reference `DPC0826812075`; acknowledgement is not a merits finding or proof of CAERU/investigation status.
+3. **PCRS / HSE** — Article 77 complaint submitted 9 December 2025 concerning the LTI-data accuracy / verification / restriction dispute, controller reference `DP250646`.
+4. **Medical Council of Ireland** — Article 77 complaint submitted 9 December 2025 concerning disputed factual/evaluative personal data in the 29 July 2025 decision and the Council's later GDPR refusal position.
+
+A generic DPC acknowledgement dated 10 December 2025 and later CAERU transfer correspondence carry reference `DPC1225866728`; the presently reviewed email evidence does not safely identify whether that reference belongs to the PCRS complaint or the Medical Council complaint, so the repository deliberately leaves the attribution unresolved.
+
+The GDPR layer applies the same forensic method as the clinical governance case:
+
+> **EVENT → STATE → WHAT HAPPENED? → NEXT STATE**
+
+It therefore treats the HSE / GUH Article 18 sequence as a contemporary missing-adjudicative-bridge question without assuming a breach:
+
+> 4 August 2025 restriction invoked → **WHAT HAPPENED?** → later SIMT use of clinical material.
+
+The GDPR control document is analytical. Its underlying source pages are indexed in [`source-records/README.md`](source-records/README.md), and complaints are treated as evidence of allegations placed before a regulator rather than as findings.
+
+---
+
 ## Evidential substrate — controlling 13 August documents
 
 The 14 August governance synthesis must be read downward into the controlled evidential architecture rather than as a substitute for it.
@@ -160,7 +191,9 @@ Highest-value unresolved materials remain:
 - complete native Podiatry Article 15 pathway, especially referral provenance, feedback, what was treated, and when/why the pathway ended;
 - any explicit treatment-response protocol mapping feet, gait, curling, morning state, dose onset/wearing-off and overnight state;
 - any proposition-level reconsideration after Procyclidine response, the parkinsonian foot finding, 2023 OFF reasoning, 2025 CR relief or 2026 PRKN confirmation;
-- complete PAR/SIMT source schedule, attachments, expert input and deliberative record.
+- complete PAR/SIMT source schedule, attachments, expert input and deliberative record;
+- controller-side audit trails for the 4 August 2025 HSE / GUH Article 18 request and the November 2025 University rights request;
+- regulator correspondence capable of resolving whether `DPC1225866728` belongs to the PCRS or Medical Council Article 77 complaint.
 
 ---
 
@@ -176,7 +209,10 @@ Do not overclaim that:
 - later treatment benefit proves the historical standard of care;
 - local updating without global updating proves dishonest intent;
 - absence of a document proves no reconsideration ever occurred;
-- 2026 PRKN confirmation retrospectively determines every 2017 symptom.
+- 2026 PRKN confirmation retrospectively determines every 2017 symptom;
+- a GDPR complaint proves the alleged infringement;
+- a DPC acknowledgement is a merits determination;
+- similar responses by different controllers prove a common policy or systemic intent.
 
 The repository is strongest when it asks a narrower, testable institutional question:
 
