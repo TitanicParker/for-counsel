@@ -63,16 +63,27 @@ For the current acquisition/completeness position see [`../../evidence-audit/sou
 - `simt-outcome-2025-09-03.md`
 - `gdpr-article16-decision-clinical-2025-09-06.md`
 - `gdpr-article16-decision-qps-2025-09-06.md`
+- `pcrs-gdpr-final-position-2025-12-08.md` — PCRS final GDPR position on the disputed LTI date plus the 9 December draft-letter provenance event.
+- `pcrs-article77-complaint-2025-12-09.md` — data-subject Article 77 complaint concerning PCRS; complaint allegations are not regulator findings.
+- `medical-council-gdpr-refusal-2025-12-08.md` — Medical Council Information Governance refusal position concerning Articles 16, 17, 18 and 19.
+- `medical-council-article77-complaint-2025-12-09.md` — data-subject Article 77 complaint concerning the Medical Council; complaint allegations are not regulator findings.
+- `dpc-december-2025-complaint-status.md` — 10 December DPC acknowledgement / 27 January CAERU transfer; present evidence does not safely attribute the DPC reference to PCRS rather than the Medical Council complaint or vice versa.
 - `dpc-reengagement-2026-01-13.md`
 - `gdpr-renewed-article16-18-2026-01-14.md`
 - `qps-response-2026-01-26.md`
 - `gdpr-dpo-clarification-2026-01-27.md`
 - `genetics-prkn-2026-02-04.md`
 - `dpc-notification-no-guh-dpo-response-2026-02-16.md`
+- `dpc-hse-guh-assessment-2026-08-10.md` — DPC confirmation that the HSE / Galway University Hospitals Articles 15/16/18 issues in `C-25-7-2074` are under assessment.
+- `dpc-university-of-galway-complaint-2026-08-10.md` — separate University of Galway GDPR complaint and DPC acknowledgement under `DPC0826812075`.
 
 ## Source-status caution
 
 The original message, attachment, PDF or image remains the controlling source. A later source may be primary evidence of what was said or decided at that later date while remaining derivative as proof of an earlier historical event.
+
+An Article 77 complaint is primary evidence that allegations and legal propositions were placed before the regulator. It is not a regulator finding that those allegations or propositions are correct.
+
+A DPC acknowledgement establishes receipt and case administration only unless the correspondence expressly states a stronger procedural status. The HSE / Galway University Hospitals correspondence of 10 August 2026 expressly states that the submitted issues are under assessment; the separate University acknowledgement does not, on its face, establish that same stage.
 
 The 12 September 2017 Healy letter is now a direct historical source for Healy's own opinion and treatment wording. It should no longer be described elsewhere in the repository as a missing substantive source. A preservation-quality native/redacted exhibit remains desirable.
 
