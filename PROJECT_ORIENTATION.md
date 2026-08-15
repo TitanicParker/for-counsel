@@ -12,6 +12,36 @@ For the current acquisition position, including what has now been directly inspe
 
 ---
 
+## Plain-language orientation — the two-domain ratchet
+
+This is the simplest present description of the case architecture.
+
+The GP referral initially presented the feet, gait, abnormal movement and neurological deterioration as one clinical problem. During the July 2017 admission Neurology identified genuine severe Parkinsonism, but conditionally separated the disabling foot/lower-limb problem from the Parkinsonian syndrome while expressly recording that the relationship was **“Not clear.”** Podiatry became the operative pathway for the feet.
+
+Before that relationship had been resolved, however, the Parkinson's side of the model had already been made operational outside the unresolved clinical formulation. The GP record says Podiatry would prioritise the case **“as Parkinson's”**; Parkinson's disease was used for the 9 July 2017 Long Term Illness Scheme application; and the neurological management plan had already been organised around Parkinsonism. The significance of the LTI record is therefore not that the umbrella term Parkinson's was necessarily wrong. It is that an incompletely resolved clinical formulation had already been converted into a durable administrative and management state.
+
+**INFERENCE / ANALYTICAL LABEL:** this is an **administrative ratchet**. Once the provisional partition had been propagated into treatment, referral and entitlement systems, reopening it required more than recognising a new symptom or changing a prescription. It required somebody to revisit the inherited two-domain model itself and, if necessary, qualify or reverse decisions that had already been externalised into institutional systems.
+
+The reported bedside protest is important because it occurred after that operational commitment. If independently corroborated, it would show that the patient expressly challenged the sufficiency of the foot disposition at a point when the hospital was already committed to the Parkinson's / Podiatry / LTI / management architecture. The present record does not show the adjudicative bridge by which that challenge was accepted, rejected, qualified or otherwise resolved before the existing architecture survived into discharge.
+
+Procyclidine then becomes the clearest functional challenge to the partition. The later record preserves that withdrawal and reintroduction affected the foot phenomenon and the broader neurological state together. In that sense, the body supplied evidence capable of reunifying what the paperwork had operationally separated. Treatment could change in response. The historical model is not presently shown changing with it.
+
+The same pattern can then be tested longitudinally:
+
+> **integrated presentation → conditional partition while relationship “Not clear” → Parkinson's operationalised through management, GP/Podiatry and LTI → reported protest → no presently located global reopening → Procyclidine response → local treatment updating → partition survives → probable PARK II / suspected PRKN → no presently located global reopening → later parkinsonian foot findings → OFF/dystonia/wearing-off evidence → dopamine-responsive foot pain → PRKN confirmation of Parkinsonism and dystonia.**
+
+The controlling proposition is therefore not that every historical foot symptom was dystonia, that Podiatry was inherently wrong, or that Parkinson's disease was an incorrect umbrella diagnosis. It is narrower:
+
+> **The apparent problem is not simply diagnostic separation. It is the premature institutionalisation of a provisional separation. Before the relationship between Parkinsonism and the feet had been resolved, the Parkinson's limb of the model had already been propagated into treatment, referral and entitlement systems. Later evidence repeatedly became capable of changing management, but no presently identified record shows that it produced a global reopening of the inherited two-domain architecture.**
+
+The shortest orientation is:
+
+> **The body was allowed to become one again. The history remained two.**
+
+This remains an evidential hypothesis to be tested. A contemporaneous record showing that the two-domain model was expressly reconsidered and retained for stated reasons would supply the missing adjudicative bridge and materially qualify this orientation.
+
+---
+
 ## 1. Evidential labels
 
 - **PRIMARY FACT** — directly recorded event, observation, test, treatment or contemporaneous communication.
